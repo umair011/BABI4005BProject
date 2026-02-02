@@ -36,4 +36,9 @@ The notebook includes:
 
 The analysis focuses on indentifying trends in sleep duration and efficiency and exploring relationships betweeen sleep quality and lifestyle habits.
 
+## AI Declaration
+
+Guidance and help for fixing errors in code and Command Prompt were provided by an AI assistant (ChatGPT Go Model).
+All analysis, interpretations, visualizations, and conclusions were done by the student.
+
 
