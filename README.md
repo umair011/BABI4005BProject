@@ -1,7 +1,7 @@
 # Sleep Study Data Analysis
 
 ## Overview
-This project analyzes a sleep study dataset containing demographic information, sleep metrics, and lifestyle factors. The goal of thise analysis is to find patterns in sleep duration, sleep efficiency, sleep stages (REM, Deep sleep, Light sleep), and how lifestyle habits such as exercise, caffeine, alcohol consumption, and smoking may relate to sleep Quality
+This project analyzes a sleep study dataset containing demographic information, sleep metrics, and lifestyle factors. The goal of this analysis is to find patterns in sleep duration, sleep efficiency, sleep stages (REM, Deep sleep, Light sleep), and how lifestyle habits such as exercise, caffeine, alcohol consumption, and smoking may relate to sleep Quality
 
 ## Dataset Source
 
