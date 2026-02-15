@@ -36,6 +36,10 @@ The notebook includes:
 
 The analysis focuses on indentifying trends in sleep duration and efficiency and exploring relationships betweeen sleep quality and lifestyle habits.
 
+## Repository Rename
+
+This repository was originall named "BABY4005BProject and was renamed to better reflect the scope of the analysis.
+
 ## AI Declaration
 
 Guidance and help for fixing errors in code and Command Prompt were provided by an AI assistant (ChatGPT Go Model).
