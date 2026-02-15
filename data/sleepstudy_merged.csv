@@ -1,0 +1,1001 @@
+ID,Age,Gender,Bedtime,WakeupTime,SleepDuration,SleepEfficiency,REMSleepPercentage,DeepSleepPercentage,LightSleepPercentage,Awakenings,CaffeineConsumption,AlcoholConsumption,SmokingStatus,ExerciseFrequency,City,WorkType,Chronotype,Device,ScreenTimeHours,StressLevel,BMI,CoffeePreference,SleepAidUse
+1,80,Female,2025-09-30 7:32,49:16.7,6.283241403055556,0.57,15,35,50,0,25.0,1,Yes,1,Langley,Healthcare,Evening,Oura,5.0,7.0,21.7,Coffee,
+2,24,Male,2025-06-29 20:59,09:10.2,7.155613100555556,0.91,29,68,3,4,50.0,0,No,2,Vancouver,Retail,Morning,Manual Entry,3.6,8.0,24.5,Tea,
+3,37,Male,2025-12-24 21:28,31:34.3,6.050626959166667,0.58,15,35,50,3,50.0,0,No,5,Richmond,Retail,Evening,Android App,5.5,6.0,26.6,Coffee,
+4,68,Female,2025-02-22 0:25,26:37.0,7.017790750833333,0.88,28,44,28,1,50.0,0,Yes,4,Coquitlam,Student,Evening,Fitbit,3.5,6.0,28.2,,
+5,58,Male,2025-09-02 12:31,17:46.3,8.764793396666667,0.95,28,40,32,4,25.0,4,No,4,Delta,Retail,Morning,Garmin,5.6,9.0,24.6,,Melatonin
+6,24,Female,2025-10-22 9:37,08:54.2,7.525063953888888,0.86,20,37,43,2,0.0,4,Yes,1,Burnaby,Unemployed,Evening,Manual Entry,5.3,9.0,29.9,Coffee,
+7,50,Male,2025-08-24 3:21,59:50.7,5.6360286394444445,0.81,15,67,18,3,25.0,2,Yes,5,Coquitlam,Healthcare,Evening,Garmin,4.4,2.0,25.0,Energy Drink,Melatonin
+8,72,Female,2025-08-25 18:39,20:10.8,8.670780978,0.53,21,35,44,0,,4,No,3,Burnaby,Trades,Evening,Apple Watch,3.7,1.0,28.6,Coffee,
+9,25,Female,2025-03-21 10:50,29:08.3,7.646753724166667,0.68,25,35,40,2,,2,No,2,Delta,Unemployed,Evening,Manual Entry,4.8,2.0,22.8,Tea,Melatonin
+10,18,Female,2025-08-28 22:29,30:57.0,5.031381875277778,0.76,26,59,15,5,25.0,3,Yes,2,New Westminster,Student,Intermediate,Oura,5.5,7.0,16.8,Energy Drink,Melatonin
+11,34,Female,2025-07-12 3:17,28:50.6,5.193210553888888,0.82,23,27,50,3,25.0,4,Yes,3,Coquitlam,Healthcare,Morning,Oura,8.2,6.0,26.2,Energy Drink,
+12,59,Female,2025-09-11 21:50,11:35.3,7.350637237222223,0.51,28,62,10,4,25.0,0,Yes,3,Richmond,Retail,Evening,Garmin,6.2,1.0,28.3,Energy Drink,Herbal
+13,23,Female,2025-08-12 14:27,56:38.9,7.489143013055555,0.68,28,58,14,3,0.0,2,No,1,Burnaby,Healthcare,Intermediate,Fitbit,6.3,3.0,27.6,Coffee,
+14,24,Female,2025-03-19 10:17,12:42.9,6.918310328,0.7,30,47,23,0,0.0,1,Yes,0,Victoria,Unemployed,Intermediate,Garmin,10.1,6.0,26.9,Energy Drink,
+15,45,Male,2025-03-16 0:37,27:54.3,8.847569903333333,0.95,22,49,29,4,25.0,2,Yes,3,New Westminster,Healthcare,Intermediate,Garmin,,8.0,23.4,Tea,Melatonin
+16,68,Male,2025-05-15 12:39,51:27.2,5.200899031111111,0.54,22,64,14,1,0.0,0,No,4,Richmond,Unemployed,Intermediate,Manual Entry,5.4,4.0,21.4,Coffee,
+17,39,Female,2025-09-01 13:17,09:22.1,8.864750936944445,0.89,16,42,42,2,,3,Yes,2,Coquitlam,Student,Morning,Apple Watch,5.8,10.0,27.5,Coffee,
+18,78,Female,2025-11-17 9:44,19:20.0,7.585553753,0.77,23,28,49,5,50.0,2,No,2,Delta,Tech,Intermediate,Fitbit,2.7,10.0,26.9,Tea,
+19,69,Female,2025-12-07 16:37,07:16.1,5.497538676944444,0.71,28,28,44,3,50.0,3,No,2,Delta,Retail,Morning,Garmin,3.7,8.0,22.5,Tea,
+20,55,Male,2025-06-30 23:01,57:47.4,7.937879936388889,0.87,26,53,21,0,0.0,5,No,4,Coquitlam,Office,Intermediate,Manual Entry,3.6,5.0,30.0,Coffee,
+21,60,Female,2025-07-15 18:09,10:40.1,8.016416522222222,0.77,26,28,46,0,,4,Yes,0,Richmond,Office,Evening,Garmin,5.7,9.0,21.0,,
+22,49,Female,2025-10-21 23:37,49:40.9,8.209427447777777,0.79,24,37,39,1,50.0,1,Yes,3,New Westminster,Tech,Intermediate,Garmin,,8.0,22.4,Tea,
+23,61,Female,2025-07-26 1:10,54:28.9,7.726918948333333,0.78,25,28,47,1,50.0,0,Yes,4,New Westminster,Tech,Intermediate,Android App,4.7,6.0,32.4,Coffee,
+24,48,Female,2025-11-11 2:00,16:05.0,8.258335190833334,0.91,15,27,58,1,50.0,3,No,2,North Vancouver,Retail,Intermediate,Oura,6.5,5.0,28.9,Coffee,
+25,20,Female,2026-01-15 19:09,12:33.4,8.048991571944445,0.51,28,67,5,2,0.0,2,Yes,3,Vancouver,Student,Evening,Apple Watch,6.1,9.0,23.4,Tea,
+26,78,Female,2025-02-25 23:29,38:39.7,6.154904964166667,0.54,26,61,13,2,25.0,1,Yes,1,Coquitlam,Retail,Intermediate,Manual Entry,4.2,6.0,26.3,Tea,
+27,29,Male,2026-01-02 14:44,04:04.7,6.319910886111111,0.81,21,59,20,2,25.0,0,No,4,New Westminster,Unemployed,Intermediate,Oura,3.3,2.0,25.7,Tea,
+28,48,Female,2025-06-28 12:03,49:08.7,8.768795110555555,0.5,24,57,19,1,,5,No,4,,,,,,,,,
+29,78,Female,2025-04-30 22:32,14:09.4,7.7020479419444445,0.69,24,44,32,3,50.0,1,Yes,0,Victoria,Student,Morning,Fitbit,6.5,10.0,16.0,Coffee,
+30,32,Female,2025-06-18 0:15,05:29.0,6.838605628611112,0.81,26,41,33,5,25.0,1,Yes,3,North Vancouver,Healthcare,Morning,Garmin,5.9,1.0,20.9,Tea,Melatonin
+31,77,Male,2025-02-27 18:24,52:45.8,8.477159403055555,0.87,21,62,17,4,0.0,1,No,4,Richmond,Healthcare,Intermediate,Manual Entry,1.6,7.0,24.8,Tea,Prescription
+32,73,Male,2025-02-18 16:35,00:00.0,5.409166028611112,0.63,17,25,58,0,25.0,5,No,5,North Vancouver,Unemployed,Evening,Garmin,3.9,7.0,23.4,Energy Drink,
+33,39,Female,2025-11-07 15:38,06:33.0,5.473889176388889,0.61,26,48,26,4,25.0,3,Yes,5,Burnaby,Trades,Intermediate,Oura,4.8,6.0,26.1,Coffee,
+34,31,Male,2025-12-02 10:23,56:15.9,5.552759680277778,0.67,16,65,19,3,25.0,1,Yes,5,Vancouver,Healthcare,Morning,Oura,5.9,1.0,30.1,Tea,Melatonin
+35,73,Male,2025-03-07 21:24,59:58.7,8.5843611,0.84,25,61,14,2,,4,No,5,New Westminster,Tech,Evening,Android App,6.1,5.0,23.6,Coffee,Melatonin
+36,63,Male,2025-05-04 3:49,03:38.6,6.238219048333334,0.74,26,67,7,4,25.0,2,Yes,5,Victoria,Student,Intermediate,Manual Entry,5.0,9.0,20.2,Coffee,
+37,43,Male,2025-01-18 23:34,44:44.4,5.178159125277777,0.77,28,28,44,2,25.0,0,Yes,1,Langley,Hospitality,Evening,Fitbit,5.6,3.0,26.5,Tea,
+38,51,Male,2026-01-06 3:55,19:11.3,6.39395925,0.58,30,60,10,3,50.0,5,No,0,North Vancouver,Hospitality,Morning,Oura,4.6,7.0,23.5,Tea,
+39,31,Male,2025-11-30 14:56,11:05.0,6.2450060291666665,0.81,16,58,26,1,0.0,2,Yes,2,Vancouver,Tech,Intermediate,Oura,3.3,9.0,24.3,Coffee,
+40,62,Male,2025-11-04 11:42,25:02.5,6.713751474722223,0.61,24,29,47,4,,4,Yes,4,Victoria,Tech,Evening,Fitbit,4.0,10.0,23.7,Tea,Prescription
+41,62,Male,2025-09-11 1:25,13:34.0,5.806402266388889,0.76,20,49,31,5,50.0,0,Yes,0,Coquitlam,Tech,Intermediate,Android App,4.5,6.0,35.1,Coffee,
+42,26,Male,2025-04-30 9:48,02:40.0,8.232772350555555,0.79,27,33,40,3,25.0,3,Yes,2,Surrey,Hospitality,Intermediate,Fitbit,4.4,4.0,16.0,Coffee,
+43,39,Female,2025-06-30 2:41,16:15.0,7.574158617499999,0.74,28,39,33,3,0.0,2,No,2,Langley,Unemployed,Evening,Garmin,1.1,7.0,23.3,Coffee,
+44,68,Male,2025-07-25 6:50,24:53.0,5.581389323055556,0.84,28,57,15,1,,2,No,2,Delta,Healthcare,Morning,Apple Watch,3.8,5.0,25.0,Coffee,Melatonin
+45,55,Female,2025-08-08 6:46,39:42.6,7.884345748888888,0.84,26,63,11,3,25.0,0,Yes,1,Delta,Healthcare,Morning,Fitbit,4.6,7.0,21.5,Tea,
+46,47,Female,2025-03-27 14:39,52:25.9,5.208029846944444,0.73,18,54,28,2,0.0,3,Yes,1,Surrey,Tech,Intermediate,Android App,4.0,8.0,29.0,Energy Drink,Melatonin
+47,77,Male,2025-05-06 19:17,24:25.9,5.1110931313888885,0.8,29,31,40,1,25.0,0,Yes,3,Victoria,Office,Intermediate,Apple Watch,4.1,8.0,28.7,Tea,
+48,60,Female,2025-05-17 2:42,40:51.5,5.979040463055555,0.84,28,39,33,4,50.0,2,No,1,Coquitlam,Hospitality,Morning,Apple Watch,5.4,3.0,24.8,Coffee,
+49,61,Male,2025-10-26 1:53,20:53.7,7.458517440833334,0.65,20,47,33,0,0.0,1,Yes,4,North Vancouver,Hospitality,Intermediate,Manual Entry,2.6,8.0,23.8,Coffee,
+50,40,Male,2025-02-19 4:39,44:10.2,7.076710361111111,0.58,15,38,47,2,25.0,3,No,3,Delta,Tech,Evening,Manual Entry,1.6,6.0,24.5,Coffee,
+51,20,Male,2025-09-29 5:22,56:26.4,7.569553867222222,0.67,26,42,32,2,,1,Yes,0,New Westminster,Trades,Intermediate,Fitbit,3.9,10.0,24.5,Tea,Herbal
+52,80,Female,2025-03-03 13:55,41:09.1,8.767532380833332,0.87,22,46,32,4,25.0,1,Yes,1,,,,,,,,,
+53,42,Female,2025-10-06 21:12,09:22.7,7.943807343611112,0.64,26,42,32,1,,5,Yes,5,Burnaby,Trades,Intermediate,Apple Watch,5.9,7.0,24.6,Coffee,
+54,37,Female,2025-02-13 12:00,57:53.5,5.953763445277778,0.89,26,28,46,3,,3,Yes,2,Richmond,Healthcare,Evening,Android App,7.5,9.0,24.2,Coffee,
+55,40,Male,2025-12-13 12:20,15:20.8,6.911337026666667,0.92,24,52,24,2,25.0,0,Yes,5,Richmond,Tech,Intermediate,Android App,5.9,10.0,26.1,Tea,
+56,28,Male,2025-10-28 2:09,30:54.9,5.361630355833333,0.62,26,49,25,1,50.0,1,Yes,3,Victoria,Hospitality,Evening,Manual Entry,1.9,10.0,28.4,Tea,
+57,77,Female,2025-04-13 6:37,11:44.6,8.576823314722223,0.8,28,30,42,0,25.0,5,No,5,Delta,Tech,Intermediate,Oura,4.1,8.0,19.5,Coffee,
+58,53,Female,2025-02-11 1:47,28:16.5,5.686810116388889,0.85,16,58,26,5,,1,No,1,Richmond,Unemployed,Evening,Fitbit,5.0,6.0,20.3,Coffee,Melatonin
+59,79,Female,2025-03-03 8:52,43:28.7,5.851316098055555,0.61,21,48,31,3,,2,Yes,1,Delta,Unemployed,Intermediate,Manual Entry,4.8,2.0,17.1,Tea,
+60,47,Female,2025-05-04 13:15,34:08.0,6.305846805,0.85,21,37,42,4,,0,No,5,Delta,Tech,Morning,Fitbit,5.5,4.0,28.9,Coffee,
+61,60,Female,2025-05-31 10:06,08:44.6,8.032395619722223,0.76,21,44,35,2,50.0,5,No,0,Richmond,Trades,Evening,Fitbit,2.8,5.0,26.1,Coffee,
+62,50,Female,2025-09-16 14:54,56:11.6,6.030735067777778,0.59,25,60,15,5,,5,Yes,4,Coquitlam,Retail,Intermediate,Android App,4.6,8.0,27.3,Energy Drink,
+63,72,Male,2025-09-30 19:12,01:03.3,6.805643815555555,0.55,20,30,50,4,0.0,3,No,5,Langley,Healthcare,Morning,Oura,5.3,6.0,18.6,Coffee,
+64,61,Female,2025-05-08 22:06,06:07.1,8.998634850833334,0.74,17,57,26,3,,1,Yes,2,North Vancouver,Tech,Morning,Fitbit,6.0,5.0,33.0,Coffee,
+65,73,Female,2025-06-29 14:18,52:24.6,6.562670629166667,0.73,22,35,43,3,,0,Yes,5,Burnaby,Hospitality,Intermediate,Apple Watch,3.0,2.0,22.3,Coffee,
+66,44,Female,2025-03-05 7:18,53:34.6,8.581835453,0.8,29,30,41,3,,2,Yes,5,Delta,Trades,Morning,Oura,3.9,8.0,25.8,Coffee,
+67,71,Female,2025-08-30 21:35,30:05.4,6.904284296944445,0.66,15,66,19,5,0.0,1,No,5,North Vancouver,Retail,Intermediate,Apple Watch,0.0,5.0,28.8,Coffee,Melatonin
+68,66,Male,2025-06-05 9:56,05:27.6,7.151832733611111,0.87,29,39,32,3,,4,No,0,North Vancouver,Student,Morning,Android App,3.4,1.0,20.6,Coffee,Melatonin
+69,28,Female,2025-12-16 9:06,56:42.4,7.840954244444445,0.72,20,40,40,4,50.0,2,No,5,,,,,,,,,
+70,32,Female,2025-04-02 9:11,42:25.2,8.510054445277778,0.84,19,69,12,0,,0,Yes,3,Delta,Tech,Intermediate,Garmin,3.6,3.0,22.5,Tea,
+71,64,Male,2025-05-13 6:44,37:57.6,6.889320236944445,0.51,24,29,47,4,,3,Yes,0,Victoria,Healthcare,Intermediate,Oura,2.7,9.0,25.8,Coffee,
+72,30,Male,2025-06-21 22:31,10:27.7,5.653806251,0.92,18,68,14,5,50.0,5,Yes,1,Richmond,Healthcare,Intermediate,Garmin,4.8,2.0,37.9,Energy Drink,
+73,64,Female,2025-10-14 7:13,45:21.3,5.527864635277778,0.66,15,62,23,2,25.0,1,No,5,Coquitlam,Retail,Intermediate,Garmin,4.4,5.0,26.4,,
+74,47,Male,2025-03-10 12:20,23:53.8,7.056332071666667,0.67,26,47,27,5,25.0,1,Yes,3,Burnaby,Office,Morning,Garmin,0.4,6.0,32.2,Coffee,
+75,58,Male,2025-04-21 14:51,42:25.2,8.853389438333334,0.51,22,35,43,5,0.0,3,No,5,New Westminster,Retail,Intermediate,Android App,4.9,1.0,30.4,Coffee,
+76,70,Female,2025-12-05 21:32,16:03.8,5.727162531666666,0.69,20,25,55,5,0.0,1,No,2,Coquitlam,Tech,Intermediate,Oura,2.8,2.0,26.7,Tea,Melatonin
+77,46,Male,2025-03-14 4:15,58:16.6,6.714338753333334,0.7,22,31,47,1,,1,Yes,3,Richmond,Trades,Intermediate,Oura,5.4,10.0,20.5,,
+78,33,Male,2025-09-11 20:00,30:13.5,7.488760566666667,0.78,15,62,23,2,,1,Yes,4,New Westminster,Office,Morning,Oura,,6.0,29.8,Energy Drink,
+79,31,Male,2025-05-30 23:57,53:03.3,7.924245026944444,0.5,25,59,16,5,,3,Yes,3,Coquitlam,Healthcare,Morning,Apple Watch,4.6,3.0,18.3,Coffee,
+80,63,Female,2025-09-15 3:11,54:46.7,6.7285348902777775,0.76,17,30,53,1,0.0,2,Yes,4,Coquitlam,Office,Morning,Manual Entry,4.0,2.0,32.2,Coffee,
+81,80,Male,2025-04-26 10:59,25:34.6,6.427944742222223,0.82,27,49,24,5,50.0,1,Yes,5,Coquitlam,Trades,Intermediate,Oura,5.0,5.0,25.9,Coffee,
+82,74,Female,2025-03-11 2:23,25:07.6,8.028780606388889,0.65,29,39,32,1,,3,No,2,Surrey,Tech,Intermediate,Android App,4.7,8.0,16.0,Energy Drink,
+83,40,Male,2025-04-05 9:34,24:08.7,5.8229712113888885,0.77,25,56,19,5,50.0,1,No,5,Burnaby,Student,Evening,Manual Entry,4.0,8.0,23.5,Tea,
+84,65,Female,2025-09-21 23:36,23:44.0,7.780559514444445,0.62,26,53,21,3,25.0,0,Yes,4,Langley,Tech,Intermediate,Manual Entry,1.7,2.0,27.9,Coffee,Melatonin
+85,79,Male,2025-09-19 2:07,27:05.3,8.323704856,0.52,17,55,28,1,0.0,3,No,2,,,,,,,,,
+86,25,Male,2025-11-29 13:51,55:04.4,7.066498351666667,0.56,25,26,49,1,,1,No,4,Vancouver,Office,Intermediate,Android App,1.8,8.0,23.9,Tea,Melatonin
+87,73,Female,2025-07-16 6:00,56:00.8,7.923560406388889,0.53,28,47,25,0,0.0,3,No,2,Richmond,Unemployed,Intermediate,Android App,3.4,9.0,28.2,Coffee,
+88,61,Female,2025-04-14 6:57,17:25.9,6.338854716944445,0.76,18,37,45,3,25.0,5,Yes,5,New Westminster,Tech,Morning,Garmin,4.5,3.0,21.2,Tea,Herbal
+89,21,Male,2025-10-14 15:55,34:04.0,5.634733456388889,0.64,30,29,41,4,50.0,3,Yes,0,Burnaby,Trades,Intermediate,Android App,3.4,1.0,19.1,Coffee,
+90,45,Male,2025-12-30 5:45,16:30.7,5.511850830833334,0.86,15,56,29,2,,1,Yes,4,New Westminster,Retail,Intermediate,Apple Watch,5.6,10.0,24.7,Tea,Melatonin
+91,47,Male,2025-04-21 16:57,51:32.3,8.893684056,0.57,22,38,40,2,25.0,1,No,1,Delta,Student,Intermediate,Android App,4.0,6.0,25.1,Tea,
+92,79,Female,2025-09-28 0:09,04:38.4,7.911772903055556,0.79,17,59,24,4,0.0,5,No,0,New Westminster,Student,Morning,Fitbit,2.8,8.0,23.4,Tea,
+93,43,Female,2025-05-20 4:33,25:42.4,5.868166373611111,0.71,28,66,6,1,0.0,5,No,0,Richmond,Unemployed,Evening,Manual Entry,4.0,4.0,30.5,Coffee,
+94,69,Female,2025-03-27 10:02,40:48.0,7.639723549444444,0.91,24,35,41,2,50.0,2,Yes,0,Vancouver,Hospitality,Evening,Apple Watch,4.9,3.0,21.2,Energy Drink,
+95,72,Female,2025-09-22 2:32,23:44.1,7.858078461111112,0.57,16,47,37,3,0.0,0,No,0,Langley,Office,Morning,Oura,5.1,3.0,26.4,Tea,
+96,26,Male,2025-06-06 15:37,39:53.0,7.041121418611112,0.78,17,68,15,1,0.0,2,No,0,Richmond,Trades,Intermediate,Fitbit,7.9,3.0,25.3,Coffee,
+97,63,Male,2025-09-14 15:31,53:56.7,5.367963886944445,0.55,22,32,46,3,,4,No,4,Langley,Office,Evening,Fitbit,3.3,5.0,18.0,Coffee,
+98,39,Male,2025-04-15 15:20,48:04.9,6.4671947,0.91,29,47,24,2,50.0,2,Yes,5,Burnaby,Healthcare,Intermediate,Manual Entry,4.4,2.0,19.1,Tea,
+99,29,Male,2025-03-16 22:44,42:21.6,7.961833776666666,0.94,22,61,17,0,50.0,1,No,0,,Trades,Evening,Manual Entry,5.3,9.0,25.1,Coffee,
+100,70,Female,2025-11-05 4:20,40:04.1,7.322244005,0.69,27,30,43,1,50.0,1,No,4,Delta,Trades,Intermediate,Apple Watch,4.5,6.0,33.9,Coffee,Herbal
+101,77,Male,2025-04-14 15:54,17:49.6,5.389331339166667,0.78,18,26,56,5,50.0,3,No,4,Victoria,Retail,Evening,Fitbit,,10.0,27.6,Coffee,
+102,57,Male,2025-07-17 16:44,55:04.5,6.173188958,0.53,24,70,6,2,50.0,4,Yes,1,Langley,Office,Evening,Android App,1.7,6.0,17.2,Coffee,Prescription
+103,71,Female,2025-02-04 8:46,07:04.2,6.347275316666666,0.67,20,43,37,2,0.0,2,No,5,Delta,Unemployed,Morning,Manual Entry,3.6,4.0,16.0,Coffee,
+104,72,Female,2025-11-28 22:45,16:57.1,8.528074501388888,0.78,29,57,14,2,0.0,1,No,2,Surrey,Tech,Intermediate,Apple Watch,2.6,6.0,28.3,Tea,
+105,62,Female,2025-11-22 5:31,39:23.2,6.128117038333333,0.73,16,38,46,5,50.0,4,No,4,Victoria,Hospitality,Intermediate,Oura,1.4,2.0,24.6,Coffee,
+106,32,Male,2025-10-06 21:02,56:38.7,8.910192304444445,0.66,30,51,19,5,25.0,5,Yes,5,New Westminster,Office,Morning,Apple Watch,3.1,9.0,30.1,Tea,
+107,40,Female,2025-10-11 14:55,52:46.5,7.959576677777778,0.73,16,28,56,4,50.0,4,Yes,1,Burnaby,Tech,Intermediate,Android App,2.6,8.0,21.0,Coffee,
+108,54,Male,2026-01-08 13:02,23:59.1,8.359742622222223,0.74,16,51,33,0,50.0,4,No,4,Burnaby,Hospitality,Evening,Garmin,5.6,2.0,26.6,Coffee,Melatonin
+109,59,Female,2025-10-07 19:21,24:23.0,6.049731064722223,0.55,18,43,39,0,25.0,4,Yes,2,Langley,Office,Morning,Fitbit,5.6,6.0,28.8,Coffee,
+110,74,Male,2025-09-08 6:02,05:28.2,6.051716049166667,0.9,29,56,15,5,,2,Yes,3,Surrey,Hospitality,Intermediate,Apple Watch,2.9,6.0,23.0,Tea,Melatonin
+111,64,Male,2025-08-23 15:03,59:41.0,6.930827468888889,0.51,17,54,29,1,50.0,1,No,2,Delta,Trades,Evening,Oura,4.0,3.0,23.1,,
+112,30,Female,2025-08-26 4:46,16:49.5,7.504591579166667,0.69,26,56,18,5,,1,No,5,Burnaby,Hospitality,Intermediate,Android App,1.2,2.0,25.1,Coffee,
+113,22,Female,2026-01-13 3:18,42:29.1,6.394757911388889,0.54,26,62,12,4,50.0,3,No,0,Surrey,Healthcare,Intermediate,Fitbit,3.6,8.0,27.4,Coffee,
+114,46,Male,2025-03-22 1:43,02:55.5,7.316260324722222,0.55,20,70,10,2,25.0,3,No,5,Surrey,Hospitality,Evening,Manual Entry,5.2,3.0,24.9,Coffee,Herbal
+115,38,Male,2025-05-30 18:01,34:28.9,6.558041425833333,0.55,21,31,48,4,0.0,1,No,0,Surrey,Office,Intermediate,Oura,6.0,6.0,29.4,Coffee,
+116,77,Female,2025-11-01 11:31,12:32.3,6.675920253888888,0.93,15,42,43,5,,2,Yes,0,New Westminster,Healthcare,Morning,Manual Entry,3.2,3.0,22.9,Energy Drink,
+117,40,Female,2025-04-13 20:55,22:58.0,8.465564885000001,0.73,16,30,54,4,0.0,4,Yes,4,Victoria,Trades,Morning,Manual Entry,6.4,7.0,19.0,Coffee,
+118,74,Female,2025-08-21 5:11,13:35.6,7.033488839444444,0.51,21,46,33,4,25.0,1,Yes,0,Victoria,Office,Evening,Fitbit,1.8,1.0,33.9,,
+119,52,Male,2025-10-12 22:02,18:05.8,7.263276648333334,0.58,23,61,16,1,,5,Yes,0,Delta,Trades,Intermediate,Fitbit,2.3,4.0,22.3,Tea,Herbal
+120,53,Male,2025-09-14 19:13,49:30.3,5.598407456111112,0.87,20,51,29,3,25.0,5,Yes,5,Surrey,Healthcare,Intermediate,Android App,5.8,6.0,22.4,Coffee,Melatonin
+121,26,Male,2025-02-11 8:43,08:09.4,5.408443545555556,0.57,21,35,44,2,0.0,2,Yes,3,Victoria,Office,Morning,Apple Watch,7.5,5.0,24.7,Energy Drink,
+122,66,Female,2025-06-13 12:18,35:18.2,7.276154312222222,0.62,19,37,44,5,,4,Yes,4,North Vancouver,Tech,Intermediate,Fitbit,5.4,7.0,25.3,Coffee,Herbal
+123,53,Male,2025-01-28 7:31,27:13.3,7.927579093611111,0.57,21,29,50,5,0.0,2,No,0,North Vancouver,Retail,Evening,Garmin,4.4,2.0,23.3,Tea,Melatonin
+124,59,Female,2025-11-25 15:09,04:21.8,8.920766763055555,0.52,21,51,28,5,50.0,1,No,2,Delta,Hospitality,Intermediate,Manual Entry,0.5,5.0,24.9,Coffee,
+125,29,Male,2025-09-13 23:51,33:57.2,5.710330009166666,0.74,22,36,42,1,50.0,2,Yes,3,,,,,,,,,
+126,66,Female,2025-09-28 9:46,58:48.8,5.202717526944444,0.6,26,66,8,0,,0,Yes,1,Delta,Tech,Evening,Android App,0.9,8.0,,Energy Drink,
+127,67,Male,2025-09-23 23:51,12:02.0,6.335272445833333,0.64,30,62,8,2,,0,Yes,5,Victoria,Office,Intermediate,Oura,4.7,4.0,25.8,Coffee,
+128,60,Female,2025-04-04 5:54,36:28.1,8.701980765277778,0.87,25,61,14,4,25.0,1,Yes,5,North Vancouver,Student,Intermediate,Apple Watch,,2.0,16.0,Coffee,
+129,32,Male,2025-06-16 17:24,19:20.7,6.919362608,0.95,28,57,15,5,25.0,5,No,0,New Westminster,Healthcare,Evening,Garmin,2.5,9.0,33.5,Energy Drink,
+130,32,Female,2025-11-28 22:34,19:11.4,5.747881593611112,0.81,23,26,51,1,,0,No,3,Delta,Healthcare,Intermediate,Android App,4.6,8.0,24.3,Coffee,
+131,40,Female,2025-12-23 12:14,05:35.2,6.8470045894444445,0.61,20,63,17,2,25.0,2,No,0,Surrey,Office,Intermediate,Fitbit,4.7,7.0,27.6,Coffee,Herbal
+132,47,Male,2025-12-13 7:22,12:11.1,6.828083945277777,0.68,18,37,45,0,,0,Yes,1,Richmond,Hospitality,Evening,Oura,6.2,8.0,18.8,Tea,Herbal
+133,54,Female,2025-04-19 2:13,41:02.4,5.452877592222222,0.61,22,30,48,0,25.0,2,No,4,New Westminster,Retail,Intermediate,Fitbit,4.7,8.0,22.9,Coffee,
+134,38,Male,2025-08-03 21:35,44:08.5,8.138195529722221,0.63,20,25,55,5,0.0,3,Yes,4,Vancouver,Tech,Intermediate,Apple Watch,6.7,8.0,22.0,Energy Drink,
+135,80,Female,2025-03-28 23:09,45:20.8,6.595494771111111,0.77,19,46,35,4,50.0,0,No,4,Richmond,Student,Evening,Apple Watch,4.5,6.0,31.6,Tea,
+136,47,Male,2025-09-16 13:34,16:54.1,8.713366119166666,0.58,27,36,37,5,,0,Yes,1,,,,,,,,,
+137,23,Female,2025-02-05 17:41,52:26.9,7.185528223,0.62,26,61,13,2,,3,No,2,Delta,Hospitality,Morning,Android App,4.3,1.0,22.4,Tea,
+138,49,Female,2025-08-19 20:40,16:47.4,6.607322992222223,0.53,28,48,24,1,50.0,0,No,4,Victoria,Office,Intermediate,Manual Entry,6.4,6.0,28.4,Coffee,
+139,51,Female,2025-06-28 10:15,09:05.6,7.897123300277777,0.74,15,61,24,2,0.0,3,No,2,North Vancouver,Healthcare,Morning,Fitbit,2.7,3.0,22.1,Coffee,
+140,18,Male,2025-04-28 16:55,46:04.6,7.838498091111111,0.77,15,31,54,3,25.0,2,Yes,0,Richmond,Healthcare,Intermediate,Android App,9.6,8.0,23.0,,
+141,28,Female,2025-10-02 15:39,55:36.5,7.271253578888889,0.55,25,44,31,3,25.0,2,No,1,Coquitlam,Hospitality,Morning,Oura,5.2,5.0,23.9,Coffee,
+142,69,Male,2025-09-22 19:28,23:03.8,7.910777345833333,0.93,24,42,34,0,0.0,1,No,0,New Westminster,Trades,Intermediate,Manual Entry,5.2,10.0,30.8,Coffee,
+143,38,Female,2025-08-07 13:05,52:25.3,8.787860261111112,0.6,29,25,46,3,,3,No,0,North Vancouver,Office,Morning,Manual Entry,5.4,6.0,16.5,Coffee,
+144,45,Female,2026-01-09 14:22,32:24.0,6.167785,0.83,27,31,42,3,0.0,0,Yes,2,Vancouver,Trades,Intermediate,Fitbit,7.9,6.0,19.1,Coffee,Prescription
+145,73,Male,2025-11-17 3:58,04:54.3,8.111738479444444,0.79,25,32,43,4,50.0,5,Yes,2,North Vancouver,Trades,Intermediate,Android App,5.9,10.0,16.2,Tea,
+146,28,Female,2025-07-11 1:38,27:59.5,8.832636003611112,0.57,23,49,28,2,25.0,5,No,5,Coquitlam,Office,Intermediate,Oura,1.6,5.0,20.1,Tea,
+147,77,Female,2025-09-29 1:32,08:29.1,6.605589569166666,0.7,18,41,41,1,,3,No,1,Delta,Office,Intermediate,Fitbit,7.0,4.0,21.3,Tea,
+148,22,Male,2025-03-20 4:53,53:54.1,5.012796294722222,0.68,28,41,31,1,0.0,2,Yes,0,Langley,Office,Intermediate,Apple Watch,3.9,4.0,17.7,Energy Drink,
+149,67,Female,2025-06-07 13:03,37:56.7,8.570752469,0.59,22,54,24,0,25.0,4,Yes,3,Victoria,Healthcare,Intermediate,Manual Entry,4.7,9.0,21.7,Coffee,
+150,58,Female,2025-11-28 22:58,43:28.1,6.752795189722222,0.81,19,49,32,1,0.0,3,Yes,4,,,,,,,,,
+151,66,Female,2025-09-21 21:59,07:18.0,5.135546622500001,0.82,23,53,24,2,0.0,0,Yes,1,New Westminster,Trades,Intermediate,Oura,2.2,8.0,16.0,Coffee,
+152,73,Male,2025-04-21 6:21,34:57.7,8.222152696944445,0.87,29,29,42,1,25.0,4,Yes,4,Richmond,Healthcare,Evening,Garmin,5.4,2.0,20.4,Coffee,
+153,36,Female,2026-01-01 17:23,39:38.1,7.267248986388889,0.74,26,58,16,3,25.0,4,No,4,Coquitlam,Tech,Intermediate,Apple Watch,3.3,5.0,30.4,Tea,
+154,28,Male,2025-09-28 2:37,20:35.0,5.7236105169444444,0.57,28,69,3,0,0.0,1,No,1,Burnaby,Office,Morning,Manual Entry,4.7,4.0,26.8,Coffee,
+155,23,Female,2025-07-06 7:21,58:51.2,8.622846490555556,0.75,15,35,50,0,,2,Yes,1,Victoria,Unemployed,Evening,Apple Watch,4.0,7.0,25.8,Tea,
+156,61,Female,2025-02-21 16:51,09:33.1,8.307246352777778,0.6,26,42,32,1,50.0,4,No,0,Langley,Hospitality,Intermediate,Fitbit,8.0,1.0,20.5,Coffee,
+157,72,Male,2025-12-08 5:51,49:34.0,8.975819719444445,0.79,26,48,26,3,25.0,4,Yes,1,Langley,Office,Morning,Oura,8.1,8.0,,Energy Drink,
+158,65,Male,2025-09-05 19:45,14:42.5,7.480690097222222,0.79,20,49,31,3,,0,No,5,Richmond,Trades,Intermediate,Manual Entry,4.6,8.0,19.9,Energy Drink,
+159,48,Female,2025-08-10 2:01,34:05.4,6.537608940277778,0.67,24,52,24,0,0.0,5,No,1,Richmond,Office,Morning,Apple Watch,4.6,3.0,24.8,Energy Drink,
+160,21,Female,2025-11-15 12:59,06:33.2,6.119506498,0.55,28,45,27,2,50.0,1,No,1,Langley,Trades,Morning,Apple Watch,3.8,2.0,28.9,Coffee,
+161,75,Male,2025-09-05 17:18,09:10.1,6.836688256666666,0.88,26,27,47,2,0.0,5,No,0,North Vancouver,Trades,Intermediate,Garmin,6.5,7.0,29.1,,
+162,44,Male,2025-09-27 2:26,08:34.9,7.700237836388888,0.9,29,31,40,5,0.0,0,No,0,Delta,Office,Morning,Apple Watch,3.9,3.0,,Coffee,
+163,32,Male,2025-08-30 12:39,51:10.3,8.19008981,0.58,15,56,29,5,,3,Yes,4,Coquitlam,Student,Evening,Oura,3.7,10.0,21.7,Coffee,
+164,31,Female,2025-06-30 1:44,28:44.8,8.732722361,0.9,20,41,39,2,0.0,5,Yes,3,,,,,,,,,
+165,35,Female,2025-10-29 12:07,54:12.7,8.781583398333334,0.92,25,28,47,5,0.0,4,No,0,Coquitlam,Healthcare,Evening,Apple Watch,6.3,8.0,25.1,Coffee,
+166,57,Male,2025-09-14 9:27,11:41.5,5.729040925833333,0.86,16,66,18,4,25.0,4,Yes,3,New Westminster,Tech,Intermediate,Fitbit,3.5,10.0,23.6,Coffee,
+167,33,Male,2025-12-02 3:33,19:51.3,5.776741193611111,0.69,29,58,13,5,0.0,0,Yes,0,Langley,Trades,Intermediate,Apple Watch,4.4,6.0,24.1,Tea,
+168,47,Male,2025-01-24 11:39,41:06.7,5.031027009444444,0.74,24,43,33,2,0.0,0,No,5,Richmond,Hospitality,Intermediate,Manual Entry,1.7,10.0,34.2,Coffee,Melatonin
+169,18,Female,2025-06-01 3:49,25:43.7,8.597428783333333,0.7,19,55,26,5,50.0,2,No,0,Langley,Trades,Evening,Manual Entry,5.8,1.0,17.1,Coffee,Prescription
+170,37,Female,2025-12-30 3:24,30:43.6,8.103489817777778,0.85,19,39,42,0,25.0,1,Yes,4,Surrey,Unemployed,Intermediate,Oura,8.0,3.0,23.9,Tea,Herbal
+171,66,Female,2025-10-20 3:41,59:09.7,5.294630195,0.81,24,46,30,0,50.0,2,No,5,Coquitlam,Office,Morning,Garmin,5.8,1.0,30.5,Energy Drink,
+172,59,Male,2025-12-26 14:27,44:29.2,6.277289898333333,0.51,22,48,30,4,,2,Yes,2,Victoria,Retail,Intermediate,Android App,7.1,7.0,18.4,Tea,
+173,77,Female,2025-01-25 17:03,46:34.3,6.725355546944444,0.6,21,35,44,3,,5,Yes,4,Victoria,Hospitality,Intermediate,Apple Watch,3.0,6.0,22.1,Tea,
+174,61,Male,2025-08-23 8:35,36:50.1,6.014746984722223,0.54,29,41,30,3,50.0,4,Yes,0,Victoria,Student,Morning,Oura,4.9,3.0,22.6,Coffee,
+175,53,Male,2025-08-25 10:04,53:59.2,6.819231396666666,0.63,25,58,17,0,25.0,0,No,0,Richmond,Unemployed,Intermediate,Android App,2.8,4.0,24.0,Energy Drink,
+176,19,Female,2025-10-09 12:54,17:47.3,7.390364341666666,0.89,21,50,29,2,0.0,3,No,5,,,,,,,,,
+177,64,Female,2025-12-10 5:32,25:08.5,7.872632580277777,0.64,18,60,22,3,0.0,2,Yes,1,Langley,Trades,Morning,Android App,4.1,7.0,17.8,Coffee,
+178,46,Male,2025-02-25 20:01,42:05.8,5.671057401111111,0.8,21,26,53,2,0.0,4,No,2,Victoria,Healthcare,Evening,Apple Watch,5.9,2.0,27.7,Coffee,
+179,23,Female,2025-12-05 16:56,09:48.3,8.213976789444445,0.79,27,50,23,5,0.0,2,Yes,0,Victoria,Tech,Intermediate,Android App,4.7,6.0,28.0,Coffee,
+180,22,Male,2025-02-03 14:11,00:49.0,6.821124855833332,0.61,29,65,6,1,25.0,3,No,4,Vancouver,Tech,Morning,Oura,2.0,7.0,27.3,Tea,
+181,23,Female,2025-11-09 15:53,38:24.1,6.743926953611111,0.71,27,42,31,4,50.0,2,Yes,2,Delta,Student,Morning,Manual Entry,2.1,3.0,21.1,Coffee,
+182,44,Male,2026-01-03 5:28,29:37.4,7.015660705277778,0.81,17,42,41,1,50.0,3,Yes,2,Victoria,Hospitality,Morning,Apple Watch,2.0,3.0,25.4,Tea,Prescription
+183,72,Female,2026-01-15 17:29,53:42.6,6.406834561666667,0.77,19,38,43,2,50.0,5,Yes,4,Delta,Retail,Intermediate,Oura,5.4,4.0,21.0,Coffee,
+184,72,Male,2025-12-03 4:59,09:33.1,6.164462288333333,0.65,22,25,53,0,,4,No,5,Surrey,Unemployed,Morning,Android App,8.2,6.0,23.5,Coffee,
+185,39,Female,2025-05-04 3:34,05:10.5,6.513186716388889,0.77,16,64,20,1,,1,No,4,Delta,Healthcare,Intermediate,Apple Watch,7.0,3.0,34.7,Coffee,Prescription
+186,65,Female,2025-06-11 20:34,42:11.2,6.121431554166667,0.77,26,42,32,3,0.0,4,No,1,Burnaby,Retail,Morning,Android App,1.1,4.0,25.4,Coffee,
+187,58,Female,2025-02-22 17:44,05:59.2,8.365063594444445,0.77,25,42,33,2,0.0,4,Yes,3,Coquitlam,Healthcare,Intermediate,Fitbit,7.1,6.0,19.7,Coffee,
+188,38,Female,2025-09-04 6:11,29:03.8,5.289124810833334,0.88,28,60,12,0,25.0,5,Yes,1,New Westminster,Unemployed,Intermediate,Android App,6.2,2.0,25.8,Tea,
+189,54,Male,2025-06-23 2:51,03:59.6,8.203768029166666,0.52,18,66,16,0,0.0,0,No,5,Coquitlam,Hospitality,Intermediate,Oura,1.7,6.0,18.9,Coffee,
+190,40,Male,2025-01-18 18:25,46:18.6,7.340435499722222,0.53,30,41,29,0,50.0,5,No,2,New Westminster,Unemployed,Intermediate,Apple Watch,4.0,2.0,19.6,Coffee,
+191,54,Female,2025-09-25 21:12,11:16.0,8.976663194444445,0.72,22,32,46,4,0.0,5,No,5,Surrey,Retail,Morning,Fitbit,6.5,2.0,20.3,Tea,Melatonin
+192,34,Male,2025-10-28 1:22,14:02.4,8.859566468333334,0.71,29,61,10,0,,5,No,5,New Westminster,Hospitality,Morning,Android App,5.5,3.0,23.0,Coffee,Melatonin
+193,51,Male,2025-03-11 3:20,02:46.5,5.711805618333333,0.91,24,53,23,2,50.0,1,Yes,5,New Westminster,Trades,Morning,Apple Watch,2.1,3.0,29.2,Coffee,Melatonin
+194,31,Male,2025-04-13 13:58,14:21.0,7.263893858611111,0.69,18,36,46,2,0.0,5,No,1,New Westminster,Healthcare,Evening,Garmin,5.6,1.0,27.6,Coffee,Herbal
+195,26,Female,2025-04-18 3:31,22:22.9,8.856375104,0.65,17,27,56,0,50.0,5,No,4,Surrey,Hospitality,Evening,Fitbit,0.7,10.0,27.4,Coffee,
+196,64,Male,2025-04-16 21:16,56:17.4,6.663726708333334,0.85,17,68,15,0,,5,Yes,5,Richmond,Student,Evening,Manual Entry,4.1,4.0,20.1,Coffee,Melatonin
+197,39,Female,2025-01-17 12:03,31:02.1,8.463650666944444,0.56,18,66,16,5,,5,Yes,4,Surrey,Tech,Intermediate,Oura,6.5,9.0,22.6,Tea,
+198,37,Female,2025-10-01 16:19,48:55.7,5.486037023055556,0.72,27,46,27,1,50.0,3,No,5,Coquitlam,Student,Intermediate,Manual Entry,4.5,10.0,26.2,Coffee,
+199,78,Female,2025-01-21 14:58,12:54.6,6.247377615,0.77,25,64,11,2,50.0,3,No,1,North Vancouver,Retail,Intermediate,Fitbit,3.6,9.0,22.2,Tea,Melatonin
+200,64,Female,2025-12-09 15:53,43:11.2,8.829788208,0.8,17,65,18,3,50.0,4,Yes,1,Richmond,Healthcare,Evening,Apple Watch,6.1,9.0,23.7,Coffee,Melatonin
+201,39,Male,2025-12-23 12:04,08:36.7,8.069351254722223,0.69,29,58,13,0,25.0,3,Yes,3,Coquitlam,Healthcare,Evening,Oura,6.3,2.0,27.0,Tea,Melatonin
+202,65,Female,2025-02-06 6:26,58:12.4,8.529834881666666,0.65,28,50,22,3,25.0,4,Yes,2,Surrey,Healthcare,Evening,Oura,6.9,4.0,23.4,Tea,
+203,63,Male,2025-09-27 18:23,08:12.2,7.751728888055556,0.67,21,40,39,4,0.0,3,No,1,Surrey,Healthcare,Evening,Android App,6.1,8.0,26.0,Coffee,
+204,18,Male,2025-05-08 8:30,37:56.0,8.116124356666667,0.76,15,40,45,5,0.0,2,No,0,New Westminster,Healthcare,Intermediate,Manual Entry,6.4,6.0,32.2,Coffee,
+205,77,Male,2025-07-10 15:15,45:25.6,6.492945886111111,0.63,27,56,17,4,,1,Yes,4,,,,,,,,,
+206,21,Male,2025-10-24 9:34,38:03.5,6.067645206666668,0.95,17,64,19,5,,3,Yes,5,Langley,Healthcare,Evening,Android App,5.8,1.0,24.2,Coffee,
+207,34,Female,2025-10-18 2:37,29:31.4,7.869008166666667,0.83,18,52,30,2,,5,Yes,3,Surrey,Retail,Evening,Fitbit,5.0,6.0,30.3,,Melatonin
+208,63,Female,2025-06-22 6:15,03:27.5,5.791809198055556,0.82,22,49,29,2,25.0,0,No,5,Langley,Hospitality,Intermediate,Apple Watch,4.7,9.0,27.5,,Melatonin
+209,50,Female,2025-12-16 11:25,57:52.0,6.5389004194444444,0.71,29,41,30,1,50.0,4,No,3,North Vancouver,Retail,Evening,Manual Entry,4.1,9.0,18.4,Coffee,
+210,35,Male,2025-07-07 21:32,27:42.2,5.917286107222222,0.77,18,26,56,1,,2,Yes,0,Burnaby,Tech,Morning,Oura,2.3,4.0,20.0,Tea,
+211,46,Male,2025-08-31 15:54,45:22.2,5.846436883611111,0.74,20,58,22,0,50.0,0,Yes,2,Richmond,Hospitality,Evening,Manual Entry,2.8,3.0,21.2,Coffee,
+212,64,Female,2025-10-12 6:06,24:35.3,7.306199606666667,0.73,29,41,30,2,25.0,3,No,0,Vancouver,Unemployed,Evening,Oura,4.0,4.0,21.2,Coffee,
+213,44,Female,2025-06-24 13:02,01:41.9,5.981354285277778,0.88,29,43,28,2,25.0,5,No,1,Vancouver,Student,Morning,Fitbit,4.9,3.0,24.6,Tea,
+214,28,Male,2025-06-02 7:04,13:12.1,6.153081328888889,0.91,28,67,5,4,50.0,4,No,2,Richmond,Tech,Intermediate,Garmin,7.1,4.0,27.8,Coffee,Prescription
+215,19,Female,2025-09-21 8:30,17:21.5,7.776533517222222,0.66,21,35,44,4,0.0,5,No,0,Coquitlam,Office,Morning,Android App,4.4,4.0,30.6,Coffee,
+216,37,Female,2025-12-09 10:34,15:26.4,6.683444453055556,0.81,23,49,28,2,50.0,0,Yes,5,Delta,Office,Evening,Oura,6.3,5.0,26.4,Energy Drink,Herbal
+217,60,Female,2025-05-10 19:54,42:59.1,6.805860698611111,0.88,28,60,12,3,,3,No,4,Burnaby,Hospitality,Evening,Fitbit,6.4,1.0,23.0,Coffee,
+218,53,Female,2025-10-05 17:10,14:30.1,5.069207310277777,0.89,19,68,13,0,25.0,1,No,3,Langley,Student,Intermediate,Apple Watch,4.1,3.0,16.0,Tea,Melatonin
+219,56,Male,2025-01-18 3:52,30:15.4,6.631777079722222,0.71,17,57,26,3,50.0,4,No,1,Surrey,Hospitality,Evening,Manual Entry,5.6,4.0,25.3,Coffee,
+220,79,Female,2025-09-23 7:03,38:36.3,7.582855862222223,0.6,23,26,51,4,25.0,4,No,1,Burnaby,Hospitality,Morning,Manual Entry,4.1,2.0,25.1,Coffee,
+221,43,Male,2025-12-07 23:49,50:24.1,8.019198084166666,0.92,29,62,9,5,,3,No,3,New Westminster,Unemployed,Intermediate,Android App,6.9,9.0,25.8,Coffee,
+222,50,Female,2025-07-18 9:50,43:11.9,7.875257511111111,0.65,26,30,44,3,25.0,3,Yes,3,Delta,Tech,Intermediate,Fitbit,5.6,7.0,34.5,,
+223,38,Male,2025-11-26 1:42,13:07.8,6.508275815277778,0.9,27,39,34,1,50.0,0,No,5,New Westminster,Hospitality,Morning,Oura,2.4,10.0,30.6,Coffee,Prescription
+224,24,Male,2025-07-14 11:46,24:59.9,7.643860885,0.74,16,36,48,1,,5,Yes,0,Burnaby,Student,Intermediate,Android App,4.8,6.0,28.5,Coffee,
+225,46,Female,2025-11-23 3:19,06:15.5,7.782641856666667,0.82,20,41,39,3,25.0,1,Yes,3,Burnaby,Unemployed,Intermediate,Oura,7.5,2.0,20.7,Tea,
+226,78,Male,2025-06-23 4:50,14:02.2,7.398952540555556,0.6,18,27,55,0,0.0,4,Yes,4,Richmond,Office,Intermediate,Oura,4.2,10.0,22.7,,
+227,30,Female,2025-03-26 11:40,48:40.7,6.133257288888889,0.74,25,29,46,5,0.0,1,No,3,,,,,,,,,
+228,47,Male,2025-05-05 15:22,35:10.8,8.213831213,0.7,16,28,56,3,,5,No,5,Coquitlam,Trades,Intermediate,Garmin,5.3,5.0,24.6,,
+229,52,Male,2025-06-05 19:59,33:11.5,5.564594213055555,0.55,28,41,31,3,25.0,0,No,5,Victoria,Office,Evening,Apple Watch,5.5,7.0,21.5,Tea,
+230,69,Female,2025-06-15 10:48,50:49.1,5.044736452222223,0.69,21,39,40,3,25.0,5,Yes,4,Surrey,Healthcare,Intermediate,Apple Watch,2.6,4.0,27.3,Coffee,
+231,72,Female,2025-10-31 4:01,10:19.7,7.151583141666666,0.71,15,45,40,0,,0,Yes,2,Burnaby,Tech,Evening,Android App,5.4,5.0,26.6,Tea,
+232,71,Male,2025-07-05 22:43,10:36.9,7.455806857222223,0.63,28,25,47,4,0.0,5,No,2,Victoria,Trades,Intermediate,Fitbit,2.0,5.0,20.1,Energy Drink,
+233,62,Male,2025-07-12 5:06,53:36.0,6.788600758055555,0.53,19,29,52,2,0.0,3,Yes,4,Burnaby,Hospitality,Intermediate,Fitbit,3.4,3.0,30.4,Energy Drink,Melatonin
+234,35,Male,2025-10-20 6:05,55:11.4,8.830668851111112,0.51,22,46,32,3,,4,No,3,Vancouver,Retail,Intermediate,Garmin,6.4,6.0,25.5,Energy Drink,Melatonin
+235,67,Female,2025-02-09 0:19,55:46.1,8.609760153,0.55,25,55,20,2,25.0,4,Yes,0,Coquitlam,Tech,Intermediate,Android App,5.1,8.0,17.2,Coffee,
+236,64,Female,2025-05-18 0:07,50:22.0,6.710265597222223,0.64,15,26,59,3,0.0,5,Yes,4,Coquitlam,Unemployed,Intermediate,Oura,4.0,1.0,24.8,Coffee,
+237,28,Female,2025-12-01 13:07,14:57.8,7.130500678611111,0.69,17,58,25,4,0.0,3,No,2,New Westminster,Healthcare,Intermediate,Oura,5.3,2.0,26.3,Tea,Melatonin
+238,59,Male,2025-05-07 15:40,30:25.9,6.828873323333333,0.52,28,33,39,1,25.0,0,No,2,Langley,Trades,Morning,Oura,4.4,9.0,29.4,Coffee,
+239,24,Female,2025-02-20 23:52,06:00.8,8.218559751944444,0.78,23,63,14,5,50.0,0,Yes,3,,,,,,,,,
+240,61,Male,2025-11-25 21:02,33:36.1,8.520857687222222,0.87,28,43,29,4,0.0,3,Yes,4,Victoria,Unemployed,Intermediate,Fitbit,4.5,6.0,23.5,Coffee,Herbal
+241,53,Male,2025-07-10 12:46,50:22.1,8.072811946111111,0.55,16,56,28,5,0.0,4,Yes,0,Surrey,Retail,Intermediate,Apple Watch,5.7,10.0,28.7,Coffee,
+242,32,Male,2025-06-04 7:15,35:59.4,7.337069239166667,0.86,16,70,14,2,0.0,3,No,3,Victoria,Retail,Intermediate,Fitbit,3.2,7.0,25.8,Tea,
+243,77,Male,2025-05-21 12:11,08:27.7,7.945754185555556,0.95,19,32,49,2,0.0,0,No,1,New Westminster,Trades,Evening,Android App,4.6,7.0,19.1,Energy Drink,
+244,79,Female,2025-04-04 4:53,08:31.8,5.258285338611111,0.85,22,36,42,4,25.0,1,No,3,Vancouver,Office,Intermediate,Android App,3.9,9.0,18.6,Tea,
+245,25,Male,2025-09-21 1:42,24:29.1,6.7016931119444445,0.7,23,44,33,5,,1,No,3,Victoria,Office,Evening,Apple Watch,1.6,7.0,30.1,Energy Drink,
+246,77,Female,2025-04-18 11:05,11:43.5,7.101806366666667,0.62,25,55,20,2,25.0,5,Yes,5,Burnaby,Office,Evening,Apple Watch,2.8,4.0,30.4,Tea,
+247,38,Female,2025-06-03 0:45,58:57.5,6.226249183888888,0.51,15,35,50,5,,1,No,0,North Vancouver,Office,Evening,Apple Watch,7.3,6.0,26.5,Tea,
+248,30,Male,2025-04-17 12:25,16:22.9,8.844416395555555,0.94,16,50,34,0,,5,No,3,Delta,Tech,Evening,Manual Entry,5.2,3.0,31.7,Coffee,Prescription
+249,71,Male,2025-01-20 10:48,20:28.5,8.527909240277777,0.95,30,53,17,4,25.0,2,Yes,5,Surrey,Student,Morning,Garmin,2.1,4.0,29.8,Tea,
+250,18,Female,2025-02-05 1:48,28:58.2,7.672284753888889,0.77,28,40,32,4,25.0,3,Yes,0,Surrey,Tech,Intermediate,Android App,1.7,7.0,28.1,Coffee,
+251,76,Female,2025-05-11 3:34,09:30.3,6.587305781944444,0.51,26,60,14,5,50.0,5,Yes,1,Coquitlam,Unemployed,Morning,Garmin,4.3,2.0,20.9,Coffee,
+252,40,Female,2025-07-12 13:23,50:27.0,5.450831029444444,0.76,21,65,14,5,,1,Yes,5,Langley,Hospitality,Evening,Android App,7.3,7.0,32.8,Coffee,
+253,60,Female,2025-09-18 8:34,08:46.1,8.577263681944444,0.55,28,31,41,0,50.0,1,No,1,Surrey,Healthcare,Intermediate,Oura,4.2,6.0,27.4,Energy Drink,
+254,51,Female,2025-02-19 20:41,32:36.1,7.857812617222223,0.79,20,64,16,5,,3,Yes,5,New Westminster,Student,Intermediate,Apple Watch,6.9,4.0,23.3,Tea,
+255,18,Female,2025-07-14 4:47,18:28.5,6.508470326944445,0.58,29,30,41,1,0.0,1,Yes,4,Coquitlam,Hospitality,Evening,Manual Entry,5.1,1.0,22.0,,
+256,64,Male,2025-08-22 6:45,28:24.8,7.719936798333333,0.7,24,39,37,3,50.0,0,Yes,0,Burnaby,Student,Morning,Android App,5.3,8.0,26.2,,
+257,22,Male,2025-12-22 9:27,21:08.0,6.898598016111111,0.67,20,38,42,5,,4,Yes,2,Delta,Tech,Intermediate,Android App,2.1,9.0,17.5,Energy Drink,
+258,55,Female,2025-12-15 7:17,44:50.5,8.456240825277778,0.64,24,58,18,4,50.0,5,No,4,Langley,Tech,Intermediate,Manual Entry,6.2,8.0,28.1,Coffee,
+259,75,Female,2025-03-14 15:01,41:58.1,7.670862804444444,0.63,17,37,46,3,25.0,3,Yes,1,North Vancouver,Office,Morning,Apple Watch,3.9,5.0,20.7,Energy Drink,Melatonin
+260,43,Female,2025-07-03 11:08,19:40.4,6.192606857777777,0.65,19,39,42,1,,5,No,4,Burnaby,Tech,Intermediate,Fitbit,6.1,7.0,26.7,Energy Drink,
+261,43,Male,2025-02-24 3:19,12:04.7,8.868536202777777,0.8,23,60,17,2,,5,Yes,5,Burnaby,Office,Evening,Oura,3.0,5.0,22.7,Energy Drink,
+262,26,Female,2025-08-07 9:58,06:14.4,5.125661728,0.88,21,42,37,1,50.0,4,Yes,1,Coquitlam,Office,Morning,Apple Watch,4.8,4.0,23.8,Coffee,Herbal
+263,62,Female,2025-05-27 17:44,56:17.4,7.191510486388889,0.95,27,25,48,3,0.0,3,Yes,4,North Vancouver,Hospitality,Intermediate,Garmin,5.1,4.0,21.6,Coffee,
+264,21,Male,2025-09-11 12:09,08:48.3,8.986462168888888,0.92,27,58,15,5,0.0,2,No,4,North Vancouver,Unemployed,Intermediate,Apple Watch,4.2,3.0,24.3,,
+265,40,Female,2025-03-04 20:15,58:58.0,5.723334061666667,0.56,17,47,36,4,50.0,0,No,2,Surrey,Trades,Intermediate,Garmin,5.2,10.0,,Coffee,Melatonin
+266,31,Male,2025-12-02 8:52,13:50.7,7.358519526388889,0.64,17,55,28,0,0.0,1,No,3,North Vancouver,Unemployed,Morning,Garmin,4.0,7.0,31.2,Coffee,
+267,26,Male,2025-10-05 22:59,11:52.1,7.203914969166666,0.85,24,45,31,4,25.0,4,Yes,4,Surrey,Unemployed,Evening,Garmin,3.3,2.0,26.6,Coffee,Melatonin
+268,69,Male,2025-09-26 15:24,57:16.2,7.549490357777778,0.67,17,33,50,0,0.0,2,Yes,2,New Westminster,Hospitality,Evening,Android App,7.4,9.0,24.9,Coffee,
+269,46,Female,2025-11-07 10:54,13:13.8,6.307991194166666,0.64,30,42,28,0,50.0,1,No,3,Delta,Office,Morning,Oura,6.4,2.0,28.8,Coffee,Herbal
+270,71,Male,2025-06-03 9:02,04:56.2,8.038668674444445,0.62,19,49,32,2,,5,No,3,,,,,,,,,
+271,21,Male,2025-01-22 10:25,57:50.2,8.534777096388888,0.71,25,63,12,3,25.0,0,Yes,2,,Trades,Intermediate,Garmin,3.1,6.0,30.1,,Herbal
+272,60,Female,2025-11-17 6:26,54:17.8,7.457447738333333,0.8,19,34,47,2,25.0,1,No,0,Vancouver,Tech,Intermediate,Fitbit,5.5,2.0,21.3,Energy Drink,
+273,26,Female,2025-09-06 19:57,27:53.1,8.508083921,0.93,15,67,18,2,50.0,0,No,5,Victoria,Unemployed,Intermediate,Oura,3.2,4.0,24.7,,Melatonin
+274,64,Male,2025-06-09 5:48,32:49.1,8.731416975277778,0.71,27,35,38,5,,3,Yes,1,Vancouver,Hospitality,Intermediate,Apple Watch,2.4,7.0,16.8,Coffee,
+275,71,Female,2025-03-06 2:23,46:49.3,6.388149943,0.75,22,70,8,0,25.0,3,Yes,5,Victoria,Healthcare,Morning,Apple Watch,6.4,10.0,30.1,Coffee,
+276,32,Male,2025-05-01 22:32,39:36.5,7.112910155277778,0.72,28,69,3,2,,0,No,0,Vancouver,Office,Morning,Garmin,1.4,10.0,34.3,Coffee,
+277,66,Male,2025-02-14 23:29,22:49.5,5.887921962777778,0.62,24,65,11,2,50.0,2,No,5,North Vancouver,Unemployed,Evening,Fitbit,6.2,9.0,25.4,Coffee,
+278,73,Female,2025-10-23 22:57,05:53.7,8.147419406388888,0.85,24,36,40,2,25.0,5,No,5,Burnaby,Trades,Intermediate,Garmin,4.0,3.0,16.0,Coffee,
+279,37,Male,2025-10-21 19:51,26:23.5,5.586797611111111,0.56,26,51,23,4,25.0,1,Yes,0,Vancouver,Trades,Evening,Apple Watch,4.1,1.0,27.7,Tea,
+280,51,Male,2025-06-02 8:25,36:52.1,6.19004117,0.94,25,62,13,1,0.0,4,Yes,3,New Westminster,Unemployed,Intermediate,Manual Entry,5.2,10.0,20.9,,
+281,36,Male,2025-04-05 0:55,32:08.8,6.607988500555556,0.91,30,59,11,2,0.0,3,No,5,,,,,,,,,
+282,54,Female,2025-12-20 10:53,39:56.4,5.782331078333334,0.73,23,37,40,1,25.0,4,Yes,0,Delta,Retail,Evening,Manual Entry,5.5,10.0,22.0,Coffee,
+283,78,Male,2025-08-19 13:09,29:07.1,8.323925821666666,0.65,26,70,4,1,50.0,5,No,4,Burnaby,Trades,Morning,Fitbit,3.0,3.0,27.8,Coffee,Prescription
+284,28,Male,2025-04-26 8:06,31:27.5,7.416237040833333,0.63,17,29,54,4,,3,No,1,Victoria,Student,Morning,Oura,5.8,1.0,26.1,Coffee,
+285,37,Male,2025-12-30 0:02,18:35.5,8.267078441944445,0.85,17,27,56,0,25.0,3,No,1,Richmond,Healthcare,Evening,Oura,4.7,7.0,,Coffee,Melatonin
+286,23,Male,2025-04-21 18:17,08:44.3,5.847865538611111,0.62,30,63,7,4,25.0,4,No,0,Richmond,Unemployed,Evening,Garmin,2.2,1.0,22.1,Coffee,Melatonin
+287,26,Male,2025-07-05 1:47,00:57.7,8.227408611,0.74,28,45,27,3,50.0,4,No,0,,,,,,,,,
+288,71,Male,2025-01-22 1:15,23:19.8,8.138825154166666,0.54,25,36,39,2,0.0,5,Yes,3,Surrey,Healthcare,Intermediate,Garmin,4.2,1.0,25.6,Coffee,Melatonin
+289,51,Female,2025-05-25 4:51,57:40.8,5.095769853055556,0.82,30,27,43,0,0.0,4,No,4,Coquitlam,Tech,Intermediate,Android App,7.0,10.0,23.2,Coffee,
+290,58,Male,2025-09-29 2:07,22:38.2,8.247290633333334,0.54,23,28,49,5,0.0,5,No,4,Burnaby,Trades,Intermediate,Garmin,7.5,5.0,20.0,Coffee,Melatonin
+291,60,Female,2025-11-20 10:04,07:22.4,8.042342176944445,0.66,29,26,45,4,0.0,2,No,2,Coquitlam,Hospitality,Intermediate,Fitbit,5.8,2.0,23.5,Energy Drink,Melatonin
+292,62,Female,2025-12-01 16:38,33:50.1,5.928649689,0.95,23,69,8,5,50.0,0,Yes,1,Surrey,Hospitality,Morning,Garmin,2.4,7.0,26.5,Coffee,Melatonin
+293,59,Female,2025-12-23 1:58,39:54.6,6.687122930555556,0.55,22,61,17,3,0.0,1,No,4,Vancouver,Retail,Evening,Apple Watch,5.4,4.0,24.2,Coffee,Prescription
+294,34,Female,2026-01-14 11:03,12:58.3,6.159806957222223,0.92,17,48,35,2,25.0,0,Yes,0,Richmond,Hospitality,Intermediate,Garmin,6.0,6.0,18.6,Coffee,
+295,32,Male,2025-11-08 5:14,39:44.1,6.425849308,0.57,20,59,21,4,25.0,1,No,0,New Westminster,Retail,Intermediate,Apple Watch,5.8,9.0,29.5,Coffee,
+296,57,Male,2025-03-09 14:59,19:36.5,8.33012973,0.61,15,66,19,3,0.0,5,No,1,Delta,Healthcare,Morning,Fitbit,5.9,3.0,16.0,Tea,Melatonin
+297,55,Male,2025-07-25 16:57,26:41.1,6.48086723,0.81,21,55,24,0,50.0,2,No,5,Richmond,Tech,Morning,Manual Entry,5.2,7.0,23.0,Energy Drink,
+298,44,Male,2025-07-25 15:00,25:25.7,6.417968394444444,0.94,29,34,37,1,,5,Yes,1,Richmond,Hospitality,Intermediate,Fitbit,4.4,9.0,22.2,Energy Drink,Melatonin
+299,25,Female,2025-05-11 6:30,22:03.7,8.853242041944444,0.54,24,38,38,3,,0,No,2,Delta,Hospitality,Intermediate,Android App,3.4,5.0,25.7,Tea,
+300,34,Female,2026-01-12 10:45,39:12.7,7.903520989722223,0.76,24,56,20,0,50.0,3,No,1,New Westminster,Office,Intermediate,Android App,1.1,10.0,27.5,Coffee,
+301,50,Male,2025-09-01 18:02,38:24.5,7.600129608055555,0.82,24,32,44,0,,0,Yes,0,Langley,Tech,Morning,Oura,5.1,5.0,30.1,Coffee,
+302,69,Female,2025-09-29 19:43,18:02.7,5.57714881,0.64,21,62,17,0,,2,Yes,0,Victoria,Student,Evening,Manual Entry,4.8,5.0,21.8,Coffee,
+303,46,Male,2025-02-16 5:30,09:11.4,5.6434316975000005,0.77,17,62,21,1,,4,Yes,5,Langley,Retail,Intermediate,Fitbit,5.5,9.0,27.6,Coffee,Herbal
+304,74,Female,2025-04-12 6:02,10:23.6,6.127932659444444,0.83,29,48,23,0,25.0,1,No,2,Victoria,Retail,Evening,Apple Watch,2.1,7.0,25.9,Energy Drink,
+305,48,Female,2025-03-14 7:01,15:56.6,6.234342618055556,0.81,22,62,16,4,0.0,0,Yes,0,Coquitlam,Trades,Morning,Apple Watch,5.7,9.0,17.3,Coffee,
+306,48,Male,2025-12-08 7:43,03:07.6,5.322945586388889,0.57,23,39,38,5,0.0,5,Yes,3,Richmond,Unemployed,Intermediate,Oura,8.2,8.0,33.6,Coffee,
+307,27,Female,2025-08-29 10:23,44:10.0,6.3469536402777775,0.75,21,38,41,1,25.0,0,No,0,Richmond,Unemployed,Intermediate,Oura,4.6,8.0,18.5,Coffee,Herbal
+308,71,Male,2025-08-02 9:21,34:47.9,5.222750989722222,0.89,20,33,47,3,50.0,5,No,2,Surrey,Student,Intermediate,Manual Entry,4.4,3.0,26.9,Coffee,
+309,66,Female,2025-11-18 13:27,50:46.2,8.394210894,0.62,30,53,17,4,50.0,0,No,0,Delta,Office,Intermediate,Garmin,5.1,4.0,26.8,,
+310,58,Male,2025-11-22 2:49,18:57.2,7.495049845,0.95,28,66,6,0,50.0,5,No,4,Delta,Office,Morning,Apple Watch,8.2,9.0,26.2,Coffee,
+311,75,Female,2025-06-02 4:35,29:00.6,5.884043473055556,0.6,17,25,58,0,25.0,3,Yes,4,Langley,Unemployed,Intermediate,Manual Entry,2.7,7.0,22.8,Coffee,
+312,43,Female,2025-02-11 15:36,06:37.2,8.501726963888888,0.89,21,64,15,3,,2,Yes,4,Burnaby,Retail,Intermediate,Android App,4.9,3.0,28.7,Coffee,Herbal
+313,28,Male,2025-11-07 3:57,42:16.0,8.749710946388888,0.64,30,31,39,5,,4,Yes,4,Coquitlam,Tech,Intermediate,Android App,3.1,4.0,18.0,Energy Drink,Herbal
+314,69,Female,2025-09-16 19:16,46:16.4,5.488156013333333,0.56,26,25,49,4,50.0,2,No,5,Surrey,Hospitality,Morning,Garmin,3.5,8.0,24.7,Coffee,
+315,29,Female,2025-06-06 19:00,06:50.3,8.098149573055556,0.91,27,69,4,5,50.0,1,Yes,0,Langley,Hospitality,Intermediate,Garmin,4.4,2.0,22.5,Tea,
+316,52,Female,2025-09-01 8:42,59:08.8,5.270234542777778,0.63,24,48,28,5,25.0,1,Yes,4,Surrey,Student,Intermediate,Garmin,6.9,2.0,22.0,Coffee,
+317,51,Male,2025-04-29 22:36,41:30.7,8.085762426,0.88,26,60,14,5,,4,Yes,4,Burnaby,Office,Intermediate,Android App,7.7,8.0,,Coffee,
+318,37,Female,2025-05-08 19:28,07:43.0,8.655281879722223,0.86,19,36,45,3,25.0,0,Yes,4,North Vancouver,Healthcare,Intermediate,Apple Watch,5.3,3.0,29.8,Energy Drink,
+319,30,Female,2025-12-15 10:00,02:40.4,8.034541835,0.55,29,29,42,4,0.0,3,Yes,4,Langley,Trades,Intermediate,Manual Entry,3.8,8.0,23.5,Coffee,
+320,51,Female,2026-01-09 22:16,25:17.2,5.142004078055556,0.68,18,59,23,1,25.0,3,Yes,4,Victoria,Tech,Evening,Apple Watch,,6.0,28.5,Coffee,
+321,47,Male,2025-05-07 4:32,15:26.0,7.713063647222222,0.92,27,30,43,2,50.0,0,No,3,Vancouver,Office,Intermediate,Garmin,3.7,10.0,25.2,Tea,Melatonin
+322,52,Female,2025-08-02 14:05,48:28.8,7.710208782777777,0.85,19,51,30,5,50.0,2,No,4,Richmond,Trades,Intermediate,Apple Watch,3.5,6.0,21.0,Coffee,
+323,61,Female,2025-10-06 17:23,59:33.4,7.608715719444445,0.66,15,44,41,3,,5,No,3,Burnaby,Office,Evening,Oura,1.3,9.0,23.8,Coffee,
+324,20,Female,2025-08-19 13:24,28:07.7,5.056036497777778,0.89,20,68,12,0,50.0,0,No,1,Richmond,Office,Intermediate,Android App,7.0,9.0,23.7,Energy Drink,
+325,49,Male,2025-07-24 15:54,38:34.7,8.742411741944444,0.69,22,41,37,2,25.0,3,Yes,2,North Vancouver,Office,Evening,Manual Entry,6.2,3.0,21.9,Coffee,
+326,39,Female,2025-08-22 21:25,31:24.8,6.091893553888888,0.57,22,67,11,5,,0,Yes,5,Surrey,Office,Evening,Android App,8.9,10.0,26.9,Coffee,
+327,37,Male,2025-06-30 5:31,50:59.6,8.322942625277777,0.72,21,64,15,0,0.0,1,No,5,Vancouver,Retail,Morning,Apple Watch,2.0,8.0,26.1,Coffee,
+328,71,Male,2025-09-04 20:12,38:01.7,7.424646944722222,0.63,23,47,30,3,50.0,1,No,0,North Vancouver,Healthcare,Intermediate,Apple Watch,7.1,2.0,17.8,Tea,
+329,22,Female,2025-05-18 18:34,27:54.1,6.896152887222223,0.78,15,66,19,4,,2,Yes,3,Vancouver,Healthcare,Intermediate,Manual Entry,4.6,1.0,17.6,Coffee,Melatonin
+330,36,Female,2025-01-22 21:20,09:32.2,7.825339622222222,0.81,30,62,8,5,50.0,1,Yes,5,Surrey,Healthcare,Evening,Garmin,6.0,3.0,26.9,Coffee,Melatonin
+331,49,Female,2025-01-29 1:42,51:07.2,6.145326624722222,0.7,17,66,17,5,0.0,4,No,5,Vancouver,Tech,Intermediate,Fitbit,1.5,1.0,21.3,Tea,Prescription
+332,48,Female,2025-11-21 17:27,16:06.5,7.810406851388889,0.63,25,31,44,2,25.0,4,No,5,Vancouver,Hospitality,Morning,Android App,7.1,4.0,26.4,Tea,
+333,72,Male,2025-04-16 3:57,39:06.5,8.685966935,0.91,15,26,59,4,0.0,1,No,5,Coquitlam,Retail,Intermediate,Oura,5.9,10.0,28.5,,
+334,78,Male,2025-07-23 23:04,00:30.6,7.926554950833333,0.62,16,25,59,2,50.0,0,No,0,Langley,Tech,Morning,Fitbit,4.4,5.0,19.3,Coffee,
+335,49,Male,2025-12-22 18:16,39:06.6,6.369611963333333,0.77,17,63,20,5,,0,Yes,4,Delta,Tech,Evening,Android App,5.7,1.0,18.6,Coffee,
+336,29,Male,2025-06-06 11:15,02:26.7,5.789354169444445,0.6,30,34,36,2,50.0,0,No,4,Vancouver,Tech,Intermediate,Oura,3.1,5.0,32.5,Coffee,Herbal
+337,18,Male,2025-07-22 9:15,23:43.5,5.129865791111111,0.6,23,66,11,3,0.0,3,No,5,Vancouver,Office,Intermediate,Oura,3.5,3.0,26.6,Tea,Herbal
+338,76,Male,2025-04-25 9:15,20:29.3,8.079522055833333,0.93,25,27,48,3,50.0,4,Yes,2,Richmond,Unemployed,Evening,Manual Entry,3.7,9.0,23.1,Coffee,
+339,48,Male,2025-12-04 17:56,17:49.1,6.360571946388889,0.91,30,47,23,5,0.0,2,No,4,New Westminster,Office,Intermediate,Garmin,1.2,1.0,20.8,Tea,
+340,63,Female,2025-11-05 18:32,54:59.4,8.379553816,0.64,21,26,53,5,25.0,4,Yes,4,Delta,Healthcare,Intermediate,Garmin,6.1,8.0,22.7,Coffee,
+341,46,Male,2025-12-24 15:09,14:20.3,5.088976706388889,0.93,25,59,16,4,25.0,3,Yes,5,Langley,Tech,Evening,Oura,6.6,5.0,19.6,Energy Drink,
+342,64,Male,2025-04-06 10:46,55:37.3,8.145367920555556,0.77,19,60,21,0,50.0,5,Yes,1,Richmond,Healthcare,Evening,Apple Watch,3.2,1.0,29.0,Energy Drink,Herbal
+343,48,Male,2025-11-25 15:51,08:56.1,5.286146373611111,0.93,30,26,44,0,25.0,2,No,1,Burnaby,Office,Evening,Fitbit,5.1,7.0,21.5,Coffee,
+344,46,Female,2025-03-09 17:29,11:02.5,7.688197132222222,0.56,21,27,52,5,50.0,1,Yes,3,Vancouver,Unemployed,Morning,Manual Entry,4.0,5.0,29.9,,
+345,69,Male,2025-12-15 14:34,07:45.6,8.556010291,0.52,21,66,13,2,,2,Yes,2,Burnaby,Student,Intermediate,Apple Watch,5.1,8.0,23.2,,
+346,60,Male,2025-06-12 10:11,05:35.4,5.89594009,0.53,22,65,13,4,50.0,1,No,1,Vancouver,Office,Morning,Oura,3.4,7.0,20.3,Coffee,
+347,66,Female,2025-01-25 13:06,06:35.2,8.003111014166667,0.74,17,43,40,0,0.0,4,No,0,Langley,Unemployed,Evening,Apple Watch,2.9,8.0,23.1,Coffee,
+348,72,Male,2025-06-24 15:14,18:18.8,6.065216033055556,0.87,18,37,45,3,50.0,0,No,1,Surrey,Tech,Intermediate,Apple Watch,6.4,5.0,16.0,Tea,Melatonin
+349,62,Male,2025-04-19 19:36,10:28.3,6.566754916944444,0.58,26,55,19,2,,3,No,3,Langley,Student,Intermediate,Oura,4.4,1.0,24.5,Coffee,
+350,50,Male,2025-03-15 2:28,18:57.8,7.840226099166666,0.79,25,27,48,0,25.0,1,No,5,North Vancouver,Hospitality,Morning,Android App,8.1,2.0,24.2,Coffee,
+351,44,Female,2025-05-20 10:26,00:44.5,7.568465977777778,0.67,20,50,30,3,25.0,3,Yes,4,North Vancouver,Unemployed,Intermediate,Garmin,4.6,5.0,28.7,Coffee,
+352,22,Male,2025-08-22 10:04,55:38.9,7.853031939166667,0.81,27,61,12,0,,3,Yes,0,Coquitlam,Student,Intermediate,Fitbit,2.8,4.0,16.5,,
+353,68,Male,2025-01-19 23:55,55:24.7,5.997136653,0.67,18,68,14,5,25.0,1,Yes,4,Langley,Healthcare,Morning,Apple Watch,6.7,8.0,30.2,Coffee,
+354,55,Male,2025-10-08 5:21,10:22.8,7.811895759444445,0.78,17,34,49,2,25.0,2,Yes,5,Vancouver,Healthcare,Morning,Fitbit,5.6,5.0,28.7,Tea,
+355,76,Male,2025-08-13 20:00,21:39.2,6.345042513611111,0.68,23,48,29,1,50.0,1,Yes,0,Vancouver,Office,Evening,Manual Entry,5.8,9.0,30.6,Coffee,
+356,63,Male,2025-01-29 17:01,31:07.3,7.496741360833333,0.51,23,39,38,3,50.0,2,No,4,Coquitlam,Office,Evening,Apple Watch,,2.0,24.8,Coffee,
+357,50,Female,2025-04-13 14:47,28:03.4,5.680934846666667,0.76,27,39,34,1,50.0,1,Yes,1,Richmond,Office,Morning,Garmin,3.3,4.0,29.6,Energy Drink,Melatonin
+358,61,Female,2025-03-20 15:22,57:57.7,8.591592895833333,0.81,19,55,26,1,25.0,5,Yes,2,North Vancouver,Office,Intermediate,Fitbit,4.3,8.0,18.4,Coffee,
+359,73,Female,2025-08-09 3:43,01:01.4,8.285679943611111,0.88,19,42,39,4,,0,No,3,,Healthcare,Evening,Garmin,4.2,2.0,28.2,Coffee,Prescription
+360,28,Male,2025-08-21 0:37,06:34.4,6.482623223333333,0.84,24,70,6,2,50.0,1,Yes,2,North Vancouver,Healthcare,Intermediate,Manual Entry,2.2,4.0,21.5,Coffee,
+361,76,Female,2025-03-17 5:00,45:17.8,8.741052372222223,0.78,17,58,25,1,0.0,4,No,4,Surrey,Office,Intermediate,Garmin,4.0,8.0,17.6,Tea,
+362,73,Male,2025-07-16 9:58,45:56.9,6.797187783055556,0.63,27,53,20,5,0.0,5,No,3,Richmond,Trades,Intermediate,Oura,6.9,6.0,19.9,Coffee,
+363,51,Male,2025-11-24 15:17,00:11.7,5.7049265841666665,0.86,21,69,10,3,,4,Yes,3,Delta,Office,Intermediate,Apple Watch,4.9,8.0,25.0,Coffee,
+364,49,Male,2025-02-16 16:17,39:15.5,5.359303674722222,0.52,23,33,44,5,50.0,5,No,5,Surrey,Hospitality,Morning,Fitbit,2.1,6.0,21.3,Coffee,
+365,34,Female,2025-09-25 3:40,37:45.4,5.9503773763888885,0.92,18,32,50,1,,2,No,2,North Vancouver,Office,Intermediate,Android App,1.7,9.0,26.7,Coffee,
+366,72,Female,2025-09-06 15:01,26:56.1,8.428078138055556,0.59,22,36,42,5,50.0,5,No,1,North Vancouver,Unemployed,Morning,Fitbit,7.5,9.0,16.9,Coffee,Melatonin
+367,34,Male,2025-07-06 9:18,38:13.6,8.322667155277777,0.59,26,45,29,4,0.0,3,No,1,Delta,Retail,Morning,Garmin,4.3,10.0,16.0,Coffee,
+368,25,Male,2025-06-23 3:40,53:27.6,8.210159672777777,0.73,22,25,53,5,50.0,3,No,2,Delta,Hospitality,Intermediate,Apple Watch,3.3,2.0,31.2,Coffee,
+369,61,Female,2025-04-19 18:15,53:42.3,8.635095748,0.77,16,56,28,5,25.0,0,No,5,Coquitlam,Tech,Evening,Fitbit,4.0,6.0,29.1,Coffee,Herbal
+370,74,Male,2025-03-15 3:13,44:25.8,5.516604367222222,0.62,25,30,45,4,,1,Yes,4,Richmond,Trades,Evening,Oura,1.8,2.0,20.3,Tea,
+371,26,Male,2025-05-15 14:49,15:53.2,6.438660943611112,0.53,20,44,36,1,50.0,4,Yes,1,Richmond,Retail,Intermediate,Manual Entry,7.1,3.0,25.0,Tea,Herbal
+372,52,Male,2025-01-31 8:06,50:43.0,6.731951167222222,0.84,27,57,16,2,50.0,2,Yes,3,Coquitlam,Trades,Intermediate,Fitbit,3.8,4.0,29.6,Coffee,Melatonin
+373,29,Female,2025-04-25 18:09,10:09.5,7.003745974444445,0.76,16,67,17,1,0.0,2,Yes,1,Surrey,Student,Intermediate,Android App,7.0,7.0,26.9,Coffee,Melatonin
+374,31,Female,2025-07-25 9:01,06:43.0,8.094731923055555,0.75,28,47,25,2,0.0,4,Yes,2,New Westminster,Trades,Intermediate,Oura,4.6,5.0,25.7,Coffee,Melatonin
+375,76,Male,2025-06-03 1:52,35:42.1,6.7219672188888895,0.87,27,31,42,5,,5,Yes,2,Surrey,Trades,Intermediate,Android App,7.1,9.0,29.9,,
+376,22,Male,2025-05-15 22:31,27:47.7,7.931866246111111,0.6,17,26,57,5,0.0,1,Yes,0,New Westminster,Office,Intermediate,Fitbit,5.0,3.0,21.7,Coffee,
+377,40,Male,2025-02-17 21:08,02:17.0,6.900826009999999,0.52,15,49,36,5,,5,No,3,Delta,Student,Intermediate,Manual Entry,6.0,7.0,25.1,Coffee,Melatonin
+378,78,Male,2025-07-07 14:42,37:01.1,8.910303443888889,0.83,28,60,12,0,,3,No,5,Victoria,Unemployed,Evening,Fitbit,5.8,8.0,24.9,Coffee,Melatonin
+379,21,Female,2025-08-01 15:19,36:47.0,5.281951672222222,0.78,28,62,10,1,50.0,1,No,1,,Retail,Evening,Manual Entry,5.6,10.0,23.8,Coffee,
+380,33,Female,2025-07-07 20:44,30:30.7,6.767418883055555,0.72,23,68,9,0,0.0,2,Yes,5,Delta,Healthcare,Morning,Oura,5.1,3.0,23.2,Coffee,
+381,18,Male,2025-03-20 0:18,15:56.0,5.959457118611111,0.56,25,38,37,2,,4,No,3,Vancouver,Unemployed,Intermediate,Garmin,4.1,8.0,25.3,Coffee,
+382,72,Male,2025-10-23 19:00,03:14.7,8.048263916666667,0.7,28,70,2,4,25.0,2,No,3,Richmond,Office,Morning,Fitbit,7.9,1.0,25.2,Tea,
+383,18,Female,2025-05-15 1:10,43:39.5,8.554295447777777,0.71,29,29,42,3,25.0,2,Yes,0,Burnaby,Healthcare,Intermediate,Oura,2.9,6.0,20.3,Tea,
+384,62,Male,2025-07-17 0:50,29:26.6,5.648221196944444,0.73,28,26,46,1,50.0,2,Yes,1,Burnaby,Hospitality,Intermediate,Fitbit,4.5,5.0,28.6,Tea,Melatonin
+385,77,Female,2026-01-03 9:23,15:56.2,7.866722933,0.7,29,48,23,4,25.0,4,No,0,Burnaby,Tech,Morning,Oura,4.5,10.0,20.6,Tea,Melatonin
+386,29,Female,2025-10-04 11:34,56:36.2,8.373934801388888,0.56,20,60,20,3,25.0,4,Yes,1,Vancouver,Healthcare,Evening,Android App,5.2,8.0,24.0,Coffee,
+387,25,Male,2025-04-23 4:51,12:28.1,7.357251295,0.82,27,48,25,4,0.0,0,Yes,1,Langley,Trades,Intermediate,Apple Watch,3.7,10.0,23.7,,
+388,43,Male,2025-03-19 15:06,21:43.4,5.261790808055555,0.87,27,46,27,5,25.0,0,No,0,Vancouver,Student,Evening,Apple Watch,5.1,9.0,26.6,Tea,
+389,46,Male,2025-01-29 10:22,49:19.9,6.44275394,0.85,29,26,45,0,0.0,0,No,5,Richmond,Student,Morning,Apple Watch,4.2,5.0,16.0,Energy Drink,
+390,48,Male,2025-06-08 19:28,05:36.8,8.612434964722222,0.65,21,60,19,2,25.0,4,No,5,New Westminster,Office,Morning,Apple Watch,1.7,8.0,29.0,Tea,
+391,76,Male,2025-05-23 12:06,34:24.5,7.458477517777778,0.69,22,31,47,0,,5,Yes,4,Victoria,Hospitality,Intermediate,Fitbit,4.5,1.0,22.0,Coffee,
+392,45,Female,2025-06-29 22:25,03:16.7,8.630485094722221,0.89,25,64,11,3,0.0,3,No,4,Langley,Tech,Morning,Apple Watch,2.5,6.0,30.5,Coffee,
+393,59,Male,2025-07-18 8:08,58:09.4,7.826785899444444,0.62,18,50,32,2,,3,No,4,Burnaby,Healthcare,Intermediate,Oura,1.4,1.0,22.8,Coffee,
+394,72,Male,2025-08-15 6:56,14:45.1,6.307813457777778,0.55,22,31,47,5,,4,No,0,Victoria,Hospitality,Evening,Apple Watch,4.7,8.0,24.8,Coffee,
+395,43,Female,2025-11-15 20:35,53:52.2,8.299215674722221,0.66,16,68,16,4,0.0,5,No,0,,,,,,,,,
+396,49,Male,2025-09-04 10:29,36:55.5,6.132072429166667,0.75,25,51,24,3,0.0,0,Yes,5,New Westminster,Office,Morning,Android App,5.4,10.0,33.6,Coffee,
+397,79,Male,2025-05-17 6:43,03:45.5,6.3312385919444445,0.81,25,58,17,1,,4,Yes,2,Burnaby,Office,Morning,Android App,5.4,7.0,23.8,Coffee,
+398,21,Male,2025-02-27 16:47,26:52.3,7.658149918,0.77,16,42,42,0,,4,Yes,3,Coquitlam,Healthcare,Intermediate,Android App,5.5,9.0,30.6,Coffee,
+399,32,Female,2025-07-04 12:56,56:41.0,6.007501590277777,0.71,25,32,43,0,25.0,1,Yes,2,Victoria,Unemployed,Intermediate,Oura,1.0,3.0,25.2,,
+400,39,Female,2025-02-03 12:40,35:37.1,5.915595072222223,0.65,24,27,49,5,,0,No,0,Richmond,Retail,Intermediate,Apple Watch,2.1,10.0,26.9,Tea,
+401,42,Male,2025-07-29 18:17,35:01.9,8.28525571,0.84,30,52,18,3,25.0,0,Yes,1,Burnaby,Hospitality,Intermediate,Manual Entry,8.1,6.0,25.3,Tea,
+402,54,Female,2025-09-04 8:33,12:39.4,8.660670570277778,0.8,21,59,20,4,0.0,1,No,0,Langley,Office,Evening,Apple Watch,2.6,7.0,,Coffee,
+403,67,Male,2025-11-13 0:57,22:58.8,5.421603354444445,0.91,18,64,18,5,0.0,3,Yes,0,Victoria,Hospitality,Morning,Garmin,,8.0,21.9,Tea,Herbal
+404,66,Female,2025-07-17 16:42,40:25.8,5.968009410833334,0.69,24,67,9,5,0.0,0,No,5,Victoria,Student,Intermediate,Garmin,3.3,7.0,20.6,Energy Drink,
+405,38,Female,2025-10-17 7:41,28:29.8,6.79106174,0.51,18,57,25,1,,5,Yes,3,Victoria,Office,Intermediate,Android App,4.6,4.0,22.1,Tea,
+406,70,Male,2025-03-01 3:02,26:47.5,6.399588096944444,0.58,24,62,14,4,0.0,4,No,2,Langley,Retail,Evening,Oura,3.4,7.0,25.4,Tea,
+407,18,Male,2025-02-21 10:08,53:11.0,7.745552030833333,0.52,23,36,41,4,25.0,0,No,3,Coquitlam,Student,Intermediate,Android App,5.5,7.0,24.0,Coffee,Melatonin
+408,48,Female,2025-04-28 16:52,56:57.0,6.07804827,0.65,19,45,36,4,,4,No,3,Burnaby,Hospitality,Intermediate,Manual Entry,4.7,9.0,28.2,Coffee,Melatonin
+409,74,Female,2025-01-20 0:23,34:29.8,8.186058805,0.55,22,47,31,5,,3,No,0,New Westminster,Hospitality,Morning,Garmin,3.7,5.0,30.9,Tea,
+410,45,Male,2025-12-06 18:41,22:20.8,8.688566039166666,0.53,28,40,32,1,25.0,3,Yes,4,Surrey,Retail,Morning,Manual Entry,2.6,6.0,20.6,,
+411,62,Male,2025-07-05 3:55,36:17.6,6.683209929444445,0.75,20,66,14,5,25.0,4,Yes,1,Coquitlam,Trades,Morning,Apple Watch,5.0,6.0,21.7,Coffee,
+412,56,Male,2025-01-21 9:35,31:44.9,8.936625551666667,0.83,16,68,16,4,0.0,5,Yes,2,New Westminster,Student,Intermediate,Manual Entry,2.3,2.0,18.5,Coffee,
+413,39,Female,2025-01-21 16:45,55:40.6,7.177097884166666,0.92,29,50,21,2,0.0,4,No,0,Victoria,Retail,Intermediate,Apple Watch,5.3,1.0,34.1,Coffee,
+414,44,Female,2025-12-01 15:09,57:43.7,5.800744114444444,0.94,15,46,39,1,,0,Yes,5,Surrey,Retail,Intermediate,Manual Entry,9.2,1.0,26.4,Coffee,
+415,79,Male,2025-08-05 1:41,03:46.6,8.367390897777778,0.93,16,39,45,2,,2,Yes,3,,,,,,,,,
+416,71,Female,2025-03-02 21:51,27:33.7,6.604069645277778,0.76,18,25,57,2,25.0,5,No,4,Surrey,Hospitality,Morning,Garmin,6.9,7.0,27.2,,Herbal
+417,21,Male,2025-04-27 14:10,12:07.1,5.028916779999999,0.74,24,54,22,5,50.0,1,Yes,0,Delta,Retail,Evening,Manual Entry,5.8,5.0,19.0,Tea,Melatonin
+418,21,Female,2025-11-25 17:58,46:25.7,8.797704757777778,0.78,26,64,10,5,0.0,1,Yes,0,Vancouver,Office,Evening,Fitbit,4.3,9.0,25.0,Coffee,
+419,45,Male,2025-08-17 8:28,47:01.4,6.308987540555556,0.58,18,56,26,2,,5,Yes,5,North Vancouver,Student,Morning,Garmin,1.0,8.0,27.3,Coffee,Herbal
+420,57,Female,2025-03-02 11:06,34:18.2,7.457844685555556,0.87,19,42,39,5,25.0,1,No,3,Delta,Hospitality,Morning,Manual Entry,2.1,2.0,23.9,Coffee,
+421,25,Male,2025-05-16 2:00,37:31.1,8.622531268,0.91,28,63,9,0,,1,No,3,North Vancouver,Office,Morning,Fitbit,6.8,2.0,29.8,Coffee,
+422,51,Male,2026-01-15 21:40,41:50.2,5.018666980277778,0.89,28,44,28,5,25.0,5,No,2,,,,,,,,,
+423,80,Female,2025-05-28 6:43,42:44.9,5.986906535555556,0.86,19,69,12,3,50.0,4,Yes,0,,,,,,,,,
+424,19,Male,2025-07-24 20:40,43:30.4,8.051504244166667,0.64,21,41,38,5,,2,Yes,2,Richmond,Unemployed,Evening,Apple Watch,3.1,4.0,35.4,Coffee,Melatonin
+425,65,Female,2025-10-21 7:32,42:08.0,8.161680050000001,0.59,20,54,26,2,,2,Yes,4,,Student,Morning,Fitbit,3.2,10.0,20.7,Energy Drink,
+426,65,Female,2025-12-08 14:59,48:29.1,6.808644776388888,0.5,27,55,18,1,0.0,2,No,0,Richmond,Tech,Intermediate,Apple Watch,4.2,1.0,20.4,Tea,
+427,62,Male,2025-08-14 22:32,40:42.3,8.144526542222222,0.66,25,44,31,5,50.0,5,No,0,Delta,Unemployed,Intermediate,Garmin,2.6,2.0,21.1,Coffee,
+428,43,Female,2025-05-05 13:42,29:10.3,6.771758871388888,0.56,19,28,53,0,25.0,5,Yes,0,Coquitlam,Healthcare,Evening,Oura,2.3,1.0,32.2,Tea,
+429,53,Female,2025-08-28 8:47,11:18.0,5.400823368055555,0.89,18,58,24,3,0.0,0,Yes,5,Vancouver,Student,Intermediate,Apple Watch,4.4,5.0,29.7,Tea,
+430,47,Male,2025-03-05 20:09,30:30.4,8.343156388,0.61,29,32,39,2,50.0,3,Yes,1,North Vancouver,Unemployed,Intermediate,Fitbit,2.9,10.0,24.4,Coffee,
+431,20,Male,2025-12-17 18:25,17:02.1,8.853079300555555,0.85,16,44,40,1,,4,Yes,5,Vancouver,Office,Evening,Apple Watch,3.2,7.0,25.2,Tea,
+432,54,Female,2025-02-27 0:00,06:27.1,7.095295426666668,0.76,20,52,28,2,0.0,2,Yes,3,Victoria,Retail,Morning,Manual Entry,3.1,5.0,21.3,Tea,
+433,22,Male,2025-11-04 1:25,17:06.0,8.862513883333333,0.85,22,48,30,2,25.0,5,No,0,New Westminster,Unemployed,Evening,Manual Entry,5.4,2.0,29.0,Energy Drink,
+434,47,Male,2025-01-26 8:29,55:13.3,6.430904058055556,0.51,22,49,29,4,,1,Yes,2,Richmond,Tech,Morning,Apple Watch,4.1,4.0,23.3,Coffee,
+435,41,Female,2025-07-30 15:52,03:15.6,8.186832664,0.86,19,41,40,2,,5,Yes,3,,,,,,,,,
+436,75,Male,2025-05-20 0:48,54:40.6,8.095993295,0.78,23,41,36,0,0.0,3,Yes,1,Coquitlam,Student,Intermediate,Apple Watch,4.2,6.0,23.8,Coffee,
+437,74,Male,2025-02-18 20:03,03:59.4,7.015118384166667,0.59,24,35,41,3,0.0,4,No,2,New Westminster,Hospitality,Evening,Fitbit,5.6,3.0,27.7,Coffee,
+438,21,Female,2025-12-02 22:05,37:22.7,7.535191845,0.79,19,46,35,5,25.0,5,No,1,Surrey,Office,Intermediate,Manual Entry,4.2,8.0,24.2,Coffee,
+439,53,Male,2025-09-22 17:10,15:11.2,7.086160611666666,0.79,18,52,30,0,,0,Yes,0,Surrey,Tech,Intermediate,Android App,4.0,10.0,23.9,Coffee,Melatonin
+440,48,Female,2025-03-24 5:01,45:40.2,5.737273319722222,0.71,16,32,52,3,25.0,3,No,1,Coquitlam,Retail,Intermediate,Android App,5.3,3.0,25.0,Tea,
+441,48,Female,2026-01-12 14:12,22:15.2,7.158108693,0.91,27,41,32,3,50.0,1,No,3,Surrey,Trades,Intermediate,Apple Watch,5.7,3.0,28.6,Coffee,Melatonin
+442,72,Male,2025-02-23 13:48,31:19.7,8.706862351666667,0.81,20,62,18,3,,5,Yes,2,Delta,Healthcare,Intermediate,Oura,4.2,2.0,32.4,Coffee,Melatonin
+443,43,Male,2025-10-13 16:57,33:06.6,7.586006698055556,0.84,15,32,53,2,50.0,4,Yes,2,Burnaby,Student,Intermediate,Fitbit,4.6,8.0,27.6,,
+444,19,Male,2025-10-29 1:18,25:47.2,6.125884530555556,0.7,18,50,32,3,50.0,5,Yes,0,Langley,Unemployed,Intermediate,Android App,3.1,5.0,28.6,Coffee,Melatonin
+445,34,Female,2025-01-30 1:01,03:30.9,6.039969260277778,0.84,22,35,43,0,25.0,5,Yes,0,Richmond,Office,Intermediate,Oura,3.0,3.0,24.1,Coffee,Melatonin
+446,43,Male,2025-07-15 1:21,57:47.7,7.599643578055556,0.89,25,29,46,5,25.0,4,No,0,North Vancouver,Trades,Intermediate,Apple Watch,5.9,3.0,21.8,Tea,
+447,72,Female,2025-06-21 14:49,23:41.7,5.571853949722223,0.69,20,31,49,1,,5,No,3,Burnaby,Retail,Intermediate,Android App,5.3,1.0,27.9,Coffee,
+448,73,Male,2025-12-05 15:19,20:38.6,6.018504894444445,0.52,22,33,45,1,25.0,1,Yes,5,Richmond,Tech,Intermediate,Oura,5.3,5.0,25.8,Coffee,Melatonin
+449,74,Female,2025-04-14 10:04,23:49.6,8.315721976666667,0.6,28,39,33,0,,2,Yes,4,Delta,Retail,Morning,Garmin,5.0,7.0,18.6,Tea,Herbal
+450,62,Male,2025-05-03 5:56,19:36.4,5.378458313611111,0.7,18,42,40,1,50.0,2,Yes,5,Surrey,Retail,Evening,Apple Watch,4.6,3.0,23.5,Coffee,
+451,71,Male,2025-09-07 6:06,05:33.5,6.978202848611112,0.84,23,64,13,5,0.0,3,No,4,,,,,,,,,
+452,21,Female,2025-11-21 1:08,59:22.6,7.840162138055555,0.73,24,65,11,4,50.0,3,No,4,Burnaby,Retail,Intermediate,Fitbit,5.8,1.0,24.6,Coffee,Melatonin
+453,76,Male,2025-07-06 2:38,11:52.9,7.549429847222222,0.54,16,43,41,4,0.0,1,Yes,1,North Vancouver,Hospitality,Morning,Manual Entry,6.2,5.0,22.7,Coffee,Melatonin
+454,60,Male,2025-10-01 0:46,36:08.6,8.828767189444445,0.69,16,41,43,2,50.0,5,No,0,Burnaby,Healthcare,Intermediate,Apple Watch,6.1,7.0,31.7,Energy Drink,Melatonin
+455,60,Male,2025-08-25 6:17,30:55.4,8.216221269722222,0.84,23,48,29,3,,0,No,0,Richmond,Hospitality,Evening,Apple Watch,4.3,4.0,27.2,Coffee,Herbal
+456,52,Male,2025-06-03 6:04,22:19.4,5.294828192222222,0.59,30,28,42,4,50.0,4,Yes,3,Coquitlam,Hospitality,Morning,Android App,7.0,3.0,31.2,Tea,
+457,78,Male,2025-04-03 20:07,19:04.5,6.189593208611111,0.71,24,33,43,5,50.0,2,Yes,3,North Vancouver,Unemployed,Morning,Apple Watch,4.9,2.0,26.2,Coffee,
+458,75,Female,2025-05-19 17:22,09:51.8,5.788545335555556,0.58,25,57,18,1,0.0,2,Yes,2,New Westminster,Unemployed,Morning,Garmin,5.6,8.0,25.4,Tea,
+459,40,Female,2025-02-17 23:57,10:30.5,8.209866740277777,0.55,18,60,22,0,0.0,1,Yes,1,New Westminster,Hospitality,Morning,Android App,5.0,9.0,20.8,Coffee,
+460,22,Male,2025-02-19 9:50,38:38.9,5.8002487375000005,0.8,15,67,18,1,25.0,0,Yes,4,Langley,Office,Evening,Oura,4.9,8.0,25.1,Coffee,
+461,68,Male,2025-02-28 23:41,52:42.3,5.192870334166666,0.6,16,33,51,0,0.0,4,No,0,Vancouver,Hospitality,Evening,Oura,3.2,6.0,25.1,Coffee,Melatonin
+462,73,Female,2026-01-15 6:03,41:20.1,7.637818525833333,0.58,30,52,18,3,0.0,1,No,5,Richmond,Tech,Morning,Fitbit,5.8,8.0,18.8,Tea,Prescription
+463,36,Male,2025-05-01 18:21,27:46.3,6.107590095277778,0.74,24,26,50,0,,3,Yes,0,Vancouver,Trades,Intermediate,Garmin,9.6,4.0,22.6,Coffee,
+464,62,Female,2025-09-19 14:13,07:35.8,6.9030091138888885,0.51,24,67,9,5,,0,Yes,0,Vancouver,Tech,Morning,Garmin,3.8,1.0,23.5,Coffee,
+465,72,Female,2025-11-08 13:48,33:05.8,5.746879929722223,0.85,18,37,45,0,25.0,5,Yes,4,Surrey,Trades,Intermediate,Oura,4.6,4.0,26.9,Coffee,
+466,43,Male,2026-01-05 21:58,56:24.0,5.959992608333333,0.6,27,38,35,0,25.0,4,No,0,North Vancouver,Retail,Evening,Fitbit,3.7,8.0,27.1,Coffee,
+467,48,Female,2025-02-25 13:20,08:36.3,5.806187406666667,0.68,27,33,40,5,0.0,2,No,2,Langley,Hospitality,Intermediate,Fitbit,3.6,7.0,22.4,Tea,
+468,18,Female,2025-12-28 23:18,42:09.3,5.402036526388889,0.75,29,57,14,0,0.0,1,Yes,2,Delta,Office,Morning,Android App,7.3,10.0,27.1,Coffee,
+469,19,Female,2025-01-17 14:24,47:28.8,5.390787326666667,0.91,25,63,12,3,0.0,5,No,5,New Westminster,Trades,Intermediate,Android App,3.3,10.0,24.2,Coffee,
+470,52,Male,2025-04-18 7:11,51:42.1,7.664755025277778,0.52,20,25,55,1,50.0,2,Yes,0,Delta,Hospitality,Evening,Android App,3.6,3.0,16.0,Coffee,Melatonin
+471,54,Female,2025-04-01 20:57,23:29.3,5.432029143333334,0.63,21,64,15,4,0.0,3,No,5,Burnaby,Healthcare,Intermediate,Apple Watch,1.6,1.0,22.8,Coffee,
+472,53,Male,2025-04-15 10:30,48:06.8,8.295784733,0.74,30,68,2,5,50.0,5,Yes,1,Langley,Unemployed,Morning,Manual Entry,3.1,3.0,29.9,Coffee,
+473,68,Female,2025-06-25 5:59,43:02.1,6.717792121388889,0.91,25,69,6,2,25.0,2,No,4,Langley,Student,Morning,Apple Watch,1.4,9.0,17.4,Coffee,
+474,28,Female,2025-02-04 21:16,22:52.4,6.100666971111112,0.82,25,55,20,0,0.0,4,Yes,3,Vancouver,Tech,Intermediate,Oura,5.6,9.0,25.5,Coffee,
+475,68,Female,2025-07-01 16:30,33:14.4,7.049271311111111,0.82,20,26,54,0,0.0,4,Yes,5,Coquitlam,Hospitality,Intermediate,Fitbit,9.5,1.0,32.1,,Herbal
+476,35,Male,2025-06-03 1:39,02:39.9,6.381362031,0.83,19,70,11,3,50.0,5,No,5,Langley,Unemployed,Evening,Manual Entry,3.8,2.0,21.6,Coffee,Prescription
+477,73,Male,2025-12-09 8:41,39:26.8,8.961601806666666,0.55,18,59,23,0,50.0,4,Yes,3,Coquitlam,Office,Evening,Apple Watch,1.5,6.0,25.0,Energy Drink,
+478,30,Female,2025-09-14 16:09,09:38.1,7.002238730555556,0.95,15,38,47,2,,4,No,0,Langley,Unemployed,Evening,Android App,6.1,7.0,19.1,Coffee,
+479,29,Male,2025-04-29 1:33,14:38.3,6.682870438888888,0.92,16,45,39,5,,5,No,2,Victoria,Healthcare,Evening,Apple Watch,3.2,10.0,32.3,Coffee,
+480,75,Male,2025-07-06 8:32,07:51.0,5.585837202777778,0.63,15,47,38,2,50.0,5,No,4,Coquitlam,Trades,Morning,Android App,6.8,8.0,24.6,Coffee,
+481,53,Male,2025-11-17 2:44,36:39.5,5.864579378888889,0.52,26,49,25,5,0.0,1,No,4,Vancouver,Trades,Intermediate,Garmin,4.0,3.0,25.2,Coffee,
+482,70,Male,2025-04-03 19:34,32:18.7,6.968253588611112,0.57,22,47,31,1,25.0,5,Yes,3,Richmond,Tech,Intermediate,Fitbit,3.4,1.0,31.1,Tea,
+483,32,Female,2025-02-23 12:08,08:08.3,6.9892637438888885,0.67,28,70,2,5,,4,Yes,2,Surrey,Tech,Intermediate,Apple Watch,4.2,7.0,28.0,Energy Drink,
+484,68,Female,2025-03-22 20:01,53:52.6,6.8701766116666665,0.61,30,54,16,1,,5,No,4,Coquitlam,Healthcare,Evening,Android App,5.9,6.0,21.1,Tea,
+485,47,Male,2025-11-09 17:35,47:07.8,7.187986758055556,0.55,29,25,46,3,0.0,3,No,1,,,,,,,,,
+486,79,Female,2025-08-23 19:08,36:19.9,8.462202589,0.65,27,56,17,0,25.0,0,Yes,4,North Vancouver,Student,Intermediate,Apple Watch,4.1,10.0,22.1,Tea,
+487,43,Female,2025-03-08 7:06,40:56.1,8.570596681388889,0.63,30,52,18,3,,4,No,4,Coquitlam,Unemployed,Evening,Apple Watch,3.6,6.0,27.2,Coffee,
+488,80,Female,2025-11-21 22:36,43:54.5,5.126237867777777,0.63,20,68,12,1,,1,No,1,Burnaby,Office,Intermediate,Oura,4.1,6.0,22.2,Coffee,
+489,26,Male,2025-11-26 5:28,46:29.8,5.30801129,0.51,28,25,47,0,50.0,0,Yes,1,Richmond,Student,Intermediate,Apple Watch,2.2,4.0,16.0,Tea,
+490,32,Female,2025-07-17 16:29,08:46.8,5.662152973611111,0.83,21,41,38,1,0.0,1,No,3,New Westminster,Retail,Intermediate,Fitbit,5.2,1.0,24.8,Coffee,
+491,20,Male,2025-08-01 19:19,16:59.4,8.957609313611112,0.61,26,68,6,3,25.0,5,No,4,Vancouver,Healthcare,Morning,Oura,1.3,9.0,18.3,Coffee,
+492,39,Female,2025-04-25 12:19,18:13.1,5.9750140994444445,0.83,28,42,30,0,25.0,5,Yes,1,Surrey,Retail,Morning,Android App,3.7,9.0,32.3,,
+493,52,Female,2025-01-23 7:31,21:54.3,6.835373939444445,0.84,27,63,10,5,,2,No,4,Langley,Unemployed,Intermediate,Android App,5.9,2.0,25.8,,Melatonin
+494,49,Female,2025-09-01 21:48,12:26.2,8.396457966111111,0.53,28,29,43,0,0.0,0,Yes,2,Vancouver,Student,Morning,Manual Entry,5.0,8.0,20.9,Tea,Herbal
+495,67,Male,2025-04-01 8:37,52:19.1,6.248916022222222,0.92,27,59,14,2,,2,Yes,5,Coquitlam,Trades,Evening,Fitbit,5.6,4.0,21.9,Coffee,
+496,65,Male,2025-03-20 19:41,52:31.6,8.184054644722222,0.7,17,62,21,5,0.0,2,No,4,Surrey,Retail,Morning,Garmin,4.4,5.0,16.5,Energy Drink,Melatonin
+497,77,Female,2025-10-15 10:20,16:25.9,6.9322013433333325,0.64,25,51,24,2,,3,No,3,Burnaby,Hospitality,Morning,Apple Watch,6.6,9.0,20.1,Coffee,
+498,18,Male,2025-05-05 23:37,12:32.5,5.580972626388889,0.82,28,53,19,2,0.0,2,No,1,Coquitlam,Retail,Evening,Manual Entry,6.2,9.0,29.6,Coffee,
+499,66,Female,2025-04-11 1:38,47:26.4,7.155672713055555,0.68,26,54,20,0,25.0,2,Yes,3,North Vancouver,Healthcare,Morning,Oura,5.3,2.0,35.0,Coffee,
+500,51,Female,2025-10-15 8:52,25:54.2,6.560618692777778,0.71,19,44,37,1,,0,Yes,1,Burnaby,Retail,Evening,Fitbit,6.2,4.0,28.3,,
+501,45,Male,2025-04-23 2:25,03:55.0,6.638047812777778,0.69,29,50,21,1,25.0,0,No,4,Vancouver,Unemployed,Intermediate,Android App,5.9,9.0,24.6,,
+502,50,Male,2025-10-14 2:25,48:18.2,5.374211692222222,0.7,28,47,25,4,0.0,4,No,5,Burnaby,Healthcare,Morning,Fitbit,3.7,10.0,23.1,Tea,Herbal
+503,50,Male,2025-11-24 14:00,56:53.7,6.93740904,0.65,20,29,51,2,,5,Yes,2,New Westminster,Unemployed,Intermediate,Apple Watch,2.1,1.0,20.7,Coffee,
+504,53,Male,2025-06-02 5:18,53:24.5,5.588192869999999,0.68,29,41,30,5,50.0,2,No,1,Langley,Hospitality,Intermediate,Android App,5.3,9.0,34.3,Coffee,
+505,27,Female,2025-03-25 13:12,56:06.0,6.726393881111112,0.65,27,25,48,4,,0,Yes,1,Burnaby,Trades,Evening,Oura,5.5,5.0,24.2,Coffee,
+506,71,Female,2025-12-05 20:47,12:31.9,5.422757930277778,0.94,16,46,38,3,25.0,3,No,3,Richmond,Office,Evening,Android App,6.5,6.0,34.5,Energy Drink,
+507,29,Male,2025-11-07 3:14,46:57.2,5.540340713888889,0.51,27,40,33,4,25.0,1,Yes,5,Richmond,Hospitality,Intermediate,Oura,2.8,1.0,31.3,Coffee,
+508,34,Female,2025-04-17 7:44,28:27.7,6.732131098,0.62,28,49,23,0,25.0,4,Yes,4,Richmond,Office,Intermediate,Manual Entry,2.9,7.0,,Coffee,
+509,45,Male,2025-12-20 6:02,01:33.3,6.9814732769444445,0.92,20,42,38,4,50.0,0,Yes,5,Surrey,Trades,Intermediate,Oura,5.3,7.0,22.0,Tea,
+510,63,Male,2025-10-13 2:38,23:32.1,6.754185040277778,0.6,19,54,27,4,50.0,5,No,3,Vancouver,Office,Intermediate,Fitbit,4.4,7.0,22.0,Coffee,Melatonin
+511,53,Male,2025-05-29 11:55,32:34.3,8.624536693333333,0.7,22,64,14,5,,4,Yes,4,North Vancouver,Retail,Evening,Fitbit,1.1,8.0,24.6,Energy Drink,
+512,44,Male,2025-10-02 7:54,46:00.2,6.855619034166667,0.9,25,60,15,3,50.0,5,Yes,5,Richmond,Trades,Intermediate,Android App,5.2,10.0,24.7,Coffee,
+513,78,Male,2025-08-05 13:37,47:51.7,7.172969163055556,0.51,25,28,47,2,0.0,1,No,4,Richmond,Tech,Intermediate,Fitbit,1.2,9.0,38.5,Energy Drink,Melatonin
+514,51,Male,2025-04-25 18:39,55:17.7,5.264077188055556,0.51,24,60,16,0,25.0,3,Yes,3,Surrey,Unemployed,Intermediate,Garmin,2.8,8.0,20.2,Coffee,
+515,57,Female,2026-01-15 4:36,58:44.8,5.375491330277778,0.78,26,62,12,1,50.0,0,Yes,2,Victoria,Hospitality,Evening,Fitbit,6.9,10.0,26.0,Coffee,
+516,42,Female,2025-06-24 8:23,42:34.1,7.322534434444444,0.95,20,55,25,3,50.0,0,Yes,3,New Westminster,Unemployed,Evening,Apple Watch,7.8,7.0,27.8,Coffee,
+517,59,Female,2025-10-01 15:57,17:41.3,5.342297616944445,0.81,15,32,53,2,50.0,2,No,2,Coquitlam,Student,Morning,Oura,2.3,7.0,25.0,Coffee,
+518,57,Male,2025-06-04 4:54,54:51.3,5.008973885,0.8,28,28,44,2,0.0,4,No,5,Surrey,Healthcare,Morning,Apple Watch,3.9,6.0,25.5,Tea,
+519,47,Female,2025-04-17 9:54,28:12.6,6.569347333055555,0.63,29,61,10,0,25.0,2,Yes,2,,,,,,,,,
+520,58,Male,2025-09-18 5:47,05:20.9,5.291634823055556,0.85,24,33,43,0,25.0,5,No,4,Langley,Office,Intermediate,Garmin,4.6,8.0,20.3,Coffee,
+521,29,Male,2025-09-25 7:44,27:31.9,7.720802437222222,0.94,22,70,8,1,,5,No,0,Langley,Unemployed,Intermediate,Manual Entry,7.7,1.0,25.5,Coffee,
+522,52,Female,2025-03-29 5:27,56:00.6,6.469900394444444,0.54,24,37,39,0,25.0,0,No,2,Vancouver,Tech,Intermediate,Fitbit,3.6,6.0,27.3,Tea,
+523,18,Male,2025-03-26 10:38,16:02.3,5.630088113333334,0.5,19,60,21,3,0.0,3,No,3,Victoria,Trades,Morning,Fitbit,3.6,5.0,26.5,Coffee,
+524,49,Male,2025-08-31 1:04,15:01.1,6.181149486944444,0.61,29,45,26,1,25.0,5,No,5,New Westminster,Retail,Intermediate,Apple Watch,7.3,10.0,27.6,Tea,
+525,63,Female,2025-09-29 1:13,59:42.6,6.771276238611111,0.89,18,70,12,0,0.0,5,No,4,Vancouver,Retail,Intermediate,Android App,3.8,1.0,31.4,Tea,
+526,75,Female,2025-02-23 18:14,23:55.1,7.1517004913888895,0.6,24,28,48,5,,4,Yes,5,Delta,Healthcare,Intermediate,Garmin,5.8,7.0,29.2,Coffee,
+527,18,Male,2025-03-24 6:27,11:07.2,5.727278703055556,0.64,17,31,52,2,50.0,3,Yes,0,Burnaby,Healthcare,Intermediate,Oura,1.8,2.0,25.3,Tea,
+528,22,Male,2025-02-08 11:20,45:19.7,5.4182545808333336,0.75,16,41,43,2,0.0,0,Yes,0,Vancouver,Student,Intermediate,Fitbit,4.2,9.0,19.7,Coffee,
+529,24,Female,2025-12-10 13:55,29:19.6,8.564340964166666,0.72,23,66,11,0,0.0,0,Yes,3,Burnaby,Healthcare,Intermediate,Android App,1.5,9.0,22.3,Coffee,Herbal
+530,66,Female,2025-06-11 22:14,27:13.9,6.213856722777778,0.64,18,57,25,4,0.0,2,Yes,5,Coquitlam,Trades,Evening,Fitbit,2.6,3.0,24.0,Coffee,
+531,78,Female,2025-03-02 14:40,00:41.6,8.334888046,0.79,19,45,36,5,25.0,4,No,3,New Westminster,Hospitality,Intermediate,Android App,6.0,9.0,26.1,Energy Drink,
+532,55,Male,2025-05-18 20:08,14:49.3,6.098413051944444,0.86,19,68,13,2,25.0,0,Yes,4,Coquitlam,Hospitality,Intermediate,Fitbit,4.4,5.0,22.8,Tea,
+533,77,Female,2025-10-07 13:10,53:21.2,7.708389028888889,0.54,29,44,27,1,50.0,0,Yes,3,Burnaby,Hospitality,Intermediate,Manual Entry,3.9,10.0,20.8,Coffee,
+534,75,Male,2025-12-08 14:02,42:26.7,8.666018029166667,0.75,16,46,38,3,50.0,5,Yes,3,Burnaby,Student,Morning,Apple Watch,3.2,8.0,19.7,,
+535,18,Female,2025-06-24 16:12,02:47.6,5.844064307499999,0.81,20,46,34,2,50.0,5,Yes,2,,,,,,,,,
+536,53,Female,2025-01-27 17:40,19:52.9,7.656370939166666,0.69,22,43,35,0,25.0,3,No,3,Langley,Hospitality,Intermediate,Apple Watch,4.1,1.0,17.6,Coffee,Melatonin
+537,75,Male,2025-05-18 10:16,31:13.3,6.240643835,0.55,25,69,6,1,50.0,3,Yes,2,Victoria,Healthcare,Intermediate,Garmin,5.0,3.0,23.9,Energy Drink,
+538,20,Male,2025-10-19 16:20,56:02.5,8.593740941388889,0.53,30,56,14,5,25.0,3,Yes,4,Delta,Healthcare,Evening,Fitbit,6.3,5.0,18.4,Tea,
+539,65,Female,2025-08-02 18:48,54:08.1,5.095019236944445,0.92,18,57,25,1,,3,Yes,5,Burnaby,Unemployed,Intermediate,Fitbit,0.0,3.0,20.5,,
+540,26,Female,2026-01-16 0:58,24:59.6,8.444600147222221,0.55,29,35,36,5,0.0,3,No,2,Langley,Hospitality,Morning,Oura,3.0,2.0,23.2,,Melatonin
+541,22,Male,2025-11-19 9:02,16:48.9,7.235799690833333,0.6,19,69,12,0,0.0,1,Yes,4,New Westminster,Student,Intermediate,Apple Watch,4.8,10.0,19.0,,
+542,66,Female,2026-01-16 11:00,27:40.0,7.449995256388889,0.88,28,44,28,5,50.0,5,Yes,3,North Vancouver,Trades,Morning,Garmin,4.3,9.0,26.7,Coffee,
+543,45,Female,2025-06-25 8:49,47:07.0,5.962510047222222,0.92,29,56,15,4,50.0,4,No,1,Burnaby,Tech,Intermediate,Android App,5.2,5.0,28.3,Tea,
+544,47,Female,2025-08-22 12:05,04:56.2,8.996438865,0.64,15,34,51,5,0.0,5,Yes,3,Victoria,Retail,Evening,Fitbit,5.0,3.0,22.5,Energy Drink,Melatonin
+545,67,Female,2025-11-18 4:38,00:21.4,6.359275615833334,0.56,20,52,28,4,25.0,2,Yes,4,Coquitlam,Trades,Intermediate,Garmin,4.0,2.0,23.0,Tea,
+546,22,Female,2025-09-13 13:50,39:40.8,6.815488603055555,0.86,16,45,39,2,,3,Yes,0,Vancouver,Retail,Intermediate,Apple Watch,3.6,10.0,27.4,Coffee,Herbal
+547,49,Female,2025-10-04 2:28,53:58.4,8.419269409722222,0.94,18,66,16,0,50.0,5,Yes,1,Surrey,Hospitality,Intermediate,Garmin,4.1,4.0,21.8,,Melatonin
+548,70,Female,2025-11-05 17:06,10:23.2,7.05979135,0.83,18,54,28,2,,0,Yes,5,Coquitlam,Office,Intermediate,Apple Watch,6.6,1.0,21.5,Coffee,
+549,75,Female,2025-09-30 15:47,12:20.3,5.414518644722222,0.65,27,67,6,3,50.0,1,No,5,Vancouver,Tech,Evening,Fitbit,3.2,4.0,30.4,Coffee,Melatonin
+550,67,Male,2025-10-28 9:08,39:27.3,8.513428002777777,0.84,27,48,25,4,0.0,0,No,4,Richmond,Tech,Intermediate,Fitbit,4.4,5.0,29.0,Coffee,
+551,47,Male,2025-02-07 9:11,41:09.0,7.49056353,0.9,18,40,42,0,25.0,0,Yes,2,Coquitlam,Unemployed,Intermediate,Manual Entry,4.8,7.0,27.7,Coffee,
+552,35,Male,2025-08-29 18:01,10:03.4,6.13455246,0.67,18,41,41,2,0.0,2,Yes,2,Victoria,Trades,Intermediate,Fitbit,7.3,4.0,29.2,Tea,
+553,30,Male,2025-05-21 17:08,02:10.4,5.898722760277778,0.83,25,48,27,3,0.0,4,No,5,Vancouver,Office,Morning,Android App,4.0,10.0,16.1,Coffee,Melatonin
+554,79,Male,2025-08-13 15:50,47:35.3,7.952310979444444,0.71,23,40,37,3,,4,No,0,North Vancouver,Retail,Morning,Manual Entry,6.2,7.0,31.1,Tea,
+555,63,Female,2025-03-12 8:09,16:09.1,6.115014124722222,0.61,26,40,34,2,0.0,5,No,0,,,,,,,,,
+556,58,Male,2025-04-23 11:43,31:40.2,6.794776221666667,0.62,28,43,29,5,,1,Yes,4,Victoria,Retail,Morning,Garmin,6.7,10.0,26.8,Energy Drink,
+557,44,Male,2025-01-19 10:20,09:11.0,6.813319703333334,0.53,28,29,43,1,25.0,5,No,1,Langley,Healthcare,Intermediate,Apple Watch,4.4,4.0,29.5,Coffee,
+558,75,Female,2025-05-01 15:01,07:41.4,7.103993536388889,0.86,17,30,53,2,,0,Yes,1,Victoria,Hospitality,Evening,Android App,4.1,7.0,26.7,Tea,
+559,65,Male,2025-11-24 22:44,53:12.1,8.150574427222223,0.5,16,45,39,2,,3,Yes,5,Burnaby,Hospitality,Intermediate,Manual Entry,3.9,4.0,25.2,Coffee,Prescription
+560,61,Male,2025-02-16 0:10,07:16.2,7.942001748888889,0.63,23,44,33,2,0.0,5,No,5,Langley,Office,Morning,Fitbit,4.0,7.0,23.8,Energy Drink,
+561,65,Female,2025-11-03 5:19,09:42.7,6.835760498,0.85,22,66,12,3,25.0,5,Yes,5,Victoria,Hospitality,Morning,Manual Entry,6.0,8.0,26.7,,
+562,56,Female,2025-02-08 20:18,52:45.6,5.572669478611111,0.94,17,60,23,5,0.0,5,Yes,3,Richmond,Office,Intermediate,Manual Entry,4.9,4.0,23.6,Coffee,Melatonin
+563,49,Female,2025-11-02 14:37,43:48.4,6.097050167500001,0.87,20,33,47,5,25.0,0,No,4,Coquitlam,Healthcare,Evening,Fitbit,4.9,10.0,28.9,Tea,Melatonin
+564,63,Male,2025-11-13 18:51,02:59.4,7.1940092983333335,0.87,24,47,29,3,,2,No,5,North Vancouver,Student,Intermediate,Fitbit,2.5,9.0,17.9,Coffee,
+565,33,Female,2025-11-21 23:42,08:17.0,8.428330885277777,0.86,29,55,16,3,0.0,4,No,3,Coquitlam,Trades,Evening,Android App,2.8,9.0,22.6,Coffee,
+566,46,Female,2025-01-26 15:27,44:54.7,8.297700205,0.89,18,68,14,4,25.0,2,No,4,Surrey,Unemployed,Evening,Fitbit,8.4,3.0,34.2,Tea,
+567,40,Male,2025-09-04 4:41,46:26.8,8.078832024166667,0.88,15,67,18,0,,1,No,0,Victoria,Healthcare,Morning,Oura,4.2,8.0,22.2,Coffee,
+568,27,Female,2025-01-18 10:45,30:15.6,5.742675815833333,0.88,27,54,19,0,0.0,3,No,1,Victoria,Tech,Intermediate,Fitbit,3.1,2.0,23.9,Tea,
+569,69,Male,2025-12-17 18:27,47:48.4,8.333456508,0.89,20,51,29,0,,4,No,1,Richmond,Student,Evening,Android App,7.1,2.0,21.0,Coffee,
+570,56,Male,2025-11-07 10:06,48:53.0,7.714727100277778,0.59,20,40,40,0,25.0,4,Yes,5,Langley,Tech,Intermediate,Apple Watch,5.0,10.0,26.5,Coffee,Prescription
+571,40,Female,2025-12-21 1:31,00:26.4,5.478725079999999,0.79,26,42,32,1,50.0,5,No,5,Richmond,Trades,Morning,Fitbit,5.5,2.0,21.7,Energy Drink,
+572,38,Male,2025-05-25 18:02,35:22.5,7.550699681388889,0.91,23,56,21,4,0.0,5,No,3,Delta,Tech,Evening,Fitbit,4.3,9.0,24.2,Coffee,Melatonin
+573,51,Male,2025-04-29 8:31,35:15.0,7.0580662244444445,0.79,18,27,55,4,50.0,1,No,3,North Vancouver,Unemployed,Evening,Apple Watch,3.9,5.0,28.8,Tea,Prescription
+574,61,Female,2025-06-28 1:11,41:20.3,6.503695524166666,0.68,19,45,36,0,,4,Yes,5,Coquitlam,Retail,Intermediate,Oura,4.2,4.0,21.9,Coffee,
+575,22,Female,2025-12-06 20:16,47:07.2,5.516165178611111,0.59,21,48,31,1,,0,No,1,Burnaby,Student,Intermediate,Fitbit,2.0,1.0,28.5,Energy Drink,
+576,77,Female,2025-02-22 5:48,39:30.8,8.855507658611112,0.6,28,43,29,3,0.0,1,No,4,New Westminster,Healthcare,Morning,Android App,4.3,7.0,28.7,Tea,
+577,66,Female,2025-02-07 16:41,40:46.6,8.993232671666666,0.77,27,54,19,4,50.0,1,No,0,Richmond,Student,Evening,Oura,5.0,8.0,29.7,Coffee,Melatonin
+578,28,Female,2026-01-06 11:23,02:17.1,6.651140379722222,0.86,23,48,29,3,,0,Yes,5,Surrey,Healthcare,Intermediate,Apple Watch,7.8,5.0,25.6,Coffee,
+579,37,Male,2025-03-12 2:13,45:58.0,5.549435217222222,0.77,18,33,49,2,25.0,1,No,0,Burnaby,Student,Morning,Manual Entry,4.7,9.0,39.6,Coffee,
+580,23,Female,2025-01-23 10:36,37:54.1,7.020305834722223,0.7,25,62,13,0,50.0,0,Yes,2,Victoria,Tech,Intermediate,Oura,0.3,4.0,29.7,,
+581,56,Male,2025-02-22 17:04,20:39.0,5.2666555469444445,0.8,18,61,21,2,25.0,1,No,4,Burnaby,Trades,Evening,Android App,4.3,6.0,26.5,Coffee,Melatonin
+582,74,Female,2025-05-01 23:44,12:36.3,7.463974008888889,0.81,17,43,40,5,50.0,5,Yes,3,Delta,Office,Evening,Apple Watch,9.4,3.0,21.1,Coffee,
+583,59,Female,2025-06-20 8:29,18:38.3,7.811472369444445,0.71,15,43,42,1,50.0,2,Yes,0,Langley,Student,Intermediate,Android App,6.1,6.0,24.6,Tea,
+584,54,Male,2025-02-23 21:11,23:28.1,8.199756415,0.83,26,68,6,2,,4,No,4,Vancouver,Unemployed,Morning,Oura,3.0,2.0,31.4,Coffee,
+585,67,Female,2025-05-13 1:00,02:12.0,8.033043237777777,0.87,18,31,51,0,25.0,0,Yes,3,North Vancouver,Hospitality,Evening,Manual Entry,5.6,5.0,32.7,Coffee,
+586,70,Female,2025-11-20 18:39,30:19.3,6.850070228888889,0.55,27,37,36,4,50.0,4,No,5,North Vancouver,Hospitality,Evening,Garmin,3.2,6.0,31.7,Coffee,Prescription
+587,31,Female,2025-06-06 13:29,22:19.1,6.8811484569444445,0.51,21,49,30,5,50.0,1,Yes,2,Richmond,Student,Intermediate,Android App,2.1,6.0,28.5,Coffee,Prescription
+588,60,Female,2025-04-15 15:33,25:52.8,8.871887158333333,0.86,19,53,28,3,0.0,5,Yes,2,New Westminster,Trades,Intermediate,Garmin,3.9,5.0,19.3,Tea,Melatonin
+589,45,Male,2025-08-01 19:31,28:49.7,7.9621419455555555,0.93,25,70,5,2,,5,Yes,2,Coquitlam,Unemployed,Intermediate,Fitbit,4.7,7.0,27.2,Energy Drink,
+590,19,Male,2025-02-20 13:30,13:11.5,7.708763113333333,0.62,15,62,23,4,,1,No,3,,,,,,,,,
+591,49,Female,2025-05-10 13:19,50:40.2,6.521996943055556,0.82,29,64,7,3,,1,Yes,3,Coquitlam,Retail,Intermediate,Fitbit,1.1,6.0,19.4,,
+592,23,Female,2025-08-08 17:16,01:26.6,5.751274172777777,0.85,15,63,22,1,50.0,5,Yes,1,Coquitlam,Office,Morning,Manual Entry,2.4,3.0,18.3,Energy Drink,
+593,79,Male,2025-08-26 17:10,46:58.6,5.61406305,0.84,26,43,31,1,25.0,4,No,3,Langley,Office,Morning,Android App,4.5,3.0,26.1,Coffee,
+594,65,Female,2025-04-14 9:37,52:55.0,8.265285325,0.6,18,39,43,2,,5,No,2,New Westminster,Trades,Morning,Garmin,3.8,7.0,27.4,Coffee,
+595,53,Male,2025-09-17 20:55,57:46.2,8.035066669166667,0.59,17,56,27,2,25.0,5,No,4,,,,,,,,,
+596,34,Female,2025-11-09 3:25,43:38.3,8.299515048888889,0.58,17,40,43,4,0.0,2,Yes,1,Richmond,Unemployed,Evening,Android App,5.2,10.0,29.1,Tea,Melatonin
+597,70,Male,2025-02-06 18:56,12:06.7,8.258256009166667,0.56,29,69,2,4,0.0,1,No,3,Victoria,Office,Morning,Fitbit,2.3,8.0,27.2,,
+598,52,Male,2025-10-23 8:15,44:32.2,5.488392040555556,0.69,28,51,21,5,0.0,4,Yes,3,Langley,Unemployed,Morning,Fitbit,5.8,7.0,27.4,Tea,
+599,52,Female,2025-02-07 11:11,54:00.7,7.700475788055555,0.88,25,58,17,1,,0,No,2,Victoria,Tech,Intermediate,Oura,2.4,10.0,20.6,Coffee,Herbal
+600,62,Female,2025-02-14 16:34,06:45.0,6.542220520555556,0.66,28,40,32,3,25.0,2,No,3,Delta,Unemployed,Morning,Oura,7.5,9.0,24.5,Tea,
+601,77,Female,2025-01-19 2:25,14:35.2,5.815048921388889,0.88,20,42,38,2,,5,Yes,4,Richmond,Hospitality,Morning,Manual Entry,1.4,6.0,18.2,Tea,
+602,49,Female,2025-09-20 9:53,48:35.7,5.910739971388889,0.59,28,59,13,1,0.0,4,No,2,Delta,Trades,Intermediate,Android App,2.5,2.0,16.0,,Prescription
+603,57,Male,2025-03-27 23:09,51:53.4,5.699283237222223,0.81,21,28,51,4,0.0,1,Yes,5,Richmond,Hospitality,Intermediate,Apple Watch,5.3,7.0,,Tea,
+604,30,Male,2025-08-12 20:28,14:56.2,8.777824950277777,0.5,22,25,53,1,,3,Yes,0,Surrey,Office,Intermediate,Android App,7.5,7.0,21.6,Coffee,
+605,21,Male,2025-06-21 15:46,20:11.7,8.568242496111111,0.9,21,46,33,5,25.0,3,No,4,Coquitlam,Trades,Evening,Garmin,5.1,3.0,28.9,Coffee,
+606,52,Male,2025-07-14 1:22,40:22.9,7.2955387527777775,0.86,30,40,30,5,,5,No,1,Victoria,Office,Morning,Android App,5.5,9.0,30.0,Coffee,Melatonin
+607,39,Male,2026-01-07 9:49,44:47.1,7.926417543,0.84,23,66,11,3,,4,Yes,1,North Vancouver,Office,Evening,Apple Watch,4.5,9.0,22.2,Coffee,
+608,19,Female,2026-01-16 13:53,01:41.1,7.143907161944444,0.84,24,64,12,0,0.0,4,No,3,Richmond,Student,Evening,Fitbit,2.7,4.0,27.7,,
+609,80,Female,2025-09-15 2:54,19:10.2,7.413098831666666,0.86,24,26,50,5,25.0,5,No,1,Coquitlam,Office,Evening,Fitbit,3.6,5.0,,Coffee,
+610,70,Male,2025-02-13 17:03,00:51.2,7.948385169166666,0.78,22,36,42,0,50.0,3,No,1,Surrey,Student,Intermediate,Manual Entry,2.3,2.0,16.7,Coffee,
+611,68,Female,2025-01-30 13:27,42:53.7,6.256041678,0.55,22,69,9,0,50.0,0,No,3,New Westminster,Healthcare,Intermediate,Fitbit,2.2,2.0,25.6,Coffee,Melatonin
+612,18,Male,2025-08-31 0:17,10:38.7,6.893816053,0.62,29,60,11,4,50.0,1,Yes,4,Richmond,Student,Intermediate,Manual Entry,5.2,3.0,22.9,Tea,
+613,74,Female,2025-03-28 14:23,50:52.1,7.463624954999999,0.85,24,39,37,1,50.0,1,Yes,4,North Vancouver,Student,Intermediate,Android App,2.5,4.0,23.0,Coffee,
+614,40,Male,2025-02-12 23:16,32:08.2,7.262547880833334,0.55,26,70,4,5,50.0,4,No,2,Richmond,Unemployed,Morning,Fitbit,5.1,3.0,33.9,Coffee,
+615,37,Female,2025-10-18 2:19,28:28.1,7.156696782777778,0.57,15,40,45,4,50.0,0,Yes,3,Richmond,Student,Evening,Manual Entry,2.2,2.0,18.1,Energy Drink,
+616,41,Female,2025-07-08 8:15,51:22.4,8.601511243333333,0.72,17,37,46,1,25.0,2,Yes,2,Victoria,Student,Intermediate,Fitbit,5.0,5.0,26.7,Coffee,
+617,23,Female,2025-07-13 14:43,33:00.0,8.820565836111111,0.77,19,52,29,0,,1,Yes,0,Richmond,Student,Evening,Fitbit,3.6,7.0,20.5,Coffee,
+618,79,Female,2025-10-18 22:46,50:38.3,7.063973949722222,0.86,28,47,25,3,25.0,5,Yes,3,Vancouver,Office,Intermediate,Oura,7.0,4.0,29.1,Coffee,
+619,38,Female,2025-10-05 8:04,34:26.2,5.497840188333333,0.5,22,36,42,0,25.0,4,Yes,2,Richmond,Retail,Morning,Apple Watch,5.1,6.0,26.3,Tea,
+620,60,Male,2025-05-20 23:21,17:57.1,6.943904536388889,0.86,17,51,32,0,0.0,4,Yes,3,,,,,,,,,
+621,49,Female,2025-05-07 14:42,02:30.2,7.341153526111111,0.81,28,30,42,3,25.0,5,Yes,0,North Vancouver,Hospitality,Intermediate,Apple Watch,6.7,3.0,26.7,Tea,Melatonin
+622,60,Male,2026-01-15 5:09,37:36.1,8.472241256,0.56,28,36,36,0,,5,Yes,2,Vancouver,Tech,Intermediate,Apple Watch,3.1,8.0,20.7,Energy Drink,Herbal
+623,24,Male,2025-06-24 13:13,51:38.4,8.634286776666666,0.66,17,58,25,0,0.0,1,Yes,5,Richmond,Retail,Intermediate,Oura,4.6,7.0,21.6,Coffee,
+624,36,Male,2025-02-22 5:44,20:47.9,6.611920466388889,0.75,29,70,1,5,0.0,3,No,2,Burnaby,Student,Intermediate,Fitbit,2.7,10.0,29.2,,
+625,54,Female,2025-05-19 7:29,55:56.8,7.437999324722222,0.76,24,43,33,2,50.0,0,Yes,5,North Vancouver,Hospitality,Morning,Apple Watch,,1.0,33.0,Tea,
+626,54,Female,2025-05-15 5:22,45:07.7,5.381590129,0.57,18,63,19,4,,1,No,4,Delta,Student,Intermediate,Oura,4.0,9.0,27.2,Coffee,
+627,65,Female,2025-04-20 14:39,18:23.4,8.640674465555556,0.81,29,37,34,2,0.0,4,Yes,5,Victoria,Tech,Intermediate,Garmin,3.2,4.0,21.0,Coffee,
+628,55,Male,2025-04-14 15:41,50:47.2,6.154503638888889,0.72,18,43,39,3,25.0,0,Yes,3,Richmond,Healthcare,Evening,Android App,2.3,1.0,26.5,Coffee,Prescription
+629,58,Female,2026-01-11 16:50,34:52.6,8.732387520833333,0.7,22,39,39,1,0.0,5,Yes,0,Langley,Unemployed,Morning,Apple Watch,2.0,7.0,35.9,Energy Drink,Melatonin
+630,24,Female,2025-08-23 5:36,57:49.6,6.357951954166667,0.64,29,34,37,4,,0,Yes,0,Surrey,Trades,Intermediate,Oura,0.3,2.0,25.5,Coffee,
+631,67,Female,2025-03-13 16:00,35:17.4,5.577597912777778,0.56,29,31,40,2,,4,Yes,2,Delta,Tech,Intermediate,Android App,2.6,2.0,31.6,Coffee,Herbal
+632,73,Male,2025-12-30 5:01,24:26.6,8.380168383333332,0.88,24,64,12,5,,0,No,3,North Vancouver,Healthcare,Intermediate,Garmin,5.6,10.0,21.7,Tea,
+633,71,Male,2025-02-13 16:42,56:39.4,8.232339379722221,0.73,28,61,11,2,0.0,3,Yes,0,,,,,,,,,
+634,67,Male,2025-10-18 0:02,18:02.8,6.263824778,0.87,29,36,35,3,50.0,5,Yes,2,Delta,Retail,Intermediate,Apple Watch,1.6,3.0,24.8,Energy Drink,
+635,65,Male,2025-04-25 15:52,00:35.9,8.131639543055556,0.71,20,68,12,3,0.0,0,Yes,5,,,,,,,,,
+636,44,Female,2025-05-04 12:02,52:38.6,5.839042832222223,0.63,22,49,29,0,,5,Yes,3,Delta,Unemployed,Intermediate,Oura,2.0,6.0,27.8,Tea,
+637,40,Female,2025-05-20 18:38,08:26.5,6.494578747777777,0.57,25,58,17,0,0.0,0,No,2,North Vancouver,Tech,Evening,Oura,7.7,3.0,26.8,Tea,
+638,70,Female,2025-07-04 12:27,31:47.1,6.071965744166668,0.51,17,32,51,5,25.0,3,No,4,Surrey,Healthcare,Intermediate,Fitbit,3.4,2.0,21.6,Coffee,Melatonin
+639,48,Male,2025-04-05 23:59,13:44.9,7.233033478333334,0.61,29,61,10,0,50.0,3,Yes,4,North Vancouver,Healthcare,Intermediate,Oura,5.1,1.0,21.4,Energy Drink,
+640,55,Female,2025-06-02 15:38,43:33.8,5.0896663463888885,0.94,15,28,57,1,,4,Yes,4,Langley,Tech,Morning,Fitbit,5.7,1.0,29.4,Coffee,
+641,78,Female,2025-12-01 16:05,20:38.0,6.257767879166667,0.71,16,60,24,2,25.0,2,Yes,1,Victoria,Trades,Intermediate,Oura,5.7,5.0,30.4,Coffee,
+642,33,Male,2025-02-12 1:04,44:15.4,7.656489984166667,0.89,29,40,31,3,50.0,3,No,2,Victoria,Office,Intermediate,Manual Entry,1.8,5.0,31.8,,Prescription
+643,32,Male,2025-07-20 6:14,05:45.7,5.846570793611112,0.51,22,56,22,4,0.0,1,Yes,0,,,,,,,,,
+644,19,Female,2025-07-08 10:47,57:58.3,7.177029645277778,0.56,26,66,8,1,,5,Yes,1,Burnaby,Healthcare,Morning,Oura,4.1,1.0,33.1,Coffee,
+645,28,Male,2025-01-27 22:50,59:44.8,6.151046913055555,0.62,21,52,27,2,0.0,4,No,2,North Vancouver,Student,Intermediate,Android App,1.6,4.0,25.6,Coffee,
+646,45,Female,2025-07-06 18:57,01:44.6,6.073773629722222,0.84,30,34,36,4,25.0,3,No,1,Burnaby,Office,Intermediate,Apple Watch,8.9,3.0,23.6,Tea,
+647,56,Female,2025-09-19 3:20,54:42.1,6.576128521388889,0.94,19,30,51,2,,1,No,2,,,,,,,,,
+648,71,Male,2025-04-27 17:23,11:28.3,8.800353563,0.78,20,55,25,1,25.0,0,No,4,New Westminster,Healthcare,Intermediate,Manual Entry,1.6,6.0,31.1,Coffee,Prescription
+649,74,Female,2025-11-01 13:26,10:53.8,6.739118535555556,0.62,23,69,8,0,,5,Yes,1,Victoria,Hospitality,Intermediate,Android App,2.6,10.0,28.2,Coffee,
+650,53,Male,2025-03-18 14:02,39:36.7,8.620478105833334,0.65,21,29,50,1,25.0,5,No,4,,,,,,,,,
+651,56,Male,2025-02-12 19:49,06:47.9,6.292745863055555,0.78,24,34,42,1,0.0,1,No,2,Vancouver,Hospitality,Intermediate,Manual Entry,2.6,7.0,20.6,Tea,
+652,38,Female,2025-10-07 11:09,56:27.6,7.783209279166666,0.78,23,31,46,1,25.0,2,No,3,New Westminster,Trades,Intermediate,Android App,1.8,10.0,20.3,Tea,Melatonin
+653,64,Female,2025-08-07 19:04,30:59.1,5.442236308333333,0.75,22,26,52,0,,4,No,2,Victoria,Healthcare,Morning,Oura,6.9,2.0,27.2,Tea,
+654,68,Male,2025-03-09 15:04,45:01.3,7.683412166111111,0.88,30,39,31,2,,2,No,2,Langley,Office,Morning,Oura,8.9,3.0,24.2,Coffee,
+655,78,Female,2025-07-17 7:55,00:41.0,7.081380569444445,0.6,28,56,16,4,25.0,3,Yes,1,Richmond,Hospitality,Intermediate,Manual Entry,3.6,8.0,24.9,Tea,
+656,63,Female,2025-03-09 17:22,46:06.6,6.396543396666667,0.64,17,65,18,2,25.0,2,No,5,,Office,Evening,Manual Entry,2.1,4.0,29.8,Energy Drink,
+657,70,Female,2026-01-13 15:33,31:31.1,8.970020765000001,0.82,30,34,36,5,50.0,0,Yes,2,Victoria,Hospitality,Morning,Garmin,0.5,9.0,28.4,Coffee,
+658,53,Female,2025-08-20 1:44,13:47.3,7.490644448055556,0.68,25,27,48,4,50.0,0,No,0,Victoria,Hospitality,Intermediate,Fitbit,4.1,5.0,31.0,Coffee,
+659,21,Male,2025-02-11 0:20,42:09.4,5.362321993055556,0.93,28,64,8,1,25.0,3,Yes,5,North Vancouver,Tech,Evening,Fitbit,3.9,3.0,16.3,Coffee,
+660,72,Male,2025-03-26 22:44,34:42.1,6.839742950833333,0.54,28,46,26,1,50.0,4,No,2,Victoria,Trades,Evening,Apple Watch,3.3,9.0,26.1,Coffee,
+661,58,Male,2025-03-17 6:57,56:23.5,8.988474274,0.69,18,31,51,0,50.0,5,No,3,,Unemployed,Intermediate,Fitbit,4.9,6.0,28.1,Coffee,
+662,23,Male,2025-07-04 11:58,29:44.9,5.525819131666667,0.66,20,44,36,4,,1,No,3,New Westminster,Tech,Intermediate,Apple Watch,5.2,9.0,18.1,Tea,Herbal
+663,64,Female,2025-10-06 10:38,09:27.1,5.510318477222223,0.84,24,42,34,4,50.0,3,No,4,Vancouver,Tech,Intermediate,Fitbit,5.1,5.0,,,
+664,53,Male,2026-01-15 19:51,35:55.9,8.744962359444445,0.57,20,64,16,0,25.0,5,Yes,0,Victoria,Hospitality,Evening,Manual Entry,3.9,2.0,21.2,Coffee,
+665,25,Male,2025-05-17 20:12,26:47.8,7.237734515555555,0.86,17,58,25,2,,0,No,1,New Westminster,Unemployed,Morning,Fitbit,2.5,7.0,25.1,Tea,
+666,64,Male,2025-12-25 9:56,28:58.5,5.537911330555556,0.74,25,34,41,3,25.0,2,No,0,Victoria,Student,Evening,Oura,5.7,2.0,32.3,Coffee,
+667,28,Female,2025-12-13 22:56,20:13.3,7.389797510277777,0.51,24,36,40,1,25.0,0,Yes,2,North Vancouver,Unemployed,Morning,Garmin,4.5,7.0,34.1,Coffee,
+668,43,Male,2025-10-15 22:27,30:34.8,7.043291177777777,0.58,16,59,25,1,25.0,3,Yes,1,Vancouver,Hospitality,Evening,Apple Watch,6.1,5.0,21.3,Tea,
+669,72,Male,2025-09-25 4:12,39:44.0,7.461664606666667,0.79,26,68,6,5,50.0,5,Yes,0,Vancouver,Office,Morning,Android App,5.9,8.0,27.4,Coffee,
+670,28,Male,2025-05-20 5:11,58:44.3,6.790076464722222,0.83,29,45,26,2,25.0,2,No,0,Richmond,Trades,Morning,Manual Entry,1.9,9.0,27.5,,
+671,50,Male,2025-11-07 14:06,13:48.1,5.127237259444445,0.76,26,59,15,2,,0,No,1,Delta,Hospitality,Morning,Android App,1.9,5.0,26.7,Coffee,Melatonin
+672,28,Male,2025-07-19 3:43,03:38.5,5.342912086944445,0.77,20,50,30,3,25.0,1,No,3,Burnaby,Office,Intermediate,Manual Entry,3.1,9.0,26.8,Coffee,Melatonin
+673,46,Male,2025-11-08 2:15,40:25.0,7.422215674444445,0.94,17,36,47,5,0.0,4,No,1,Langley,Healthcare,Intermediate,Oura,2.6,2.0,26.4,Coffee,Melatonin
+674,58,Female,2025-04-12 6:54,43:33.5,7.821808806666667,0.65,22,68,10,1,,1,Yes,4,Surrey,Tech,Morning,Android App,5.9,2.0,32.6,Coffee,
+675,68,Female,2025-05-16 6:27,46:01.1,6.316425447222223,0.67,29,31,40,2,0.0,5,Yes,2,Coquitlam,Tech,Intermediate,Fitbit,5.1,10.0,30.0,Energy Drink,
+676,23,Male,2025-06-16 1:31,24:57.6,6.886288916388889,0.85,23,33,44,5,,5,No,5,Surrey,Unemployed,Intermediate,Manual Entry,6.5,6.0,20.2,Tea,
+677,19,Female,2025-05-09 13:06,37:37.2,6.522549538888889,0.55,24,57,19,3,,1,No,0,Coquitlam,Student,Evening,Android App,5.2,5.0,28.6,Coffee,Melatonin
+678,25,Female,2025-03-11 1:14,46:17.0,5.522216915,0.63,29,44,27,0,,1,Yes,4,Coquitlam,Trades,Evening,Apple Watch,4.9,2.0,29.0,Coffee,Prescription
+679,37,Female,2025-04-29 11:37,47:52.4,5.164820892777778,0.58,17,26,57,0,0.0,0,No,4,Vancouver,Unemployed,Intermediate,Garmin,6.7,3.0,,Tea,Prescription
+680,54,Female,2025-08-11 22:25,14:11.9,8.804961423055556,0.61,26,52,22,2,50.0,5,Yes,0,North Vancouver,Retail,Morning,Oura,5.3,7.0,30.1,Tea,
+681,31,Male,2025-09-07 13:25,12:35.4,6.788456356944445,0.84,18,52,30,3,0.0,4,Yes,3,Delta,Office,Intermediate,Fitbit,4.6,9.0,,Coffee,Melatonin
+682,63,Male,2026-01-11 6:19,46:45.8,5.448562446388889,0.77,19,34,47,0,25.0,5,Yes,4,Victoria,Trades,Evening,Android App,7.2,10.0,25.9,Coffee,
+683,62,Male,2025-12-31 9:47,33:10.3,7.755352592777778,0.69,20,37,43,1,,5,Yes,2,,,,,,,,,
+684,62,Male,2025-12-26 19:20,37:49.9,5.283297098611111,0.71,29,32,39,4,0.0,1,Yes,0,Richmond,Trades,Morning,Apple Watch,4.7,5.0,25.5,Coffee,Melatonin
+685,62,Female,2025-05-24 13:51,23:37.3,6.5311943319444445,0.94,20,68,12,1,0.0,5,No,3,Langley,Retail,Intermediate,Fitbit,4.0,5.0,16.0,Coffee,
+686,64,Female,2025-09-24 5:16,39:24.4,6.377875973333333,0.66,19,28,53,2,,2,Yes,1,Langley,Trades,Evening,Apple Watch,3.0,2.0,24.6,Coffee,
+687,60,Female,2026-01-02 3:00,41:05.6,6.676829305277778,0.58,16,48,36,0,25.0,4,Yes,1,Victoria,Retail,Evening,Manual Entry,5.8,1.0,,Coffee,
+688,20,Male,2026-01-14 11:48,21:28.5,5.556242176666667,0.73,23,36,41,0,0.0,4,Yes,2,Richmond,Healthcare,Intermediate,Apple Watch,6.7,5.0,19.7,Coffee,Herbal
+689,60,Male,2025-04-25 20:21,57:12.0,8.592232226388889,0.5,16,53,31,1,25.0,1,No,3,Langley,Retail,Intermediate,Oura,4.4,6.0,31.5,Coffee,
+690,19,Female,2025-05-10 4:08,10:47.9,5.044127614444445,0.73,26,69,5,2,50.0,0,No,2,North Vancouver,Office,Intermediate,Android App,6.9,2.0,27.3,Coffee,
+691,79,Male,2025-06-09 1:31,30:41.6,6.986285111666668,0.55,29,45,26,3,,2,No,4,Vancouver,Retail,Evening,Fitbit,1.0,5.0,24.9,,
+692,56,Female,2025-10-27 3:26,59:31.7,8.551863159166667,0.71,21,61,18,0,,3,Yes,2,Surrey,Unemployed,Morning,Android App,4.4,7.0,22.5,Tea,
+693,65,Female,2025-09-15 12:40,43:34.5,8.053745166666667,0.59,19,48,33,2,50.0,4,No,3,New Westminster,Office,Morning,Apple Watch,4.4,9.0,26.3,Coffee,Prescription
+694,33,Female,2025-02-06 0:03,42:53.6,6.657113745,0.71,28,28,44,3,,2,Yes,2,Burnaby,Trades,Intermediate,Android App,3.2,10.0,29.5,Coffee,
+695,18,Male,2025-02-22 11:12,47:58.6,7.593228063055556,0.72,27,67,6,4,0.0,1,Yes,3,Coquitlam,Tech,Morning,Apple Watch,8.8,4.0,21.3,Coffee,
+696,50,Female,2025-07-24 22:41,58:39.6,8.280164850833334,0.81,16,35,49,5,,1,Yes,1,Delta,Retail,Intermediate,Fitbit,4.4,4.0,25.0,Energy Drink,Melatonin
+697,61,Male,2025-10-23 9:01,18:15.5,8.281816029444444,0.74,28,44,28,2,25.0,5,No,1,Burnaby,Tech,Intermediate,Android App,3.8,9.0,28.9,Tea,
+698,56,Male,2025-03-08 1:22,47:28.0,6.413344181388889,0.5,17,50,33,0,0.0,0,No,1,Coquitlam,Retail,Evening,Android App,4.5,7.0,16.3,Coffee,
+699,25,Female,2025-06-02 20:35,58:14.9,8.372194088055556,0.74,26,34,40,5,,0,No,5,Surrey,Tech,Evening,Manual Entry,0.9,3.0,24.7,,
+700,56,Male,2025-07-09 20:01,05:37.0,6.073623505,0.71,23,38,39,3,0.0,5,No,1,North Vancouver,Retail,Intermediate,Android App,3.1,7.0,23.1,Energy Drink,
+701,42,Male,2025-06-07 8:23,08:02.7,6.744088081111111,0.64,19,48,33,4,,2,No,0,Surrey,Student,Evening,Garmin,6.3,2.0,24.4,Energy Drink,
+702,50,Male,2025-01-31 2:34,10:36.6,6.597938037222223,0.67,15,32,53,0,25.0,1,Yes,3,Victoria,Hospitality,Intermediate,Apple Watch,3.4,5.0,22.7,Coffee,
+703,31,Male,2025-08-13 22:59,24:11.5,7.405691093611112,0.81,23,64,13,4,0.0,1,Yes,0,Vancouver,Healthcare,Intermediate,Apple Watch,3.0,4.0,25.6,Coffee,
+704,19,Male,2025-01-23 1:51,52:46.4,8.022333575000001,0.7,26,27,47,3,0.0,5,Yes,2,Victoria,Student,Morning,Oura,6.9,10.0,33.7,Tea,Melatonin
+705,71,Male,2025-11-19 17:53,48:50.4,5.926235793611111,0.77,15,35,50,3,25.0,0,No,5,Delta,Healthcare,Evening,Garmin,6.9,1.0,23.5,Coffee,Melatonin
+706,32,Male,2025-10-30 12:45,53:45.0,7.141402148055556,0.55,21,52,27,2,50.0,3,Yes,4,Langley,Healthcare,Evening,Garmin,5.4,9.0,26.3,Tea,Melatonin
+707,76,Male,2025-10-28 1:52,47:22.5,6.914594020555556,0.66,16,54,30,2,25.0,0,Yes,3,Langley,Student,Evening,Apple Watch,3.7,3.0,34.0,Tea,
+708,36,Male,2025-09-03 22:08,35:34.7,7.444627576111111,0.62,17,66,17,3,50.0,5,No,0,Burnaby,Unemployed,Evening,Garmin,4.1,1.0,22.5,Coffee,
+709,79,Female,2025-01-20 10:44,53:02.8,8.144396255833334,0.62,18,40,42,2,,1,Yes,4,Victoria,Office,Evening,Apple Watch,3.1,7.0,33.2,Coffee,Herbal
+710,37,Female,2025-11-04 23:55,43:50.2,8.803376507222223,0.79,15,41,44,4,50.0,3,Yes,0,North Vancouver,Trades,Morning,Fitbit,2.7,7.0,25.0,Coffee,Melatonin
+711,56,Female,2025-02-25 4:31,34:21.3,6.040635618055556,0.75,21,54,25,1,25.0,1,No,1,Victoria,Healthcare,Evening,Fitbit,2.6,2.0,,Coffee,
+712,78,Male,2025-10-26 6:41,38:56.8,5.951900859,0.64,15,33,52,5,,4,Yes,5,Langley,Hospitality,Intermediate,Oura,3.4,1.0,28.4,Tea,
+713,35,Female,2025-02-09 15:50,55:43.3,8.087020868611111,0.8,28,54,18,5,50.0,0,No,5,North Vancouver,Tech,Intermediate,Garmin,2.6,2.0,26.4,Tea,
+714,34,Male,2025-03-08 4:25,29:42.6,8.063224181666667,0.73,15,67,18,4,50.0,2,Yes,4,Richmond,Hospitality,Intermediate,Fitbit,1.7,5.0,24.7,Coffee,
+715,22,Male,2025-07-23 16:50,24:02.9,7.5577475763888895,0.88,28,68,4,5,0.0,0,Yes,3,Burnaby,Office,Intermediate,Oura,4.9,2.0,22.2,Tea,
+716,29,Male,2025-12-13 2:06,28:31.0,5.361934425833333,0.63,30,60,10,4,,5,No,3,Burnaby,Hospitality,Intermediate,Fitbit,4.9,8.0,25.3,Coffee,
+717,25,Male,2025-05-18 11:48,14:50.9,8.438864598333334,0.93,26,45,29,3,50.0,5,Yes,0,Richmond,Hospitality,Morning,Fitbit,7.6,1.0,29.0,Tea,Herbal
+718,50,Female,2025-06-19 6:35,22:21.3,8.776746677222222,0.68,22,39,39,1,0.0,3,No,0,Langley,Healthcare,Morning,Fitbit,3.3,8.0,24.9,Coffee,
+719,70,Male,2025-09-07 21:46,21:13.1,7.570571199166666,0.75,21,43,36,2,,3,No,4,North Vancouver,Retail,Intermediate,Garmin,5.0,9.0,23.6,Tea,
+720,78,Male,2025-07-31 18:09,53:51.1,8.740310198333333,0.62,22,61,17,4,50.0,1,Yes,4,Coquitlam,Student,Evening,Manual Entry,5.1,8.0,23.9,Tea,
+721,74,Male,2025-09-23 0:50,52:30.6,5.041285535277778,0.54,20,35,45,5,50.0,4,Yes,2,Surrey,Hospitality,Intermediate,Apple Watch,,10.0,29.5,Coffee,Melatonin
+722,71,Female,2025-02-18 5:19,21:19.7,7.028242714444444,0.91,19,55,26,0,50.0,1,Yes,3,North Vancouver,Unemployed,Intermediate,Apple Watch,5.8,10.0,30.5,Tea,Melatonin
+723,58,Female,2025-01-18 5:35,46:26.3,7.182869899722222,0.72,18,36,46,0,50.0,5,Yes,2,,,,,,,,,
+724,63,Male,2025-06-16 2:06,59:11.8,7.883560676944445,0.66,17,50,33,1,25.0,4,No,3,New Westminster,Healthcare,Intermediate,Apple Watch,5.9,1.0,22.0,Energy Drink,
+725,73,Female,2025-12-28 15:23,49:45.7,6.441861105277778,0.92,25,27,48,3,0.0,3,Yes,2,Victoria,Retail,Intermediate,Garmin,5.1,4.0,22.0,Coffee,
+726,53,Male,2025-03-02 5:19,50:20.1,8.514469034444444,0.69,15,33,52,4,50.0,4,No,0,,,,,,,,,
+727,40,Female,2025-12-16 15:34,07:35.9,5.552744471666667,0.72,26,56,18,5,0.0,1,No,0,Delta,Healthcare,Morning,Android App,4.0,8.0,26.7,Tea,
+728,80,Female,2025-08-10 20:06,38:48.0,6.539986067222222,0.78,30,51,19,5,50.0,2,No,3,New Westminster,Student,Evening,Apple Watch,3.9,4.0,31.9,,Melatonin
+729,29,Male,2025-12-09 15:19,23:33.1,8.064459957777778,0.68,21,58,21,4,0.0,1,No,4,Victoria,Retail,Morning,Oura,2.0,8.0,30.2,Energy Drink,
+730,63,Male,2025-06-18 17:02,14:10.9,5.190242564999999,0.93,25,67,8,3,25.0,0,Yes,5,Coquitlam,Tech,Intermediate,Manual Entry,3.0,8.0,19.4,Coffee,Melatonin
+731,79,Female,2025-03-02 6:51,05:36.5,8.227909674,0.74,20,33,47,2,50.0,1,No,1,Victoria,Unemployed,Evening,Manual Entry,3.4,10.0,23.8,Tea,
+732,34,Male,2025-06-09 7:12,03:02.1,7.840295541111111,0.63,22,56,22,5,,4,No,3,Richmond,Unemployed,Intermediate,Oura,2.5,4.0,20.8,,
+733,76,Female,2025-11-23 17:20,18:46.0,6.973062361388889,0.86,26,51,23,5,,5,No,0,Burnaby,Healthcare,Evening,Android App,5.3,4.0,23.8,Tea,
+734,47,Male,2025-07-07 17:59,27:17.4,7.457060954166667,0.89,30,66,4,4,50.0,3,Yes,4,Coquitlam,Unemployed,Intermediate,Manual Entry,6.7,1.0,32.2,Coffee,
+735,70,Female,2025-09-05 23:38,13:15.0,8.577210658,0.52,26,31,43,5,25.0,0,No,1,Burnaby,Retail,Evening,Android App,2.9,3.0,18.6,Coffee,
+736,60,Female,2025-12-02 23:18,01:57.1,7.731407365,0.55,22,67,11,5,25.0,2,No,4,Burnaby,Tech,Intermediate,Apple Watch,5.0,3.0,17.7,Tea,
+737,32,Male,2025-12-14 6:03,23:06.4,7.32343541,0.85,30,47,23,0,,4,Yes,0,Langley,Retail,Evening,Fitbit,2.6,5.0,21.3,Coffee,Melatonin
+738,35,Male,2025-05-08 23:33,23:28.2,6.839790105277777,0.57,17,59,24,4,25.0,0,Yes,2,Delta,Unemployed,Intermediate,Fitbit,4.0,5.0,26.3,Coffee,
+739,62,Male,2025-01-16 13:58,39:02.4,8.674289871388888,0.72,27,36,37,0,0.0,1,Yes,2,Surrey,Tech,Evening,Manual Entry,3.3,9.0,27.8,Coffee,Herbal
+740,75,Male,2025-03-01 15:34,19:35.8,5.745769051944444,0.91,29,64,7,5,0.0,5,Yes,3,Langley,Student,Evening,Oura,5.6,8.0,27.0,Tea,
+741,36,Male,2025-01-28 8:40,47:58.6,7.124897696666667,0.79,15,55,30,5,50.0,3,No,5,,,,,,,,,
+742,71,Female,2025-01-20 19:07,09:27.9,5.034982082777778,0.55,25,48,27,0,50.0,3,Yes,5,Vancouver,Student,Intermediate,Apple Watch,3.3,8.0,30.3,Coffee,
+743,67,Male,2025-07-30 6:11,54:43.6,8.720449624,0.88,15,63,22,5,50.0,5,No,1,Surrey,Healthcare,Evening,Garmin,6.3,1.0,17.1,Energy Drink,Prescription
+744,27,Male,2025-11-03 12:42,00:29.6,8.300727143,0.92,29,28,43,0,25.0,0,No,3,,,,,,,,,
+745,34,Female,2025-04-15 16:59,24:58.5,8.423205814722222,0.7,20,61,19,0,,0,Yes,4,Delta,Retail,Intermediate,Apple Watch,4.1,5.0,30.3,Tea,Melatonin
+746,60,Male,2025-05-21 4:05,45:19.8,7.655767196944445,0.54,22,46,32,2,0.0,1,Yes,2,Richmond,Tech,Intermediate,Android App,3.3,8.0,23.6,,
+747,67,Female,2025-04-24 14:39,24:54.0,5.755008039722223,0.68,20,67,13,4,,2,No,4,Delta,Healthcare,Evening,Oura,2.2,3.0,28.3,Energy Drink,
+748,72,Female,2025-09-02 3:44,38:48.4,8.908154068,0.95,19,66,15,2,50.0,0,No,0,Langley,Retail,Intermediate,Manual Entry,5.0,5.0,19.0,Coffee,
+749,73,Female,2025-07-12 0:44,18:13.9,8.554147287222222,0.65,22,35,43,3,,3,Yes,0,Vancouver,Unemployed,Intermediate,Apple Watch,6.1,8.0,25.0,Tea,
+750,49,Female,2025-11-23 22:47,25:22.5,8.634595378611111,0.55,27,35,38,0,25.0,2,No,2,Vancouver,Trades,Morning,Garmin,5.0,8.0,26.1,Coffee,
+751,20,Male,2025-03-03 8:10,35:55.5,5.431528200833333,0.6,27,54,19,3,,0,Yes,2,Victoria,Healthcare,Morning,Fitbit,8.5,9.0,30.2,,
+752,29,Female,2025-09-26 13:18,23:29.8,5.083840735555556,0.71,27,49,24,4,50.0,2,No,3,North Vancouver,Retail,Evening,Manual Entry,7.1,5.0,17.9,Coffee,
+753,43,Male,2025-04-15 5:25,23:02.6,8.956568547777778,0.77,22,46,32,4,0.0,5,No,4,North Vancouver,Healthcare,Intermediate,Oura,3.9,4.0,25.1,Tea,
+754,29,Female,2025-06-18 18:34,47:54.4,7.231217158333333,0.6,24,53,23,5,50.0,1,No,1,Coquitlam,Unemployed,Intermediate,Oura,3.9,4.0,20.1,Energy Drink,Prescription
+755,40,Male,2025-03-19 22:22,03:56.0,6.695007526944444,0.58,22,55,23,5,,4,Yes,0,Coquitlam,Unemployed,Morning,Garmin,5.3,7.0,27.3,Coffee,Melatonin
+756,47,Male,2025-08-05 10:50,27:24.7,6.613798165277778,0.88,27,62,11,3,50.0,0,Yes,0,New Westminster,Retail,Intermediate,Apple Watch,3.0,5.0,28.5,Energy Drink,Melatonin
+757,64,Female,2025-07-28 12:15,26:19.7,8.187132498055556,0.65,23,44,33,0,50.0,0,Yes,3,North Vancouver,Healthcare,Evening,Manual Entry,6.6,5.0,30.8,Coffee,
+758,74,Female,2025-04-08 0:51,24:32.9,6.5572022472222224,0.75,15,60,25,3,25.0,1,Yes,0,Burnaby,Retail,Evening,Garmin,5.2,2.0,22.6,Coffee,
+759,35,Female,2025-04-11 9:41,13:48.4,5.5459558541666665,0.53,30,58,12,2,25.0,5,Yes,4,,,,,,,,,
+760,55,Female,2025-09-16 5:26,29:34.2,7.050325745277778,0.76,18,68,14,4,50.0,1,Yes,2,New Westminster,Office,Morning,Android App,5.0,5.0,29.2,Coffee,
+761,77,Female,2025-11-06 21:37,42:25.6,8.078510615555555,0.67,28,47,25,1,50.0,0,No,3,New Westminster,Healthcare,Intermediate,Fitbit,5.7,3.0,31.1,Coffee,
+762,38,Female,2025-12-26 10:06,03:08.0,8.938886134,0.64,19,68,13,4,,3,No,2,Burnaby,Office,Intermediate,Apple Watch,7.6,6.0,17.6,Tea,
+763,20,Male,2025-06-01 6:11,25:46.6,5.242109927222222,0.83,21,54,25,1,,0,No,1,,,,,,,,,
+764,58,Male,2025-06-24 7:42,54:37.5,8.202084726944443,0.66,18,44,38,3,50.0,0,Yes,5,Richmond,Office,Intermediate,Android App,,9.0,27.8,,
+765,37,Female,2025-02-16 2:45,26:43.4,6.686229728,0.94,26,33,41,1,,5,Yes,4,Delta,Student,Intermediate,Fitbit,4.3,8.0,29.3,Coffee,
+766,65,Male,2025-02-27 20:17,45:36.9,6.463570517222222,0.52,26,33,41,0,0.0,1,No,0,,,,,,,,,
+767,42,Female,2025-03-12 18:06,11:37.7,5.079076334166667,0.72,21,66,13,4,,0,No,3,New Westminster,Retail,Intermediate,Fitbit,7.2,5.0,23.8,Tea,
+768,31,Male,2025-07-23 17:31,26:22.6,5.910998968611112,0.64,26,27,47,2,25.0,5,No,1,,,,,,,,,
+769,28,Male,2025-02-23 0:49,30:46.9,5.684684661388889,0.84,20,29,51,4,50.0,3,No,0,Burnaby,Student,Intermediate,Android App,6.2,10.0,19.6,Energy Drink,
+770,28,Male,2025-12-04 11:41,01:32.0,6.334458420277778,0.77,17,61,22,2,0.0,0,No,5,Vancouver,Tech,Intermediate,Apple Watch,3.9,10.0,29.2,Tea,
+771,58,Male,2025-07-16 18:57,46:06.3,7.816739985833333,0.52,20,26,54,2,0.0,3,No,3,North Vancouver,Healthcare,Intermediate,Apple Watch,4.5,5.0,19.6,Coffee,
+772,27,Female,2025-02-11 1:45,39:22.4,7.891492025833333,0.66,29,57,14,0,,0,Yes,1,Coquitlam,Trades,Intermediate,Oura,4.9,8.0,24.2,,
+773,68,Male,2025-10-04 12:48,49:23.5,8.015707017222223,0.57,27,64,9,4,0.0,4,No,4,Victoria,Hospitality,Evening,Apple Watch,5.2,4.0,24.8,Coffee,Herbal
+774,70,Male,2025-11-18 19:34,43:41.5,8.155972948,0.78,19,44,37,0,50.0,2,No,3,North Vancouver,Retail,Intermediate,Fitbit,2.1,9.0,28.2,Tea,
+775,70,Female,2025-11-04 8:37,33:52.7,5.937137174166667,0.55,21,51,28,4,50.0,5,Yes,1,,,,,,,,,
+776,67,Female,2025-12-25 22:45,57:10.0,5.196666690833333,0.87,19,61,20,2,25.0,2,No,4,Victoria,Tech,Intermediate,Fitbit,1.7,4.0,22.2,Tea,Melatonin
+777,33,Male,2025-04-26 13:08,29:56.5,6.362923018611111,0.86,29,63,8,3,,3,Yes,5,Surrey,Tech,Evening,Fitbit,2.9,3.0,21.9,Tea,Melatonin
+778,56,Male,2025-10-27 7:38,24:05.1,5.756137770555555,0.52,27,39,34,1,0.0,3,No,0,Coquitlam,Student,Evening,Fitbit,2.8,2.0,25.4,Coffee,
+779,69,Female,2025-11-15 17:58,30:00.5,6.524021306111111,0.53,20,46,34,0,0.0,1,No,1,Burnaby,Office,Morning,Android App,3.3,9.0,29.5,Coffee,
+780,77,Male,2025-08-18 6:25,45:52.2,8.337833763,0.58,29,48,23,0,25.0,4,No,2,North Vancouver,Retail,Intermediate,Apple Watch,5.6,3.0,35.3,Tea,
+781,35,Female,2025-11-08 6:14,01:40.1,6.793635735,0.56,15,54,31,2,,0,Yes,4,Burnaby,Unemployed,Intermediate,Fitbit,4.2,9.0,18.2,Coffee,
+782,45,Male,2025-05-20 5:52,36:57.7,7.736578064722223,0.61,19,25,56,5,50.0,1,Yes,1,Coquitlam,Office,Intermediate,Fitbit,4.9,1.0,26.4,Coffee,
+783,55,Male,2025-02-25 18:39,27:04.0,8.793055823055555,0.72,22,44,34,4,0.0,3,No,5,Richmond,Student,Morning,Garmin,2.3,6.0,20.1,Tea,Prescription
+784,69,Female,2025-06-25 23:49,03:50.8,7.239676339722222,0.51,27,41,32,4,25.0,1,No,3,Burnaby,Unemployed,Intermediate,Manual Entry,3.7,5.0,29.6,Tea,Herbal
+785,61,Male,2025-05-15 23:42,01:55.7,6.324920003,0.83,18,43,39,3,50.0,2,Yes,1,Vancouver,Unemployed,Intermediate,Garmin,5.6,5.0,20.8,Coffee,
+786,71,Male,2025-09-12 14:36,44:02.4,8.128166502222223,0.62,26,39,35,0,50.0,5,No,5,North Vancouver,Office,Intermediate,Fitbit,5.6,2.0,22.0,Coffee,
+787,34,Female,2025-10-04 14:10,19:36.8,5.1468914238888885,0.66,27,42,31,0,,5,No,1,Victoria,Healthcare,Evening,Apple Watch,3.2,1.0,22.3,,
+788,72,Male,2025-04-07 13:43,05:56.5,7.376238399722222,0.68,19,56,25,5,,0,No,0,Burnaby,Tech,Intermediate,Garmin,4.8,4.0,24.7,Coffee,Melatonin
+789,56,Female,2025-03-10 4:13,56:06.8,5.705226313333334,0.85,25,27,48,3,50.0,4,No,1,Coquitlam,Office,Evening,Apple Watch,8.5,5.0,26.5,Coffee,
+790,31,Female,2025-06-05 6:03,57:28.5,6.907631741111112,0.62,25,60,15,4,,5,No,4,Surrey,Trades,Evening,Manual Entry,4.5,8.0,27.2,Coffee,
+791,62,Male,2025-10-31 15:20,46:50.0,6.434432259722223,0.93,30,27,43,4,25.0,3,No,5,Langley,Healthcare,Evening,Android App,3.3,5.0,25.0,Coffee,Melatonin
+792,25,Male,2025-08-05 5:12,11:11.4,5.979556401388889,0.75,17,27,56,4,25.0,5,No,0,Coquitlam,Tech,Morning,Garmin,4.2,3.0,19.0,,
+793,63,Female,2025-09-15 6:38,30:32.2,5.869224304166666,0.91,18,31,51,4,,1,No,4,Victoria,Trades,Evening,Manual Entry,4.7,3.0,28.3,Coffee,
+794,56,Male,2025-11-20 6:08,52:06.6,5.725159748055556,0.59,18,28,54,2,25.0,3,Yes,3,Surrey,Healthcare,Morning,Apple Watch,4.2,7.0,24.8,Coffee,
+795,20,Female,2025-02-28 18:24,07:50.6,5.720153929722222,0.63,27,61,12,3,50.0,2,Yes,0,,,,,,,,,
+796,49,Male,2025-05-04 2:47,41:59.2,6.913102240000001,0.69,17,65,18,5,,0,No,5,Vancouver,Trades,Intermediate,Fitbit,4.4,5.0,30.2,Coffee,
+797,23,Male,2025-09-22 9:24,31:10.3,8.104813754722223,0.78,29,41,30,5,50.0,0,No,4,,,,,,,,,
+798,61,Male,2025-07-12 5:47,18:52.7,7.529082685555556,0.8,16,41,43,2,,2,No,1,North Vancouver,Hospitality,Evening,Manual Entry,1.9,10.0,21.8,Coffee,
+799,51,Female,2025-09-23 8:19,11:22.2,6.862568569444444,0.75,17,45,38,3,0.0,1,No,5,New Westminster,Office,Intermediate,Manual Entry,2.8,5.0,17.8,Coffee,
+800,39,Female,2025-04-19 18:19,19:42.1,8.998650141944445,0.61,24,40,36,5,50.0,2,No,1,Victoria,Office,Intermediate,Apple Watch,4.2,6.0,24.8,,
+801,60,Male,2025-10-15 14:53,47:49.0,7.899439558888889,0.81,26,31,43,5,0.0,1,Yes,1,Langley,Office,Intermediate,Oura,4.2,1.0,30.8,Tea,Prescription
+802,46,Male,2025-07-26 11:20,24:47.8,8.072721143055556,0.76,22,61,17,4,0.0,1,No,2,Langley,Unemployed,Evening,Apple Watch,3.5,2.0,25.7,Coffee,
+803,30,Male,2025-09-05 22:13,10:22.1,8.949482203333334,0.6,15,67,18,3,0.0,5,Yes,4,New Westminster,Unemployed,Intermediate,Oura,4.2,9.0,24.1,Coffee,Prescription
+804,24,Female,2025-11-21 19:54,47:43.5,6.885691768,0.68,17,66,17,3,0.0,1,No,0,Richmond,Retail,Intermediate,Android App,4.6,4.0,21.1,Coffee,
+805,59,Male,2025-07-19 19:47,38:29.1,6.846971799444445,0.8,21,27,52,3,25.0,5,No,0,,Office,Evening,Android App,6.1,5.0,32.9,Coffee,Melatonin
+806,42,Female,2025-03-02 19:04,43:13.0,5.653343984444445,0.51,20,39,41,5,25.0,2,Yes,2,Burnaby,Hospitality,Morning,Oura,4.3,6.0,,Tea,
+807,59,Female,2025-04-08 0:26,47:44.9,5.358017445833333,0.67,21,63,16,5,50.0,5,No,2,Coquitlam,Healthcare,Morning,Android App,5.2,1.0,21.7,Coffee,Melatonin
+808,47,Male,2025-10-04 0:07,26:30.2,6.308943829722223,0.73,19,48,33,0,,4,No,4,Richmond,Hospitality,Intermediate,Oura,3.5,6.0,27.6,Tea,
+809,50,Male,2025-10-07 1:33,05:02.8,8.526060228611112,0.84,19,52,29,0,50.0,4,No,4,Vancouver,Trades,Evening,Android App,5.5,4.0,16.6,Energy Drink,
+810,52,Male,2025-07-21 21:03,05:03.7,7.020475463055555,0.87,18,43,39,1,25.0,1,Yes,3,Surrey,Unemployed,Morning,Apple Watch,5.2,2.0,30.7,Coffee,
+811,44,Male,2025-04-12 16:33,37:47.7,7.064347726388889,0.56,23,47,30,3,50.0,4,Yes,2,,,,,,,,,
+812,71,Male,2025-09-29 21:16,42:04.4,6.422048162499999,0.78,19,45,36,5,25.0,0,Yes,2,,,,,,,,,
+813,25,Female,2025-01-22 19:14,50:33.3,6.607854240833333,0.61,15,53,32,4,25.0,4,No,5,North Vancouver,Hospitality,Morning,Garmin,6.1,5.0,27.8,,
+814,74,Female,2025-07-26 22:02,20:41.4,6.297337237222222,0.6,19,28,53,0,,1,Yes,2,Richmond,Office,Morning,Garmin,5.8,5.0,29.0,Coffee,Prescription
+815,55,Male,2025-11-06 18:42,23:06.6,6.671827268888889,0.81,16,65,19,5,25.0,5,No,0,Victoria,Tech,Evening,Oura,5.6,2.0,27.5,Coffee,Herbal
+816,43,Female,2025-05-03 12:59,09:58.0,6.179455345555556,0.58,23,69,8,4,,1,No,4,Coquitlam,Trades,Morning,Fitbit,4.3,6.0,,Energy Drink,Melatonin
+817,23,Female,2025-12-12 14:41,46:13.8,7.070770185000001,0.68,30,62,8,1,25.0,4,Yes,0,Victoria,Trades,Intermediate,Apple Watch,4.9,8.0,20.2,Coffee,
+818,60,Male,2025-12-25 7:25,22:43.2,5.961173206388889,0.61,15,54,31,2,25.0,2,Yes,2,New Westminster,Trades,Evening,Manual Entry,6.4,3.0,24.4,Tea,Melatonin
+819,39,Female,2025-02-13 7:56,42:17.9,5.766070783,0.83,26,40,34,0,0.0,1,No,0,Vancouver,Tech,Morning,Fitbit,,10.0,20.6,Tea,Melatonin
+820,75,Male,2025-12-02 3:39,02:54.1,6.397260651944444,0.68,25,44,31,3,50.0,3,No,3,Surrey,Trades,Intermediate,Oura,3.4,7.0,27.2,Coffee,
+821,29,Male,2025-05-31 22:00,15:15.1,7.247263076666667,0.56,20,33,47,0,0.0,2,No,2,Delta,Tech,Intermediate,Oura,4.8,8.0,28.6,Energy Drink,
+822,50,Female,2025-08-13 14:08,03:53.2,5.923384843611111,0.64,26,56,18,1,,2,Yes,3,North Vancouver,Retail,Evening,Garmin,5.2,1.0,31.6,Coffee,
+823,27,Female,2025-01-26 22:22,51:06.3,8.484533525277778,0.83,16,47,37,0,50.0,3,Yes,4,Richmond,Hospitality,Intermediate,Fitbit,3.0,8.0,26.7,Energy Drink,
+824,58,Female,2025-02-23 0:09,25:34.0,6.260548547777778,0.69,19,53,28,2,25.0,1,No,3,North Vancouver,Unemployed,Intermediate,Fitbit,4.4,4.0,29.2,Coffee,
+825,47,Female,2025-06-15 6:06,53:05.1,7.777801604166666,0.9,20,56,24,4,,0,No,0,Victoria,Student,Morning,Apple Watch,4.3,8.0,23.7,Coffee,Melatonin
+826,20,Female,2025-11-24 10:20,44:02.7,8.393810615555555,0.55,15,28,57,2,25.0,5,Yes,4,,,,,,,,,
+827,72,Female,2025-06-14 21:55,34:04.5,5.63486622,0.5,25,49,26,4,50.0,3,No,0,Richmond,Unemployed,Intermediate,Fitbit,0.5,9.0,22.8,Coffee,
+828,49,Female,2026-01-15 9:18,41:07.3,8.368966311944444,0.52,30,53,17,4,50.0,5,Yes,3,Vancouver,Student,Evening,Fitbit,4.1,3.0,27.1,Energy Drink,
+829,36,Male,2025-04-26 18:22,24:17.1,7.027799657222221,0.93,16,30,54,4,,3,Yes,3,Richmond,Retail,Morning,Fitbit,4.2,3.0,23.3,Coffee,
+830,56,Male,2025-05-29 17:00,57:17.7,8.942696404,0.85,16,42,42,4,0.0,5,No,5,Victoria,Trades,Intermediate,Apple Watch,4.2,1.0,26.2,Energy Drink,Melatonin
+831,77,Male,2025-01-29 1:21,32:12.9,8.180540408333332,0.73,21,64,15,5,50.0,4,Yes,1,Delta,Tech,Evening,Manual Entry,7.0,7.0,20.2,Coffee,Herbal
+832,41,Male,2025-12-01 14:14,03:12.9,6.805247171111111,0.62,22,37,41,3,25.0,2,No,2,Langley,Tech,Morning,Oura,2.3,8.0,21.0,Coffee,Melatonin
+833,73,Male,2025-02-24 20:58,29:18.8,5.514398348333333,0.55,16,56,28,1,,2,No,1,Victoria,Hospitality,Intermediate,Fitbit,3.0,5.0,27.9,Coffee,
+834,43,Male,2025-03-06 18:17,08:02.5,6.841534563611112,0.52,24,46,30,5,25.0,5,No,4,Burnaby,Healthcare,Intermediate,Oura,0.0,2.0,29.0,Coffee,
+835,34,Female,2026-01-11 6:32,42:09.9,7.158015952777777,0.81,19,58,23,4,0.0,3,Yes,0,Surrey,Unemployed,Intermediate,Fitbit,3.6,4.0,20.6,,
+836,34,Female,2025-11-26 0:54,36:41.5,8.710139398888888,0.79,16,38,46,5,,2,Yes,2,Vancouver,Trades,Intermediate,Garmin,3.8,5.0,28.0,Coffee,
+837,43,Male,2025-08-27 16:16,50:30.1,6.561146628888888,0.88,22,34,44,2,25.0,3,Yes,2,Vancouver,Office,Intermediate,Fitbit,3.6,10.0,22.6,Tea,
+838,56,Male,2025-02-10 7:01,07:46.2,6.1056106352777775,0.59,17,52,31,4,0.0,0,No,4,Langley,Healthcare,Morning,Fitbit,6.5,2.0,25.1,Tea,
+839,65,Female,2025-05-01 14:45,12:58.3,8.459532449,0.69,16,51,33,0,0.0,2,No,4,Victoria,Retail,Intermediate,Fitbit,6.0,4.0,31.4,Coffee,
+840,47,Male,2025-02-06 15:50,18:20.1,5.459754040277778,0.68,15,31,54,3,25.0,3,Yes,2,Burnaby,Tech,Intermediate,Garmin,4.6,7.0,28.6,Tea,
+841,72,Male,2025-02-01 5:02,03:48.1,7.026141594444445,0.8,24,58,18,1,,0,Yes,3,,,,,,,,,
+842,65,Male,2025-04-17 6:10,51:29.8,7.678558143611111,0.53,25,56,19,5,50.0,5,Yes,1,Delta,Hospitality,Intermediate,Garmin,3.8,3.0,28.6,Energy Drink,Melatonin
+843,76,Male,2025-06-22 0:08,25:21.3,6.277041385277778,0.69,20,59,21,4,25.0,0,Yes,4,North Vancouver,Office,Morning,Garmin,6.3,9.0,33.6,Tea,
+844,40,Female,2025-04-14 22:07,07:47.8,6.004675488,0.7,16,42,42,5,50.0,1,Yes,0,Vancouver,Trades,Evening,Oura,4.5,10.0,21.8,Coffee,
+845,36,Female,2025-04-14 0:16,41:10.4,8.411498684722222,0.54,18,51,31,0,0.0,4,No,0,Victoria,Unemployed,Morning,Android App,3.0,4.0,20.6,Tea,
+846,49,Male,2025-04-16 16:49,42:19.9,6.87748036,0.64,15,70,15,0,25.0,3,Yes,0,Langley,Healthcare,Evening,Android App,1.4,8.0,21.8,Tea,
+847,36,Male,2025-02-02 16:55,44:12.9,6.805806886944445,0.87,17,30,53,3,0.0,0,Yes,1,North Vancouver,Office,Intermediate,Oura,3.7,8.0,23.9,Coffee,
+848,66,Female,2025-02-12 19:41,41:34.4,5.002334567222222,0.71,27,57,16,2,,5,No,5,Delta,Unemployed,Evening,Oura,5.9,7.0,16.0,Tea,
+849,31,Female,2025-05-09 1:32,48:56.7,7.2824113822222225,0.88,30,40,30,0,0.0,4,No,5,Richmond,Healthcare,Morning,Garmin,8.6,2.0,24.1,Coffee,
+850,18,Female,2025-12-11 9:45,37:50.7,8.867422739166667,0.9,28,49,23,4,50.0,1,Yes,0,Delta,Unemployed,Morning,Apple Watch,4.6,1.0,22.5,Tea,
+851,24,Female,2025-05-15 21:52,19:54.2,8.460608410833332,0.52,28,43,29,5,50.0,4,No,4,Coquitlam,Unemployed,Intermediate,Garmin,3.1,4.0,28.5,,
+852,27,Female,2025-04-07 18:13,43:53.2,7.502276448888889,0.81,23,32,45,4,0.0,0,Yes,4,Victoria,Unemployed,Morning,Fitbit,2.4,2.0,26.6,,Melatonin
+853,41,Female,2025-07-20 18:31,55:52.9,8.401918709166667,0.63,30,43,27,0,,3,Yes,3,Vancouver,Retail,Morning,Manual Entry,5.5,3.0,22.3,Energy Drink,Melatonin
+854,60,Male,2025-12-24 8:11,49:37.8,5.637711393611111,0.82,23,42,35,5,,4,Yes,0,Burnaby,Hospitality,Intermediate,Garmin,1.3,7.0,27.7,Tea,
+855,60,Male,2025-04-02 11:09,50:03.7,8.680205096666667,0.54,25,43,32,1,25.0,1,No,4,Victoria,Unemployed,Evening,Android App,5.5,6.0,28.3,Tea,
+856,63,Female,2025-12-16 13:39,19:43.2,8.669502690555555,0.75,15,54,31,4,0.0,4,No,5,Surrey,Trades,Morning,Manual Entry,6.0,3.0,21.5,Coffee,
+857,43,Male,2025-07-18 17:01,12:46.0,6.190001896944445,0.64,24,63,13,3,0.0,5,Yes,0,Richmond,Student,Evening,Garmin,5.3,1.0,22.8,Coffee,
+858,70,Male,2025-04-19 22:50,44:03.1,8.893905871,0.61,21,50,29,2,50.0,5,Yes,5,Delta,Trades,Evening,Manual Entry,4.1,3.0,16.0,Coffee,
+859,62,Male,2025-12-07 19:25,02:28.1,7.617815884166666,0.5,26,65,9,1,25.0,0,Yes,3,Burnaby,Tech,Evening,Garmin,5.5,5.0,20.1,Coffee,
+860,45,Female,2025-07-08 19:14,46:48.0,5.5394457883333335,0.6,29,37,34,1,0.0,5,No,0,North Vancouver,Retail,Intermediate,Fitbit,4.8,8.0,21.7,,
+861,69,Male,2025-11-27 14:32,40:01.0,6.133608265,0.83,30,25,45,4,,1,Yes,0,Surrey,Student,Intermediate,Fitbit,3.1,4.0,25.3,Energy Drink,Herbal
+862,78,Male,2025-09-01 9:20,31:27.7,6.1893584100000005,0.6,15,50,35,1,,0,No,3,Burnaby,Retail,Intermediate,Fitbit,7.8,3.0,20.7,Coffee,
+863,27,Female,2025-10-12 22:46,56:44.2,7.165061208611111,0.95,30,54,16,3,0.0,5,Yes,4,Victoria,Office,Intermediate,Manual Entry,3.9,6.0,22.7,Coffee,Melatonin
+864,58,Female,2025-02-14 20:15,39:01.2,7.393937052222222,0.93,30,38,32,3,50.0,3,Yes,4,Burnaby,Retail,Evening,Garmin,5.9,1.0,19.5,Tea,
+865,35,Male,2025-02-05 23:20,48:43.5,5.467077709722222,0.63,24,54,22,5,0.0,4,No,1,Vancouver,Retail,Morning,Apple Watch,0.1,3.0,25.8,Coffee,
+866,36,Male,2025-06-04 12:47,57:31.3,8.174802679166667,0.82,18,53,29,1,25.0,3,No,4,New Westminster,Tech,Intermediate,Garmin,6.8,1.0,26.9,Energy Drink,Prescription
+867,49,Male,2025-11-14 18:21,31:44.7,8.176030355555556,0.68,25,44,31,0,50.0,5,Yes,4,Langley,Healthcare,Morning,Apple Watch,7.1,6.0,26.8,,
+868,60,Female,2025-04-18 2:20,32:02.9,5.198292822222222,0.82,22,40,38,4,25.0,2,No,4,Burnaby,Healthcare,Evening,Manual Entry,4.6,5.0,25.1,Coffee,
+869,29,Female,2025-02-28 8:46,47:49.1,5.021414305555555,0.82,26,46,28,2,,4,Yes,3,Delta,Tech,Intermediate,Manual Entry,5.5,6.0,18.1,Coffee,Herbal
+870,36,Male,2025-04-05 12:11,15:30.5,7.070700885555556,0.86,23,46,31,2,,0,Yes,5,North Vancouver,Tech,Intermediate,Fitbit,5.5,7.0,22.2,Coffee,
+871,65,Female,2025-08-24 19:54,57:15.9,6.051356668888889,0.51,18,57,25,2,50.0,5,Yes,4,Langley,Hospitality,Evening,Android App,3.3,4.0,23.2,Coffee,
+872,31,Male,2025-06-14 23:03,48:43.4,7.750663968,0.69,19,42,39,5,,3,Yes,5,,,,,,,,,
+873,34,Male,2025-11-23 5:17,13:14.8,5.926892640833333,0.51,24,51,25,1,50.0,5,No,3,Burnaby,Trades,Evening,Garmin,5.5,9.0,23.2,Coffee,
+874,48,Female,2025-05-14 7:49,04:44.6,5.251837545833333,0.6,21,61,18,1,,2,Yes,1,Victoria,Healthcare,Morning,Fitbit,3.0,10.0,25.3,Coffee,
+875,18,Male,2025-01-17 19:16,49:47.8,8.560213352222222,0.55,15,69,16,4,50.0,2,Yes,2,New Westminster,Trades,Evening,Manual Entry,3.4,2.0,31.4,Coffee,
+876,51,Female,2025-10-25 2:21,23:40.2,6.036722675833333,0.63,28,47,25,3,,1,No,5,Langley,Retail,Evening,Fitbit,6.5,10.0,28.7,Coffee,
+877,34,Female,2025-09-29 10:38,11:03.5,6.5506937233333336,0.65,26,36,38,2,0.0,0,No,4,Richmond,Office,Morning,Apple Watch,6.3,2.0,20.6,Coffee,Melatonin
+878,51,Male,2025-09-18 18:54,41:34.6,5.782945879444445,0.83,22,36,42,2,0.0,3,Yes,5,Victoria,Healthcare,Evening,Fitbit,3.2,3.0,28.1,Tea,
+879,49,Female,2025-07-15 0:45,15:36.0,7.498331571666666,0.88,22,50,28,4,0.0,5,Yes,1,,Office,Intermediate,Garmin,3.2,6.0,27.9,Coffee,
+880,69,Female,2025-08-25 5:16,12:16.9,7.922202243055556,0.79,29,57,14,1,25.0,5,No,5,Burnaby,Retail,Intermediate,Oura,3.3,1.0,21.4,Energy Drink,
+881,67,Female,2025-03-24 1:06,46:35.0,8.669730835277779,0.85,16,41,43,0,25.0,2,No,5,Victoria,Hospitality,Intermediate,Apple Watch,5.8,4.0,28.8,Coffee,
+882,60,Female,2025-06-19 11:23,34:09.1,6.183627223,0.89,27,33,40,3,25.0,1,Yes,3,Delta,Unemployed,Intermediate,Fitbit,2.7,2.0,24.3,Coffee,Prescription
+883,71,Female,2025-05-27 11:20,53:47.2,8.562550725277777,0.51,23,31,46,2,25.0,3,Yes,4,Richmond,Healthcare,Morning,Fitbit,5.1,5.0,18.7,Coffee,
+884,59,Male,2025-11-16 0:06,20:50.8,6.241611518055556,0.5,19,67,14,1,0.0,4,No,3,North Vancouver,Student,Morning,Manual Entry,5.8,9.0,27.0,Tea,
+885,21,Male,2025-08-16 11:13,14:12.9,7.011095029722222,0.61,21,30,49,1,50.0,1,Yes,4,Richmond,Office,Morning,Android App,4.3,10.0,26.0,Coffee,Melatonin
+886,35,Male,2025-02-08 21:10,53:45.4,7.724833155833333,0.94,25,55,20,3,50.0,5,No,5,North Vancouver,Student,Intermediate,Manual Entry,6.3,3.0,24.0,Coffee,Melatonin
+887,41,Male,2025-03-16 1:24,59:04.2,8.578662391666667,0.52,19,62,19,4,50.0,3,No,2,Victoria,Hospitality,Intermediate,Oura,4.0,6.0,24.8,Coffee,Prescription
+888,33,Female,2025-09-21 9:03,20:38.6,5.292379397222222,0.91,25,39,36,1,0.0,5,No,5,Langley,Unemployed,Morning,Oura,4.1,5.0,21.8,,
+889,27,Male,2026-01-03 8:07,24:47.5,6.290129158611111,0.69,20,66,14,0,,5,Yes,1,Surrey,Retail,Intermediate,Android App,2.7,5.0,27.7,Coffee,
+890,63,Male,2025-09-13 0:04,27:20.4,7.373167958,0.95,20,47,33,1,25.0,0,Yes,4,Victoria,Office,Intermediate,Oura,6.3,7.0,24.8,Coffee,
+891,44,Male,2025-12-02 0:01,19:21.8,7.291047399444445,0.82,27,55,18,3,25.0,4,Yes,2,Coquitlam,Student,Intermediate,Garmin,3.1,10.0,25.7,Energy Drink,
+892,41,Male,2025-05-18 21:49,42:49.2,5.895883931111111,0.83,27,63,10,4,0.0,2,Yes,3,Delta,Unemployed,Evening,Apple Watch,5.1,5.0,26.6,Coffee,Melatonin
+893,24,Male,2025-04-16 8:40,31:06.6,7.847099653611111,0.86,28,27,45,1,25.0,4,Yes,4,Delta,Trades,Intermediate,Garmin,4.4,1.0,19.8,Coffee,
+894,74,Female,2025-11-24 0:40,54:32.3,7.235373393333334,0.52,17,41,42,3,25.0,4,No,3,Coquitlam,Student,Evening,Fitbit,2.6,10.0,21.0,Energy Drink,
+895,54,Male,2025-07-27 0:12,07:32.2,5.923125046666667,0.8,16,44,40,0,50.0,2,Yes,3,Coquitlam,Office,Morning,Apple Watch,3.4,10.0,16.0,Coffee,Prescription
+896,67,Female,2025-12-04 12:16,05:01.4,7.808164592222223,0.6,21,38,41,0,25.0,3,Yes,4,Coquitlam,Trades,Intermediate,Android App,7.0,4.0,27.5,Coffee,Herbal
+897,43,Female,2025-12-27 11:25,35:49.5,5.177652373055556,0.53,17,68,15,2,0.0,3,Yes,3,Langley,Tech,Evening,Manual Entry,4.9,6.0,19.5,Coffee,
+898,51,Male,2025-11-12 17:07,59:15.3,5.85675925,0.52,20,62,18,2,50.0,4,No,0,Richmond,Unemployed,Evening,Fitbit,2.7,9.0,25.6,Coffee,Prescription
+899,46,Female,2025-05-05 3:09,43:34.4,6.574003730555556,0.92,15,35,50,4,50.0,3,No,5,Surrey,Trades,Intermediate,Fitbit,5.0,6.0,26.7,,
+900,67,Female,2025-04-06 22:15,56:42.7,5.681024351388889,0.61,19,53,28,1,50.0,2,Yes,3,Richmond,Tech,Intermediate,Fitbit,4.2,5.0,27.7,Tea,
+901,60,Male,2025-07-15 22:35,29:39.1,6.906986086111111,0.7,26,52,22,1,25.0,3,No,3,Burnaby,Student,Intermediate,Android App,10.7,10.0,19.6,Tea,
+902,47,Female,2025-05-03 3:06,13:29.6,7.117940167777777,0.95,30,44,26,0,25.0,3,No,4,Richmond,Student,Intermediate,Apple Watch,5.0,9.0,24.7,Coffee,Herbal
+903,52,Male,2025-02-19 12:45,55:39.9,5.163297772777778,0.86,27,53,20,0,25.0,0,No,4,,,,,,,,,
+904,65,Male,2025-02-08 20:30,46:38.1,6.262529473611111,0.58,27,64,9,3,50.0,3,Yes,5,Burnaby,Student,Evening,Apple Watch,3.8,6.0,32.5,Tea,Prescription
+905,19,Female,2025-08-30 3:28,04:44.7,6.607144682222223,0.65,22,47,31,0,0.0,0,Yes,0,Vancouver,Unemployed,Evening,Fitbit,7.1,2.0,32.7,Tea,
+906,50,Male,2025-01-17 12:07,09:28.6,6.036287965277778,0.7,23,29,48,5,25.0,3,No,0,Delta,Retail,Intermediate,Manual Entry,1.2,5.0,29.4,Coffee,
+907,47,Male,2025-10-28 3:32,03:21.0,8.506390393333334,0.91,29,51,20,4,50.0,3,No,2,Vancouver,Hospitality,Morning,Garmin,4.7,7.0,26.5,Energy Drink,
+908,52,Male,2025-02-17 20:58,29:52.4,6.516487938888889,0.61,29,57,14,0,0.0,4,No,4,North Vancouver,Student,Intermediate,Android App,8.1,3.0,20.5,Tea,
+909,65,Male,2025-10-20 12:03,41:15.2,8.628380032222223,0.53,15,48,37,1,50.0,5,No,3,Delta,Student,Morning,Android App,4.3,6.0,28.2,Tea,Melatonin
+910,74,Male,2025-05-04 13:53,22:21.2,8.477824143055557,0.73,17,65,18,4,50.0,2,No,5,Delta,Hospitality,Morning,Fitbit,1.4,7.0,24.3,Coffee,
+911,73,Male,2025-01-17 12:45,16:02.2,8.503402765,0.55,18,60,22,3,,1,Yes,5,Coquitlam,Student,Intermediate,Android App,3.8,1.0,27.5,Coffee,Melatonin
+912,42,Male,2025-07-29 16:39,22:01.5,8.701525049,0.62,27,28,45,5,0.0,3,No,3,Burnaby,Office,Intermediate,Oura,7.1,6.0,22.2,Tea,
+913,57,Female,2025-12-14 5:04,35:37.3,7.517595424166667,0.59,24,38,38,1,0.0,3,No,2,Victoria,Retail,Morning,Oura,5.2,8.0,24.2,Tea,
+914,76,Male,2025-02-03 4:44,42:12.3,8.958418839166667,0.9,18,50,32,2,25.0,3,No,0,Langley,Retail,Morning,Apple Watch,3.0,3.0,25.7,Coffee,
+915,80,Male,2025-09-16 16:45,36:21.5,6.841796666944445,0.87,25,50,25,1,25.0,1,Yes,2,New Westminster,Office,Morning,Manual Entry,3.3,6.0,26.1,Coffee,Herbal
+916,76,Male,2025-05-28 6:31,39:04.2,5.130331875555555,0.65,16,30,54,0,0.0,2,Yes,5,Vancouver,Healthcare,Evening,Manual Entry,3.5,8.0,27.2,Energy Drink,
+917,70,Male,2025-08-11 3:47,30:52.1,6.715849954444445,0.85,18,56,26,4,,2,Yes,5,Vancouver,Tech,Intermediate,Garmin,5.2,1.0,,Coffee,
+918,57,Male,2025-01-16 19:06,26:32.3,5.341208125,0.89,26,64,10,4,50.0,1,Yes,0,Richmond,Healthcare,Morning,Fitbit,6.9,7.0,19.0,Coffee,
+919,29,Female,2025-12-03 6:30,14:31.8,8.73051394,0.76,19,37,44,5,25.0,2,No,1,Burnaby,Healthcare,Morning,Manual Entry,6.4,3.0,32.3,Tea,Prescription
+920,47,Male,2025-07-22 5:23,09:46.3,6.763424570000001,0.75,20,62,18,5,0.0,2,Yes,2,Langley,Student,Intermediate,Manual Entry,5.3,4.0,36.2,Coffee,Melatonin
+921,59,Female,2025-05-06 16:51,15:11.1,7.402261049166666,0.84,26,33,41,1,0.0,3,Yes,3,Surrey,Healthcare,Intermediate,Oura,2.1,7.0,27.0,Coffee,Melatonin
+922,49,Male,2025-07-26 1:55,47:11.2,8.856725785,0.75,15,31,54,5,,3,Yes,4,,Hospitality,Intermediate,Oura,2.1,1.0,19.0,Coffee,
+923,34,Female,2025-05-12 12:41,56:59.3,8.260361100833334,0.79,21,35,44,2,,1,Yes,1,Victoria,Tech,Intermediate,Apple Watch,5.5,1.0,21.5,,Melatonin
+924,57,Male,2025-07-12 21:49,40:01.7,7.8488085552777775,0.73,23,33,44,4,0.0,0,Yes,4,Langley,Unemployed,Evening,Fitbit,2.1,5.0,27.3,Coffee,
+925,66,Female,2025-09-09 6:17,09:16.5,5.861256308611112,0.55,19,60,21,1,,2,No,2,Surrey,Office,Intermediate,Manual Entry,4.1,10.0,31.0,Tea,
+926,20,Male,2025-02-04 17:58,02:04.0,7.057501125,0.78,18,40,42,1,0.0,5,Yes,2,Richmond,Student,Intermediate,Garmin,5.0,1.0,19.5,,
+927,57,Male,2025-12-08 4:16,34:20.3,7.300921074722222,0.82,20,66,14,0,0.0,1,No,3,North Vancouver,Retail,Morning,Apple Watch,2.5,8.0,24.4,Tea,
+928,21,Female,2025-07-26 16:19,23:31.8,7.074111179722222,0.91,17,46,37,1,50.0,3,No,3,New Westminster,Office,Evening,Android App,2.7,1.0,25.9,Coffee,Herbal
+929,78,Female,2025-10-20 16:49,43:13.3,8.903681974722222,0.68,28,32,40,5,0.0,1,No,2,Victoria,Retail,Evening,Fitbit,4.3,5.0,28.9,Coffee,Herbal
+930,52,Male,2025-07-07 14:52,49:41.0,6.944997780833333,0.7,16,70,14,2,50.0,5,Yes,0,Langley,Unemployed,Intermediate,Fitbit,5.4,5.0,23.5,Coffee,
+931,70,Female,2025-12-23 20:24,55:14.8,6.507717113055556,0.81,30,52,18,4,50.0,3,Yes,2,Victoria,Trades,Intermediate,Apple Watch,6.4,5.0,18.0,Tea,
+932,59,Female,2025-04-29 23:03,40:56.1,6.6275266283333325,0.8,23,39,38,0,50.0,2,No,4,Vancouver,Retail,Morning,Garmin,5.6,1.0,27.8,,Melatonin
+933,64,Male,2025-05-25 16:32,57:20.7,6.420740849166666,0.89,22,66,12,4,50.0,5,Yes,5,Surrey,Tech,Evening,Garmin,4.6,8.0,30.1,Tea,Herbal
+934,77,Male,2026-01-12 3:37,14:44.3,8.623148326666668,0.91,29,37,34,4,25.0,4,Yes,2,North Vancouver,Office,Intermediate,Apple Watch,3.2,3.0,24.6,Coffee,Melatonin
+935,46,Male,2025-10-12 4:59,27:16.8,6.461597699444444,0.74,29,50,21,4,25.0,5,No,4,Vancouver,Unemployed,Morning,Garmin,2.6,8.0,26.8,Coffee,
+936,79,Female,2025-04-17 2:57,10:23.1,5.213918929166666,0.73,17,69,14,0,,0,Yes,0,Richmond,Office,Intermediate,Garmin,3.6,7.0,22.9,Energy Drink,
+937,36,Female,2025-05-01 20:28,50:02.4,7.351213190277777,0.58,29,47,24,3,50.0,2,Yes,5,Burnaby,Hospitality,Intermediate,Oura,5.2,6.0,21.2,Coffee,Melatonin
+938,73,Female,2025-03-10 19:13,13:15.8,6.003822496666667,0.59,23,41,36,3,0.0,2,Yes,0,Victoria,Tech,Evening,Oura,5.1,4.0,29.6,Energy Drink,Melatonin
+939,26,Male,2025-06-06 4:05,51:22.3,5.764792441666667,0.71,21,57,22,5,0.0,3,Yes,3,Vancouver,Office,Intermediate,Manual Entry,0.7,7.0,26.7,Coffee,Melatonin
+940,60,Male,2025-09-22 5:55,29:29.3,5.563409556666667,0.52,16,55,29,4,,1,Yes,2,Burnaby,Tech,Intermediate,Android App,3.1,10.0,27.2,Tea,
+941,65,Male,2025-06-01 9:46,10:34.5,7.397646173055556,0.81,20,49,31,5,50.0,2,No,3,Burnaby,Office,Intermediate,Apple Watch,6.7,10.0,31.8,Energy Drink,
+942,24,Female,2025-03-13 18:25,34:54.1,5.150575763333333,0.79,21,26,53,2,50.0,1,No,5,Burnaby,Retail,Intermediate,Manual Entry,4.6,10.0,20.3,Coffee,
+943,23,Male,2025-04-12 16:42,27:41.4,6.757601022777777,0.73,25,48,27,5,50.0,1,Yes,1,North Vancouver,Unemployed,Intermediate,Oura,1.9,3.0,22.5,Coffee,Melatonin
+944,62,Female,2025-05-01 7:45,59:27.6,5.234319786944444,0.94,20,45,35,2,25.0,0,Yes,0,Richmond,Unemployed,Morning,Apple Watch,8.7,6.0,25.7,Energy Drink,
+945,73,Male,2025-04-28 23:00,54:54.8,7.901343985833334,0.87,21,59,20,5,0.0,4,No,0,Victoria,Hospitality,Evening,Garmin,4.4,4.0,22.5,Coffee,
+946,23,Male,2025-08-20 22:15,49:36.9,6.566085228888889,0.71,15,33,52,1,0.0,3,No,4,Surrey,Healthcare,Intermediate,Android App,5.2,10.0,28.5,Coffee,Melatonin
+947,69,Male,2025-11-21 18:56,19:27.2,7.383661578888889,0.66,16,34,50,4,25.0,2,Yes,3,North Vancouver,Retail,Intermediate,Android App,5.2,10.0,24.2,Coffee,Melatonin
+948,49,Male,2025-07-27 7:06,45:45.0,8.650556437777777,0.59,19,48,33,0,0.0,2,Yes,3,New Westminster,Trades,Morning,Garmin,3.8,9.0,20.5,Coffee,
+949,31,Female,2025-12-03 0:48,58:15.9,5.155539409444445,0.75,18,47,35,5,50.0,5,No,3,New Westminster,Unemployed,Morning,Fitbit,3.2,2.0,25.3,Tea,Melatonin
+950,51,Female,2025-08-11 16:10,45:34.7,7.588261373,0.76,26,25,49,4,,4,Yes,0,Delta,Healthcare,Intermediate,Apple Watch,8.3,4.0,25.8,Coffee,
+951,63,Male,2025-11-18 17:52,46:09.8,5.902733083,0.61,19,35,46,4,50.0,5,Yes,5,Surrey,Hospitality,Morning,Fitbit,6.3,8.0,29.2,Coffee,
+952,24,Female,2025-02-06 12:10,28:28.9,7.299419820555555,0.57,17,47,36,0,25.0,4,Yes,4,North Vancouver,Trades,Morning,Android App,6.0,8.0,26.8,Energy Drink,
+953,38,Male,2025-09-17 11:20,45:21.0,5.418345003611111,0.94,20,42,38,1,,4,No,1,Langley,Tech,Evening,Oura,5.5,4.0,27.1,Coffee,
+954,68,Male,2025-10-29 21:39,27:11.1,6.803081728888889,0.62,27,57,16,5,0.0,4,Yes,2,Langley,Office,Intermediate,Garmin,2.7,2.0,26.4,Coffee,Prescription
+955,29,Female,2025-02-13 11:32,09:59.3,8.626191985277778,0.58,18,60,22,4,,0,Yes,3,New Westminster,Tech,Intermediate,Android App,6.8,2.0,24.2,Tea,Prescription
+956,77,Female,2025-11-21 1:22,12:09.8,6.832709632777778,0.65,20,50,30,3,,1,Yes,5,New Westminster,Student,Intermediate,Android App,3.0,7.0,21.8,Energy Drink,
+957,19,Female,2025-07-26 0:53,40:09.8,6.774937841111111,0.72,30,67,3,5,25.0,5,No,5,Langley,Student,Evening,Android App,5.0,5.0,26.3,Tea,Melatonin
+958,42,Female,2025-12-28 10:13,30:38.2,5.2917322377777785,0.72,18,31,51,3,50.0,1,No,2,New Westminster,Trades,Intermediate,Fitbit,1.5,5.0,23.5,Energy Drink,
+959,41,Male,2025-04-07 6:38,00:50.5,8.376804856388889,0.77,20,34,46,2,50.0,3,Yes,0,Victoria,Healthcare,Evening,Oura,0.8,9.0,32.6,Coffee,
+960,55,Female,2025-07-04 4:57,00:15.8,5.045211429444445,0.89,29,64,7,1,,3,Yes,4,Burnaby,Tech,Evening,Manual Entry,5.1,1.0,31.0,Coffee,Melatonin
+961,20,Male,2025-08-25 12:09,34:35.7,6.418526833888889,0.82,21,65,14,5,50.0,3,No,2,Richmond,Trades,Intermediate,Android App,3.0,8.0,27.8,,
+962,78,Female,2025-03-21 1:50,56:00.9,6.094694945555556,0.78,23,64,13,4,,5,Yes,0,Burnaby,Student,Intermediate,Apple Watch,0.9,3.0,26.7,Energy Drink,
+963,18,Male,2025-07-25 17:35,19:08.9,6.733315028333333,0.93,24,57,19,4,,2,No,1,Vancouver,Trades,Intermediate,Garmin,5.5,10.0,24.6,Tea,
+964,79,Male,2025-10-20 5:50,49:05.1,5.9733518369444445,0.66,20,33,47,0,25.0,2,Yes,3,,Healthcare,Intermediate,Manual Entry,8.3,10.0,19.3,Coffee,
+965,59,Male,2025-10-13 20:58,45:18.9,7.783864164722223,0.75,17,32,51,4,50.0,1,No,3,Surrey,Retail,Intermediate,Fitbit,7.0,6.0,24.0,Coffee,Prescription
+966,55,Female,2025-12-20 18:57,04:25.4,8.116766042222222,0.89,16,58,26,5,25.0,1,Yes,3,Coquitlam,Tech,Intermediate,Oura,4.0,4.0,25.5,Coffee,
+967,28,Female,2025-06-22 13:35,25:40.5,5.841539721944445,0.65,21,49,30,4,50.0,3,Yes,4,Coquitlam,Office,Intermediate,Fitbit,4.5,3.0,26.0,Energy Drink,
+968,61,Female,2025-09-02 7:13,12:24.5,6.981537671,0.75,23,43,34,3,25.0,4,No,3,New Westminster,Retail,Morning,Manual Entry,6.1,2.0,27.1,Energy Drink,
+969,40,Male,2025-06-25 16:11,08:26.6,8.955436463611111,0.51,23,54,23,2,50.0,1,Yes,3,Victoria,Tech,Intermediate,Fitbit,6.5,10.0,29.1,Coffee,Prescription
+970,27,Female,2025-05-21 18:35,08:39.8,8.556336721666666,0.73,17,28,55,3,,5,Yes,4,Langley,Hospitality,Morning,Fitbit,3.9,2.0,21.9,Coffee,
+971,62,Male,2025-09-03 0:26,08:01.4,5.691232981944444,0.83,16,25,59,2,0.0,3,No,3,Richmond,Retail,Intermediate,Apple Watch,4.6,5.0,21.9,Coffee,
+972,52,Female,2025-10-09 13:35,47:07.2,6.191733921388889,0.75,25,66,9,3,0.0,4,Yes,1,,,,,,,,,
+973,56,Male,2025-11-24 21:37,49:40.4,6.205952143,0.79,29,65,6,5,50.0,1,Yes,4,Richmond,Hospitality,Intermediate,Apple Watch,5.0,5.0,31.5,Coffee,
+974,43,Female,2025-06-23 6:55,27:32.2,7.529769244444444,0.65,28,70,2,1,50.0,4,Yes,4,Delta,Office,Evening,Garmin,5.5,7.0,28.5,Tea,
+975,65,Male,2025-04-20 9:42,52:21.6,5.164329152222222,0.69,16,50,34,1,50.0,5,Yes,5,Burnaby,Tech,Morning,Apple Watch,4.3,9.0,23.2,Tea,
+976,40,Male,2025-07-25 5:24,02:58.0,6.634439674166667,0.91,21,35,44,4,0.0,0,Yes,3,North Vancouver,Student,Intermediate,Garmin,4.3,6.0,24.5,Coffee,
+977,59,Male,2026-01-08 23:30,38:50.5,7.140698751111111,0.56,20,27,53,1,50.0,0,No,3,Coquitlam,Student,Intermediate,Oura,7.0,8.0,24.5,Tea,
+978,28,Male,2025-10-11 16:43,33:11.8,7.836326373333334,0.76,30,56,14,4,50.0,3,Yes,5,Burnaby,Hospitality,Morning,Oura,6.7,6.0,25.1,,
+979,43,Male,2025-06-04 1:05,47:14.6,6.702106019722223,0.71,18,42,40,1,25.0,4,No,5,New Westminster,Healthcare,Morning,Manual Entry,5.4,5.0,27.1,Coffee,Melatonin
+980,29,Male,2025-06-13 1:48,20:45.0,6.531399215,0.83,27,35,38,3,50.0,4,No,2,Richmond,Retail,Morning,Garmin,7.6,2.0,36.4,Coffee,
+981,18,Female,2025-10-15 13:21,29:15.7,8.128540121944443,0.74,19,29,52,2,25.0,3,Yes,4,Burnaby,Retail,Morning,Oura,3.8,3.0,25.9,Coffee,
+982,33,Male,2025-12-28 20:59,19:31.3,8.334818999,0.73,29,70,1,2,,5,No,1,New Westminster,Tech,Intermediate,Android App,7.4,5.0,28.0,Coffee,
+983,45,Female,2025-11-10 11:43,28:42.1,5.757798108,0.76,21,44,35,3,,2,No,2,Burnaby,Office,Intermediate,Apple Watch,5.5,1.0,17.4,Coffee,
+984,42,Male,2025-03-19 5:58,35:04.4,7.607879761666666,0.91,28,27,45,0,,2,Yes,1,New Westminster,Office,Intermediate,Android App,10.4,4.0,22.8,Tea,Melatonin
+985,74,Female,2025-01-23 7:39,14:07.7,7.576293321666666,0.88,18,48,34,2,25.0,4,Yes,3,Burnaby,Student,Morning,Manual Entry,2.4,5.0,30.5,Coffee,Melatonin
+986,60,Male,2025-01-25 2:55,16:50.2,6.357832014166667,0.88,26,40,34,3,0.0,4,No,3,Coquitlam,Hospitality,Morning,Apple Watch,3.3,5.0,26.8,Coffee,Melatonin
+987,22,Female,2025-10-29 19:42,52:07.7,5.163532865833333,0.89,16,47,37,2,0.0,3,No,3,Langley,Office,Morning,Apple Watch,5.3,9.0,16.0,Energy Drink,
+988,71,Male,2025-04-14 3:18,48:21.4,8.493174967222222,0.81,28,32,40,5,25.0,5,Yes,0,Surrey,Retail,Intermediate,Garmin,5.2,10.0,28.0,Coffee,
+989,62,Female,2025-10-21 9:17,52:16.8,6.584401402222222,0.51,15,58,27,3,25.0,2,Yes,1,Delta,Healthcare,Intermediate,Apple Watch,8.0,8.0,33.6,Tea,
+990,18,Female,2026-01-02 7:41,40:40.8,7.982174803333333,0.62,27,43,30,4,,4,No,1,Delta,Office,Intermediate,Oura,3.3,1.0,16.0,Tea,Herbal
+991,21,Female,2025-03-29 18:36,14:36.9,8.639963336388888,0.53,29,32,39,1,50.0,4,Yes,4,Victoria,Healthcare,Morning,Manual Entry,6.1,5.0,31.8,Energy Drink,
+992,24,Female,2025-12-27 7:19,37:08.4,8.291485985833333,0.74,18,55,27,5,50.0,2,Yes,1,Burnaby,Student,Morning,Oura,6.6,8.0,16.0,Tea,Prescription
+993,48,Female,2025-12-22 22:47,35:49.5,7.810125779444445,0.83,19,59,22,5,,0,No,4,Delta,Office,Evening,Fitbit,5.8,6.0,29.2,Energy Drink,
+994,65,Female,2025-10-14 22:10,19:39.9,5.160812568611111,0.76,18,60,22,0,0.0,0,Yes,3,Victoria,Office,Morning,Apple Watch,2.8,5.0,25.0,Tea,
+995,74,Female,2025-04-30 13:23,40:37.8,5.286048163611111,0.76,20,46,34,0,,4,No,3,Delta,Hospitality,Morning,Android App,7.0,5.0,16.0,Coffee,Melatonin
+996,30,Female,2025-05-16 16:24,01:38.3,6.613703259166666,0.92,21,53,26,4,,2,Yes,5,Burnaby,Retail,Morning,Apple Watch,6.7,5.0,27.0,Coffee,
+997,80,Male,2025-11-11 3:05,13:14.4,6.132337008,0.53,16,50,34,3,50.0,3,Yes,3,Langley,Unemployed,Evening,Oura,5.6,6.0,30.2,Coffee,
+998,77,Female,2025-02-19 3:35,50:19.4,8.245942245833334,0.84,27,58,15,1,,5,No,4,,,,,,,,,
+999,57,Male,2025-06-28 19:33,45:24.8,6.197447353333334,0.66,29,44,27,4,,1,No,4,Burnaby,Healthcare,Intermediate,Android App,4.9,2.0,26.6,Coffee,
+1000,21,Female,2025-07-17 14:59,48:56.0,7.826120363333333,0.6,25,46,29,5,25.0,3,Yes,3,North Vancouver,Office,Intermediate,Apple Watch,4.9,6.0,27.6,Coffee,Herbal
