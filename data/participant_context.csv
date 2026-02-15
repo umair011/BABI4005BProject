@@ -1,0 +1,948 @@
+ID,City,WorkType,Chronotype,Device,ScreenTimeHours,StressLevel,BMI,CoffeePreference,SleepAidUse
+1,Langley,Healthcare,Evening,Oura,5,7,21.7,Coffee,None
+2,Vancouver,Retail,Morning,Manual Entry,3.6,8,24.5,Tea,None
+3,Richmond,Retail,Evening,Android App,5.5,6,26.6,Coffee,None
+4,Coquitlam,Student,Evening,Fitbit,3.5,6,28.2,None,None
+5,Delta,Retail,Morning,Garmin,5.6,9,24.6,None,Melatonin
+6,Burnaby,Unemployed,Evening,Manual Entry,5.3,9,29.9,Coffee,None
+7,Coquitlam,Healthcare,Evening,Garmin,4.4,2,25,Energy Drink,Melatonin
+8,Burnaby,Trades,Evening,Apple Watch,3.7,1,28.6,Coffee,None
+9,Delta,Unemployed,Evening,Manual Entry,4.8,2,22.8,Tea,Melatonin
+10,New Westminster,Student,Intermediate,Oura,5.5,7,16.8,Energy Drink,Melatonin
+11,Coquitlam,Healthcare,Morning,Oura,8.2,6,26.2,Energy Drink,None
+12,Richmond,Retail,Evening,Garmin,6.2,1,28.3,Energy Drink,Herbal
+13,Burnaby,Healthcare,Intermediate,Fitbit,6.3,3,27.6,Coffee,None
+14,Victoria,Unemployed,Intermediate,Garmin,10.1,6,26.9,Energy Drink,None
+15,New Westminster,Healthcare,Intermediate,Garmin,,8,23.4,Tea,Melatonin
+16,Richmond,Unemployed,Intermediate,Manual Entry,5.4,4,21.4,Coffee,None
+17,Coquitlam,Student,Morning,Apple Watch,5.8,10,27.5,Coffee,None
+18,Delta,Tech,Intermediate,Fitbit,2.7,10,26.9,Tea,None
+19,Delta,Retail,Morning,Garmin,3.7,8,22.5,Tea,None
+20,Coquitlam,Office,Intermediate,Manual Entry,3.6,5,30,Coffee,None
+21,Richmond,Office,Evening,Garmin,5.7,9,21,None,None
+22,New Westminster,Tech,Intermediate,Garmin,,8,22.4,Tea,None
+23,New Westminster,Tech,Intermediate,Android App,4.7,6,32.4,Coffee,None
+24,North Vancouver,Retail,Intermediate,Oura,6.5,5,28.9,Coffee,None
+25,Vancouver,Student,Evening,Apple Watch,6.1,9,23.4,Tea,None
+26,Coquitlam,Retail,Intermediate,Manual Entry,4.2,6,26.3,Tea,None
+27,New Westminster,Unemployed,Intermediate,Oura,3.3,2,25.7,Tea,None
+29,Victoria,Student,Morning,Fitbit,6.5,10,16,Coffee,None
+30,North Vancouver,Healthcare,Morning,Garmin,5.9,1,20.9,Tea,Melatonin
+31,Richmond,Healthcare,Intermediate,Manual Entry,1.6,7,24.8,Tea,Prescription
+32,North Vancouver,Unemployed,Evening,Garmin,3.9,7,23.4,Energy Drink,None
+33,Burnaby,Trades,Intermediate,Oura,4.8,6,26.1,Coffee,None
+34,Vancouver,Healthcare,Morning,Oura,5.9,1,30.1,Tea,Melatonin
+35,New Westminster,Tech,Evening,Android App,6.1,5,23.6,Coffee,Melatonin
+36,Victoria,Student,Intermediate,Manual Entry,5,9,20.2,Coffee,None
+37,Langley,Hospitality,Evening,Fitbit,5.6,3,26.5,Tea,None
+38,North Vancouver,Hospitality,Morning,Oura,4.6,7,23.5,Tea,None
+39,Vancouver,Tech,Intermediate,Oura,3.3,9,24.3,Coffee,None
+40,Victoria,Tech,Evening,Fitbit,4,10,23.7,Tea,Prescription
+41,Coquitlam,Tech,Intermediate,Android App,4.5,6,35.1,Coffee,None
+42,Surrey,Hospitality,Intermediate,Fitbit,4.4,4,16,Coffee,None
+43,Langley,Unemployed,Evening,Garmin,1.1,7,23.3,Coffee,None
+44,Delta,Healthcare,Morning,Apple Watch,3.8,5,25,Coffee,Melatonin
+45,Delta,Healthcare,Morning,Fitbit,4.6,7,21.5,Tea,None
+46,Surrey,Tech,Intermediate,Android App,4,8,29,Energy Drink,Melatonin
+47,Victoria,Office,Intermediate,Apple Watch,4.1,8,28.7,Tea,None
+48,Coquitlam,Hospitality,Morning,Apple Watch,5.4,3,24.8,Coffee,None
+49,North Vancouver,Hospitality,Intermediate,Manual Entry,2.6,8,23.8,Coffee,None
+50,Delta,Tech,Evening,Manual Entry,1.6,6,24.5,Coffee,None
+51,New Westminster,Trades,Intermediate,Fitbit,3.9,10,24.5,Tea,Herbal
+53,Burnaby,Trades,Intermediate,Apple Watch,5.9,7,24.6,Coffee,None
+54,Richmond,Healthcare,Evening,Android App,7.5,9,24.2,Coffee,None
+55,Richmond,Tech,Intermediate,Android App,5.9,10,26.1,Tea,None
+56,Victoria,Hospitality,Evening,Manual Entry,1.9,10,28.4,Tea,None
+57,Delta,Tech,Intermediate,Oura,4.1,8,19.5,Coffee,None
+58,Richmond,Unemployed,Evening,Fitbit,5,6,20.3,Coffee,Melatonin
+59,Delta,Unemployed,Intermediate,Manual Entry,4.8,2,17.1,Tea,None
+60,Delta,Tech,Morning,Fitbit,5.5,4,28.9,Coffee,None
+61,Richmond,Trades,Evening,Fitbit,2.8,5,26.1,Coffee,None
+62,Coquitlam,Retail,Intermediate,Android App,4.6,8,27.3,Energy Drink,None
+63,Langley,Healthcare,Morning,Oura,5.3,6,18.6,Coffee,None
+64,North Vancouver,Tech,Morning,Fitbit,6,5,33,Coffee,None
+65,Burnaby,Hospitality,Intermediate,Apple Watch,3,2,22.3,Coffee,None
+66,Delta,Trades,Morning,Oura,3.9,8,25.8,Coffee,None
+67,North Vancouver,Retail,Intermediate,Apple Watch,0,5,28.8,Coffee,Melatonin
+68,North Vancouver,Student,Morning,Android App,3.4,1,20.6,Coffee,Melatonin
+70,Delta,Tech,Intermediate,Garmin,3.6,3,22.5,Tea,None
+71,Victoria,Healthcare,Intermediate,Oura,2.7,9,25.8,Coffee,None
+72,Richmond,Healthcare,Intermediate,Garmin,4.8,2,37.9,Energy Drink,None
+73,Coquitlam,Retail,Intermediate,Garmin,4.4,5,26.4,None,None
+74,Burnaby,Office,Morning,Garmin,0.4,6,32.2,Coffee,None
+75,New Westminster,Retail,Intermediate,Android App,4.9,1,30.4,Coffee,None
+76,Coquitlam,Tech,Intermediate,Oura,2.8,2,26.7,Tea,Melatonin
+77,Richmond,Trades,Intermediate,Oura,5.4,10,20.5,None,None
+78,New Westminster,Office,Morning,Oura,,6,29.8,Energy Drink,None
+79,Coquitlam,Healthcare,Morning,Apple Watch,4.6,3,18.3,Coffee,None
+80,Coquitlam,Office,Morning,Manual Entry,4,2,32.2,Coffee,None
+81,Coquitlam,Trades,Intermediate,Oura,5,5,25.9,Coffee,None
+82,Surrey,Tech,Intermediate,Android App,4.7,8,16,Energy Drink,None
+83,Burnaby,Student,Evening,Manual Entry,4,8,23.5,Tea,None
+84,Langley,Tech,Intermediate,Manual Entry,1.7,2,27.9,Coffee,Melatonin
+86,Vancouver,Office,Intermediate,Android App,1.8,8,23.9,Tea,Melatonin
+87,Richmond,Unemployed,Intermediate,Android App,3.4,9,28.2,Coffee,None
+88,New Westminster,Tech,Morning,Garmin,4.5,3,21.2,Tea,Herbal
+89,Burnaby,Trades,Intermediate,Android App,3.4,1,19.1,Coffee,None
+90,New Westminster,Retail,Intermediate,Apple Watch,5.6,10,24.7,Tea,Melatonin
+91,Delta,Student,Intermediate,Android App,4,6,25.1,Tea,None
+92,New Westminster,Student,Morning,Fitbit,2.8,8,23.4,Tea,None
+93,Richmond,Unemployed,Evening,Manual Entry,4,4,30.5,Coffee,None
+94,Vancouver,Hospitality,Evening,Apple Watch,4.9,3,21.2,Energy Drink,None
+95,Langley,Office,Morning,Oura,5.1,3,26.4,Tea,None
+96,Richmond,Trades,Intermediate,Fitbit,7.9,3,25.3,Coffee,None
+97,Langley,Office,Evening,Fitbit,3.3,5,18,Coffee,None
+98,Burnaby,Healthcare,Intermediate,Manual Entry,4.4,2,19.1,Tea,None
+99,,Trades,Evening,Manual Entry,5.3,9,25.1,Coffee,None
+100,Delta,Trades,Intermediate,Apple Watch,4.5,6,33.9,Coffee,Herbal
+101,Victoria,Retail,Evening,Fitbit,,10,27.6,Coffee,None
+102,Langley,Office,Evening,Android App,1.7,6,17.2,Coffee,Prescription
+103,Delta,Unemployed,Morning,Manual Entry,3.6,4,16,Coffee,None
+104,Surrey,Tech,Intermediate,Apple Watch,2.6,6,28.3,Tea,None
+105,Victoria,Hospitality,Intermediate,Oura,1.4,2,24.6,Coffee,None
+106,New Westminster,Office,Morning,Apple Watch,3.1,9,30.1,Tea,None
+107,Burnaby,Tech,Intermediate,Android App,2.6,8,21,Coffee,None
+108,Burnaby,Hospitality,Evening,Garmin,5.6,2,26.6,Coffee,Melatonin
+109,Langley,Office,Morning,Fitbit,5.6,6,28.8,Coffee,None
+110,Surrey,Hospitality,Intermediate,Apple Watch,2.9,6,23,Tea,Melatonin
+111,Delta,Trades,Evening,Oura,4,3,23.1,None,None
+112,Burnaby,Hospitality,Intermediate,Android App,1.2,2,25.1,Coffee,None
+113,Surrey,Healthcare,Intermediate,Fitbit,3.6,8,27.4,Coffee,None
+114,Surrey,Hospitality,Evening,Manual Entry,5.2,3,24.9,Coffee,Herbal
+115,Surrey,Office,Intermediate,Oura,6,6,29.4,Coffee,None
+116,New Westminster,Healthcare,Morning,Manual Entry,3.2,3,22.9,Energy Drink,None
+117,Victoria,Trades,Morning,Manual Entry,6.4,7,19,Coffee,None
+118,Victoria,Office,Evening,Fitbit,1.8,1,33.9,None,None
+119,Delta,Trades,Intermediate,Fitbit,2.3,4,22.3,Tea,Herbal
+120,Surrey,Healthcare,Intermediate,Android App,5.8,6,22.4,Coffee,Melatonin
+121,Victoria,Office,Morning,Apple Watch,7.5,5,24.7,Energy Drink,None
+122,North Vancouver,Tech,Intermediate,Fitbit,5.4,7,25.3,Coffee,Herbal
+123,North Vancouver,Retail,Evening,Garmin,4.4,2,23.3,Tea,Melatonin
+124,Delta,Hospitality,Intermediate,Manual Entry,0.5,5,24.9,Coffee,None
+126,Delta,Tech,Evening,Android App,0.9,8,,Energy Drink,None
+127,Victoria,Office,Intermediate,Oura,4.7,4,25.8,Coffee,None
+128,North Vancouver,Student,Intermediate,Apple Watch,,2,16,Coffee,None
+129,New Westminster,Healthcare,Evening,Garmin,2.5,9,33.5,Energy Drink,None
+130,Delta,Healthcare,Intermediate,Android App,4.6,8,24.3,Coffee,None
+131,Surrey,Office,Intermediate,Fitbit,4.7,7,27.6,Coffee,Herbal
+132,Richmond,Hospitality,Evening,Oura,6.2,8,18.8,Tea,Herbal
+133,New Westminster,Retail,Intermediate,Fitbit,4.7,8,22.9,Coffee,None
+134,Vancouver,Tech,Intermediate,Apple Watch,6.7,8,22,Energy Drink,None
+135,Richmond,Student,Evening,Apple Watch,4.5,6,31.6,Tea,None
+137,Delta,Hospitality,Morning,Android App,4.3,1,22.4,Tea,None
+138,Victoria,Office,Intermediate,Manual Entry,6.4,6,28.4,Coffee,None
+139,North Vancouver,Healthcare,Morning,Fitbit,2.7,3,22.1,Coffee,None
+140,Richmond,Healthcare,Intermediate,Android App,9.6,8,23,None,None
+141,Coquitlam,Hospitality,Morning,Oura,5.2,5,23.9,Coffee,None
+142,New Westminster,Trades,Intermediate,Manual Entry,5.2,10,30.8,Coffee,None
+143,North Vancouver,Office,Morning,Manual Entry,5.4,6,16.5,Coffee,None
+144,Vancouver,Trades,Intermediate,Fitbit,7.9,6,19.1,Coffee,Prescription
+145,North Vancouver,Trades,Intermediate,Android App,5.9,10,16.2,Tea,None
+146,Coquitlam,Office,Intermediate,Oura,1.6,5,20.1,Tea,None
+147,Delta,Office,Intermediate,Fitbit,7,4,21.3,Tea,None
+148,Langley,Office,Intermediate,Apple Watch,3.9,4,17.7,Energy Drink,None
+149,Victoria,Healthcare,Intermediate,Manual Entry,4.7,9,21.7,Coffee,None
+151,New Westminster,Trades,Intermediate,Oura,2.2,8,16,Coffee,None
+152,Richmond,Healthcare,Evening,Garmin,5.4,2,20.4,Coffee,None
+153,Coquitlam,Tech,Intermediate,Apple Watch,3.3,5,30.4,Tea,None
+154,Burnaby,Office,Morning,Manual Entry,4.7,4,26.8,Coffee,None
+155,Victoria,Unemployed,Evening,Apple Watch,4,7,25.8,Tea,None
+156,Langley,Hospitality,Intermediate,Fitbit,8,1,20.5,Coffee,None
+157,Langley,Office,Morning,Oura,8.1,8,,Energy Drink,None
+158,Richmond,Trades,Intermediate,Manual Entry,4.6,8,19.9,Energy Drink,None
+159,Richmond,Office,Morning,Apple Watch,4.6,3,24.8,Energy Drink,None
+160,Langley,Trades,Morning,Apple Watch,3.8,2,28.9,Coffee,None
+161,North Vancouver,Trades,Intermediate,Garmin,6.5,7,29.1,None,None
+162,Delta,Office,Morning,Apple Watch,3.9,3,,Coffee,None
+163,Coquitlam,Student,Evening,Oura,3.7,10,21.7,Coffee,None
+165,Coquitlam,Healthcare,Evening,Apple Watch,6.3,8,25.1,Coffee,None
+166,New Westminster,Tech,Intermediate,Fitbit,3.5,10,23.6,Coffee,None
+167,Langley,Trades,Intermediate,Apple Watch,4.4,6,24.1,Tea,None
+168,Richmond,Hospitality,Intermediate,Manual Entry,1.7,10,34.2,Coffee,Melatonin
+169,Langley,Trades,Evening,Manual Entry,5.8,1,17.1,Coffee,Prescription
+170,Surrey,Unemployed,Intermediate,Oura,8,3,23.9,Tea,Herbal
+171,Coquitlam,Office,Morning,Garmin,5.8,1,30.5,Energy Drink,None
+172,Victoria,Retail,Intermediate,Android App,7.1,7,18.4,Tea,None
+173,Victoria,Hospitality,Intermediate,Apple Watch,3,6,22.1,Tea,None
+174,Victoria,Student,Morning,Oura,4.9,3,22.6,Coffee,None
+175,Richmond,Unemployed,Intermediate,Android App,2.8,4,24,Energy Drink,None
+177,Langley,Trades,Morning,Android App,4.1,7,17.8,Coffee,None
+178,Victoria,Healthcare,Evening,Apple Watch,5.9,2,27.7,Coffee,None
+179,Victoria,Tech,Intermediate,Android App,4.7,6,28,Coffee,None
+180,Vancouver,Tech,Morning,Oura,2,7,27.3,Tea,None
+181,Delta,Student,Morning,Manual Entry,2.1,3,21.1,Coffee,None
+182,Victoria,Hospitality,Morning,Apple Watch,2,3,25.4,Tea,Prescription
+183,Delta,Retail,Intermediate,Oura,5.4,4,21,Coffee,None
+184,Surrey,Unemployed,Morning,Android App,8.2,6,23.5,Coffee,None
+185,Delta,Healthcare,Intermediate,Apple Watch,7,3,34.7,Coffee,Prescription
+186,Burnaby,Retail,Morning,Android App,1.1,4,25.4,Coffee,None
+187,Coquitlam,Healthcare,Intermediate,Fitbit,7.1,6,19.7,Coffee,None
+188,New Westminster,Unemployed,Intermediate,Android App,6.2,2,25.8,Tea,None
+189,Coquitlam,Hospitality,Intermediate,Oura,1.7,6,18.9,Coffee,None
+190,New Westminster,Unemployed,Intermediate,Apple Watch,4,2,19.6,Coffee,None
+191,Surrey,Retail,Morning,Fitbit,6.5,2,20.3,Tea,Melatonin
+192,New Westminster,Hospitality,Morning,Android App,5.5,3,23,Coffee,Melatonin
+193,New Westminster,Trades,Morning,Apple Watch,2.1,3,29.2,Coffee,Melatonin
+194,New Westminster,Healthcare,Evening,Garmin,5.6,1,27.6,Coffee,Herbal
+195,Surrey,Hospitality,Evening,Fitbit,0.7,10,27.4,Coffee,None
+196,Richmond,Student,Evening,Manual Entry,4.1,4,20.1,Coffee,Melatonin
+197,Surrey,Tech,Intermediate,Oura,6.5,9,22.6,Tea,None
+198,Coquitlam,Student,Intermediate,Manual Entry,4.5,10,26.2,Coffee,None
+199,North Vancouver,Retail,Intermediate,Fitbit,3.6,9,22.2,Tea,Melatonin
+200,Richmond,Healthcare,Evening,Apple Watch,6.1,9,23.7,Coffee,Melatonin
+201,Coquitlam,Healthcare,Evening,Oura,6.3,2,27,Tea,Melatonin
+202,Surrey,Healthcare,Evening,Oura,6.9,4,23.4,Tea,None
+203,Surrey,Healthcare,Evening,Android App,6.1,8,26,Coffee,None
+204,New Westminster,Healthcare,Intermediate,Manual Entry,6.4,6,32.2,Coffee,None
+206,Langley,Healthcare,Evening,Android App,5.8,1,24.2,Coffee,None
+207,Surrey,Retail,Evening,Fitbit,5,6,30.3,None,Melatonin
+208,Langley,Hospitality,Intermediate,Apple Watch,4.7,9,27.5,None,Melatonin
+209,North Vancouver,Retail,Evening,Manual Entry,4.1,9,18.4,Coffee,None
+210,Burnaby,Tech,Morning,Oura,2.3,4,20,Tea,None
+211,Richmond,Hospitality,Evening,Manual Entry,2.8,3,21.2,Coffee,None
+212,Vancouver,Unemployed,Evening,Oura,4,4,21.2,Coffee,None
+213,Vancouver,Student,Morning,Fitbit,4.9,3,24.6,Tea,None
+214,Richmond,Tech,Intermediate,Garmin,7.1,4,27.8,Coffee,Prescription
+215,Coquitlam,Office,Morning,Android App,4.4,4,30.6,Coffee,None
+216,Delta,Office,Evening,Oura,6.3,5,26.4,Energy Drink,Herbal
+217,Burnaby,Hospitality,Evening,Fitbit,6.4,1,23,Coffee,None
+218,Langley,Student,Intermediate,Apple Watch,4.1,3,16,Tea,Melatonin
+219,Surrey,Hospitality,Evening,Manual Entry,5.6,4,25.3,Coffee,None
+220,Burnaby,Hospitality,Morning,Manual Entry,4.1,2,25.1,Coffee,None
+221,New Westminster,Unemployed,Intermediate,Android App,6.9,9,25.8,Coffee,None
+222,Delta,Tech,Intermediate,Fitbit,5.6,7,34.5,None,None
+223,New Westminster,Hospitality,Morning,Oura,2.4,10,30.6,Coffee,Prescription
+224,Burnaby,Student,Intermediate,Android App,4.8,6,28.5,Coffee,None
+225,Burnaby,Unemployed,Intermediate,Oura,7.5,2,20.7,Tea,None
+226,Richmond,Office,Intermediate,Oura,4.2,10,22.7,None,None
+228,Coquitlam,Trades,Intermediate,Garmin,5.3,5,24.6,None,None
+229,Victoria,Office,Evening,Apple Watch,5.5,7,21.5,Tea,None
+230,Surrey,Healthcare,Intermediate,Apple Watch,2.6,4,27.3,Coffee,None
+231,Burnaby,Tech,Evening,Android App,5.4,5,26.6,Tea,None
+232,Victoria,Trades,Intermediate,Fitbit,2,5,20.1,Energy Drink,None
+233,Burnaby,Hospitality,Intermediate,Fitbit,3.4,3,30.4,Energy Drink,Melatonin
+234,Vancouver,Retail,Intermediate,Garmin,6.4,6,25.5,Energy Drink,Melatonin
+235,Coquitlam,Tech,Intermediate,Android App,5.1,8,17.2,Coffee,None
+236,Coquitlam,Unemployed,Intermediate,Oura,4,1,24.8,Coffee,None
+237,New Westminster,Healthcare,Intermediate,Oura,5.3,2,26.3,Tea,Melatonin
+238,Langley,Trades,Morning,Oura,4.4,9,29.4,Coffee,None
+240,Victoria,Unemployed,Intermediate,Fitbit,4.5,6,23.5,Coffee,Herbal
+241,Surrey,Retail,Intermediate,Apple Watch,5.7,10,28.7,Coffee,None
+242,Victoria,Retail,Intermediate,Fitbit,3.2,7,25.8,Tea,None
+243,New Westminster,Trades,Evening,Android App,4.6,7,19.1,Energy Drink,None
+244,Vancouver,Office,Intermediate,Android App,3.9,9,18.6,Tea,None
+245,Victoria,Office,Evening,Apple Watch,1.6,7,30.1,Energy Drink,None
+246,Burnaby,Office,Evening,Apple Watch,2.8,4,30.4,Tea,None
+247,North Vancouver,Office,Evening,Apple Watch,7.3,6,26.5,Tea,None
+248,Delta,Tech,Evening,Manual Entry,5.2,3,31.7,Coffee,Prescription
+249,Surrey,Student,Morning,Garmin,2.1,4,29.8,Tea,None
+250,Surrey,Tech,Intermediate,Android App,1.7,7,28.1,Coffee,None
+251,Coquitlam,Unemployed,Morning,Garmin,4.3,2,20.9,Coffee,None
+252,Langley,Hospitality,Evening,Android App,7.3,7,32.8,Coffee,None
+253,Surrey,Healthcare,Intermediate,Oura,4.2,6,27.4,Energy Drink,None
+254,New Westminster,Student,Intermediate,Apple Watch,6.9,4,23.3,Tea,None
+255,Coquitlam,Hospitality,Evening,Manual Entry,5.1,1,22,None,None
+256,Burnaby,Student,Morning,Android App,5.3,8,26.2,None,None
+257,Delta,Tech,Intermediate,Android App,2.1,9,17.5,Energy Drink,None
+258,Langley,Tech,Intermediate,Manual Entry,6.2,8,28.1,Coffee,None
+259,North Vancouver,Office,Morning,Apple Watch,3.9,5,20.7,Energy Drink,Melatonin
+260,Burnaby,Tech,Intermediate,Fitbit,6.1,7,26.7,Energy Drink,None
+261,Burnaby,Office,Evening,Oura,3,5,22.7,Energy Drink,None
+262,Coquitlam,Office,Morning,Apple Watch,4.8,4,23.8,Coffee,Herbal
+263,North Vancouver,Hospitality,Intermediate,Garmin,5.1,4,21.6,Coffee,None
+264,North Vancouver,Unemployed,Intermediate,Apple Watch,4.2,3,24.3,None,None
+265,Surrey,Trades,Intermediate,Garmin,5.2,10,,Coffee,Melatonin
+266,North Vancouver,Unemployed,Morning,Garmin,4,7,31.2,Coffee,None
+267,Surrey,Unemployed,Evening,Garmin,3.3,2,26.6,Coffee,Melatonin
+268,New Westminster,Hospitality,Evening,Android App,7.4,9,24.9,Coffee,None
+269,Delta,Office,Morning,Oura,6.4,2,28.8,Coffee,Herbal
+271,,Trades,Intermediate,Garmin,3.1,6,30.1,None,Herbal
+272,Vancouver,Tech,Intermediate,Fitbit,5.5,2,21.3,Energy Drink,None
+273,Victoria,Unemployed,Intermediate,Oura,3.2,4,24.7,None,Melatonin
+274,Vancouver,Hospitality,Intermediate,Apple Watch,2.4,7,16.8,Coffee,None
+275,Victoria,Healthcare,Morning,Apple Watch,6.4,10,30.1,Coffee,None
+276,Vancouver,Office,Morning,Garmin,1.4,10,34.3,Coffee,None
+277,North Vancouver,Unemployed,Evening,Fitbit,6.2,9,25.4,Coffee,None
+278,Burnaby,Trades,Intermediate,Garmin,4,3,16,Coffee,None
+279,Vancouver,Trades,Evening,Apple Watch,4.1,1,27.7,Tea,None
+280,New Westminster,Unemployed,Intermediate,Manual Entry,5.2,10,20.9,None,None
+282,Delta,Retail,Evening,Manual Entry,5.5,10,22,Coffee,None
+283,Burnaby,Trades,Morning,Fitbit,3,3,27.8,Coffee,Prescription
+284,Victoria,Student,Morning,Oura,5.8,1,26.1,Coffee,None
+285,Richmond,Healthcare,Evening,Oura,4.7,7,,Coffee,Melatonin
+286,Richmond,Unemployed,Evening,Garmin,2.2,1,22.1,Coffee,Melatonin
+288,Surrey,Healthcare,Intermediate,Garmin,4.2,1,25.6,Coffee,Melatonin
+289,Coquitlam,Tech,Intermediate,Android App,7,10,23.2,Coffee,None
+290,Burnaby,Trades,Intermediate,Garmin,7.5,5,20,Coffee,Melatonin
+291,Coquitlam,Hospitality,Intermediate,Fitbit,5.8,2,23.5,Energy Drink,Melatonin
+292,Surrey,Hospitality,Morning,Garmin,2.4,7,26.5,Coffee,Melatonin
+293,Vancouver,Retail,Evening,Apple Watch,5.4,4,24.2,Coffee,Prescription
+294,Richmond,Hospitality,Intermediate,Garmin,6,6,18.6,Coffee,None
+295,New Westminster,Retail,Intermediate,Apple Watch,5.8,9,29.5,Coffee,None
+296,Delta,Healthcare,Morning,Fitbit,5.9,3,16,Tea,Melatonin
+297,Richmond,Tech,Morning,Manual Entry,5.2,7,23,Energy Drink,None
+298,Richmond,Hospitality,Intermediate,Fitbit,4.4,9,22.2,Energy Drink,Melatonin
+299,Delta,Hospitality,Intermediate,Android App,3.4,5,25.7,Tea,None
+300,New Westminster,Office,Intermediate,Android App,1.1,10,27.5,Coffee,None
+301,Langley,Tech,Morning,Oura,5.1,5,30.1,Coffee,None
+302,Victoria,Student,Evening,Manual Entry,4.8,5,21.8,Coffee,None
+303,Langley,Retail,Intermediate,Fitbit,5.5,9,27.6,Coffee,Herbal
+304,Victoria,Retail,Evening,Apple Watch,2.1,7,25.9,Energy Drink,None
+305,Coquitlam,Trades,Morning,Apple Watch,5.7,9,17.3,Coffee,None
+306,Richmond,Unemployed,Intermediate,Oura,8.2,8,33.6,Coffee,None
+307,Richmond,Unemployed,Intermediate,Oura,4.6,8,18.5,Coffee,Herbal
+308,Surrey,Student,Intermediate,Manual Entry,4.4,3,26.9,Coffee,None
+309,Delta,Office,Intermediate,Garmin,5.1,4,26.8,None,None
+310,Delta,Office,Morning,Apple Watch,8.2,9,26.2,Coffee,None
+311,Langley,Unemployed,Intermediate,Manual Entry,2.7,7,22.8,Coffee,None
+312,Burnaby,Retail,Intermediate,Android App,4.9,3,28.7,Coffee,Herbal
+313,Coquitlam,Tech,Intermediate,Android App,3.1,4,18,Energy Drink,Herbal
+314,Surrey,Hospitality,Morning,Garmin,3.5,8,24.7,Coffee,None
+315,Langley,Hospitality,Intermediate,Garmin,4.4,2,22.5,Tea,None
+316,Surrey,Student,Intermediate,Garmin,6.9,2,22,Coffee,None
+317,Burnaby,Office,Intermediate,Android App,7.7,8,,Coffee,None
+318,North Vancouver,Healthcare,Intermediate,Apple Watch,5.3,3,29.8,Energy Drink,None
+319,Langley,Trades,Intermediate,Manual Entry,3.8,8,23.5,Coffee,None
+320,Victoria,Tech,Evening,Apple Watch,,6,28.5,Coffee,None
+321,Vancouver,Office,Intermediate,Garmin,3.7,10,25.2,Tea,Melatonin
+322,Richmond,Trades,Intermediate,Apple Watch,3.5,6,21,Coffee,None
+323,Burnaby,Office,Evening,Oura,1.3,9,23.8,Coffee,None
+324,Richmond,Office,Intermediate,Android App,7,9,23.7,Energy Drink,None
+325,North Vancouver,Office,Evening,Manual Entry,6.2,3,21.9,Coffee,None
+326,Surrey,Office,Evening,Android App,8.9,10,26.9,Coffee,None
+327,Vancouver,Retail,Morning,Apple Watch,2,8,26.1,Coffee,None
+328,North Vancouver,Healthcare,Intermediate,Apple Watch,7.1,2,17.8,Tea,None
+329,Vancouver,Healthcare,Intermediate,Manual Entry,4.6,1,17.6,Coffee,Melatonin
+330,Surrey,Healthcare,Evening,Garmin,6,3,26.9,Coffee,Melatonin
+331,Vancouver,Tech,Intermediate,Fitbit,1.5,1,21.3,Tea,Prescription
+332,Vancouver,Hospitality,Morning,Android App,7.1,4,26.4,Tea,None
+333,Coquitlam,Retail,Intermediate,Oura,5.9,10,28.5,None,None
+334,Langley,Tech,Morning,Fitbit,4.4,5,19.3,Coffee,None
+335,Delta,Tech,Evening,Android App,5.7,1,18.6,Coffee,None
+336,Vancouver,Tech,Intermediate,Oura,3.1,5,32.5,Coffee,Herbal
+337,Vancouver,Office,Intermediate,Oura,3.5,3,26.6,Tea,Herbal
+338,Richmond,Unemployed,Evening,Manual Entry,3.7,9,23.1,Coffee,None
+339,New Westminster,Office,Intermediate,Garmin,1.2,1,20.8,Tea,None
+340,Delta,Healthcare,Intermediate,Garmin,6.1,8,22.7,Coffee,None
+341,Langley,Tech,Evening,Oura,6.6,5,19.6,Energy Drink,None
+342,Richmond,Healthcare,Evening,Apple Watch,3.2,1,29,Energy Drink,Herbal
+343,Burnaby,Office,Evening,Fitbit,5.1,7,21.5,Coffee,None
+344,Vancouver,Unemployed,Morning,Manual Entry,4,5,29.9,None,None
+345,Burnaby,Student,Intermediate,Apple Watch,5.1,8,23.2,None,None
+346,Vancouver,Office,Morning,Oura,3.4,7,20.3,Coffee,None
+347,Langley,Unemployed,Evening,Apple Watch,2.9,8,23.1,Coffee,None
+348,Surrey,Tech,Intermediate,Apple Watch,6.4,5,16,Tea,Melatonin
+349,Langley,Student,Intermediate,Oura,4.4,1,24.5,Coffee,None
+350,North Vancouver,Hospitality,Morning,Android App,8.1,2,24.2,Coffee,None
+351,North Vancouver,Unemployed,Intermediate,Garmin,4.6,5,28.7,Coffee,None
+352,Coquitlam,Student,Intermediate,Fitbit,2.8,4,16.5,None,None
+353,Langley,Healthcare,Morning,Apple Watch,6.7,8,30.2,Coffee,None
+354,Vancouver,Healthcare,Morning,Fitbit,5.6,5,28.7,Tea,None
+355,Vancouver,Office,Evening,Manual Entry,5.8,9,30.6,Coffee,None
+356,Coquitlam,Office,Evening,Apple Watch,,2,24.8,Coffee,None
+357,Richmond,Office,Morning,Garmin,3.3,4,29.6,Energy Drink,Melatonin
+358,North Vancouver,Office,Intermediate,Fitbit,4.3,8,18.4,Coffee,None
+359,,Healthcare,Evening,Garmin,4.2,2,28.2,Coffee,Prescription
+360,North Vancouver,Healthcare,Intermediate,Manual Entry,2.2,4,21.5,Coffee,None
+361,Surrey,Office,Intermediate,Garmin,4,8,17.6,Tea,None
+362,Richmond,Trades,Intermediate,Oura,6.9,6,19.9,Coffee,None
+363,Delta,Office,Intermediate,Apple Watch,4.9,8,25,Coffee,None
+364,Surrey,Hospitality,Morning,Fitbit,2.1,6,21.3,Coffee,None
+365,North Vancouver,Office,Intermediate,Android App,1.7,9,26.7,Coffee,None
+366,North Vancouver,Unemployed,Morning,Fitbit,7.5,9,16.9,Coffee,Melatonin
+367,Delta,Retail,Morning,Garmin,4.3,10,16,Coffee,None
+368,Delta,Hospitality,Intermediate,Apple Watch,3.3,2,31.2,Coffee,None
+369,Coquitlam,Tech,Evening,Fitbit,4,6,29.1,Coffee,Herbal
+370,Richmond,Trades,Evening,Oura,1.8,2,20.3,Tea,None
+371,Richmond,Retail,Intermediate,Manual Entry,7.1,3,25,Tea,Herbal
+372,Coquitlam,Trades,Intermediate,Fitbit,3.8,4,29.6,Coffee,Melatonin
+373,Surrey,Student,Intermediate,Android App,7,7,26.9,Coffee,Melatonin
+374,New Westminster,Trades,Intermediate,Oura,4.6,5,25.7,Coffee,Melatonin
+375,Surrey,Trades,Intermediate,Android App,7.1,9,29.9,None,None
+376,New Westminster,Office,Intermediate,Fitbit,5,3,21.7,Coffee,None
+377,Delta,Student,Intermediate,Manual Entry,6,7,25.1,Coffee,Melatonin
+378,Victoria,Unemployed,Evening,Fitbit,5.8,8,24.9,Coffee,Melatonin
+379,,Retail,Evening,Manual Entry,5.6,10,23.8,Coffee,None
+380,Delta,Healthcare,Morning,Oura,5.1,3,23.2,Coffee,None
+381,Vancouver,Unemployed,Intermediate,Garmin,4.1,8,25.3,Coffee,None
+382,Richmond,Office,Morning,Fitbit,7.9,1,25.2,Tea,None
+383,Burnaby,Healthcare,Intermediate,Oura,2.9,6,20.3,Tea,None
+384,Burnaby,Hospitality,Intermediate,Fitbit,4.5,5,28.6,Tea,Melatonin
+385,Burnaby,Tech,Morning,Oura,4.5,10,20.6,Tea,Melatonin
+386,Vancouver,Healthcare,Evening,Android App,5.2,8,24,Coffee,None
+387,Langley,Trades,Intermediate,Apple Watch,3.7,10,23.7,None,None
+388,Vancouver,Student,Evening,Apple Watch,5.1,9,26.6,Tea,None
+389,Richmond,Student,Morning,Apple Watch,4.2,5,16,Energy Drink,None
+390,New Westminster,Office,Morning,Apple Watch,1.7,8,29,Tea,None
+391,Victoria,Hospitality,Intermediate,Fitbit,4.5,1,22,Coffee,None
+392,Langley,Tech,Morning,Apple Watch,2.5,6,30.5,Coffee,None
+393,Burnaby,Healthcare,Intermediate,Oura,1.4,1,22.8,Coffee,None
+394,Victoria,Hospitality,Evening,Apple Watch,4.7,8,24.8,Coffee,None
+396,New Westminster,Office,Morning,Android App,5.4,10,33.6,Coffee,None
+397,Burnaby,Office,Morning,Android App,5.4,7,23.8,Coffee,None
+398,Coquitlam,Healthcare,Intermediate,Android App,5.5,9,30.6,Coffee,None
+399,Victoria,Unemployed,Intermediate,Oura,1,3,25.2,None,None
+400,Richmond,Retail,Intermediate,Apple Watch,2.1,10,26.9,Tea,None
+401,Burnaby,Hospitality,Intermediate,Manual Entry,8.1,6,25.3,Tea,None
+402,Langley,Office,Evening,Apple Watch,2.6,7,,Coffee,None
+403,Victoria,Hospitality,Morning,Garmin,,8,21.9,Tea,Herbal
+404,Victoria,Student,Intermediate,Garmin,3.3,7,20.6,Energy Drink,None
+405,Victoria,Office,Intermediate,Android App,4.6,4,22.1,Tea,None
+406,Langley,Retail,Evening,Oura,3.4,7,25.4,Tea,None
+407,Coquitlam,Student,Intermediate,Android App,5.5,7,24,Coffee,Melatonin
+408,Burnaby,Hospitality,Intermediate,Manual Entry,4.7,9,28.2,Coffee,Melatonin
+409,New Westminster,Hospitality,Morning,Garmin,3.7,5,30.9,Tea,None
+410,Surrey,Retail,Morning,Manual Entry,2.6,6,20.6,None,None
+411,Coquitlam,Trades,Morning,Apple Watch,5,6,21.7,Coffee,None
+412,New Westminster,Student,Intermediate,Manual Entry,2.3,2,18.5,Coffee,None
+413,Victoria,Retail,Intermediate,Apple Watch,5.3,1,34.1,Coffee,None
+414,Surrey,Retail,Intermediate,Manual Entry,9.2,1,26.4,Coffee,None
+416,Surrey,Hospitality,Morning,Garmin,6.9,7,27.2,None,Herbal
+417,Delta,Retail,Evening,Manual Entry,5.8,5,19,Tea,Melatonin
+418,Vancouver,Office,Evening,Fitbit,4.3,9,25,Coffee,None
+419,North Vancouver,Student,Morning,Garmin,1,8,27.3,Coffee,Herbal
+420,Delta,Hospitality,Morning,Manual Entry,2.1,2,23.9,Coffee,None
+421,North Vancouver,Office,Morning,Fitbit,6.8,2,29.8,Coffee,None
+424,Richmond,Unemployed,Evening,Apple Watch,3.1,4,35.4,Coffee,Melatonin
+425,,Student,Morning,Fitbit,3.2,10,20.7,Energy Drink,None
+426,Richmond,Tech,Intermediate,Apple Watch,4.2,1,20.4,Tea,None
+427,Delta,Unemployed,Intermediate,Garmin,2.6,2,21.1,Coffee,None
+428,Coquitlam,Healthcare,Evening,Oura,2.3,1,32.2,Tea,None
+429,Vancouver,Student,Intermediate,Apple Watch,4.4,5,29.7,Tea,None
+430,North Vancouver,Unemployed,Intermediate,Fitbit,2.9,10,24.4,Coffee,None
+431,Vancouver,Office,Evening,Apple Watch,3.2,7,25.2,Tea,None
+432,Victoria,Retail,Morning,Manual Entry,3.1,5,21.3,Tea,None
+433,New Westminster,Unemployed,Evening,Manual Entry,5.4,2,29,Energy Drink,None
+434,Richmond,Tech,Morning,Apple Watch,4.1,4,23.3,Coffee,None
+436,Coquitlam,Student,Intermediate,Apple Watch,4.2,6,23.8,Coffee,None
+437,New Westminster,Hospitality,Evening,Fitbit,5.6,3,27.7,Coffee,None
+438,Surrey,Office,Intermediate,Manual Entry,4.2,8,24.2,Coffee,None
+439,Surrey,Tech,Intermediate,Android App,4,10,23.9,Coffee,Melatonin
+440,Coquitlam,Retail,Intermediate,Android App,5.3,3,25,Tea,None
+441,Surrey,Trades,Intermediate,Apple Watch,5.7,3,28.6,Coffee,Melatonin
+442,Delta,Healthcare,Intermediate,Oura,4.2,2,32.4,Coffee,Melatonin
+443,Burnaby,Student,Intermediate,Fitbit,4.6,8,27.6,None,None
+444,Langley,Unemployed,Intermediate,Android App,3.1,5,28.6,Coffee,Melatonin
+445,Richmond,Office,Intermediate,Oura,3,3,24.1,Coffee,Melatonin
+446,North Vancouver,Trades,Intermediate,Apple Watch,5.9,3,21.8,Tea,None
+447,Burnaby,Retail,Intermediate,Android App,5.3,1,27.9,Coffee,None
+448,Richmond,Tech,Intermediate,Oura,5.3,5,25.8,Coffee,Melatonin
+449,Delta,Retail,Morning,Garmin,5,7,18.6,Tea,Herbal
+450,Surrey,Retail,Evening,Apple Watch,4.6,3,23.5,Coffee,None
+452,Burnaby,Retail,Intermediate,Fitbit,5.8,1,24.6,Coffee,Melatonin
+453,North Vancouver,Hospitality,Morning,Manual Entry,6.2,5,22.7,Coffee,Melatonin
+454,Burnaby,Healthcare,Intermediate,Apple Watch,6.1,7,31.7,Energy Drink,Melatonin
+455,Richmond,Hospitality,Evening,Apple Watch,4.3,4,27.2,Coffee,Herbal
+456,Coquitlam,Hospitality,Morning,Android App,7,3,31.2,Tea,None
+457,North Vancouver,Unemployed,Morning,Apple Watch,4.9,2,26.2,Coffee,None
+458,New Westminster,Unemployed,Morning,Garmin,5.6,8,25.4,Tea,None
+459,New Westminster,Hospitality,Morning,Android App,5,9,20.8,Coffee,None
+460,Langley,Office,Evening,Oura,4.9,8,25.1,Coffee,None
+461,Vancouver,Hospitality,Evening,Oura,3.2,6,25.1,Coffee,Melatonin
+462,Richmond,Tech,Morning,Fitbit,5.8,8,18.8,Tea,Prescription
+463,Vancouver,Trades,Intermediate,Garmin,9.6,4,22.6,Coffee,None
+464,Vancouver,Tech,Morning,Garmin,3.8,1,23.5,Coffee,None
+465,Surrey,Trades,Intermediate,Oura,4.6,4,26.9,Coffee,None
+466,North Vancouver,Retail,Evening,Fitbit,3.7,8,27.1,Coffee,None
+467,Langley,Hospitality,Intermediate,Fitbit,3.6,7,22.4,Tea,None
+468,Delta,Office,Morning,Android App,7.3,10,27.1,Coffee,None
+469,New Westminster,Trades,Intermediate,Android App,3.3,10,24.2,Coffee,None
+470,Delta,Hospitality,Evening,Android App,3.6,3,16,Coffee,Melatonin
+471,Burnaby,Healthcare,Intermediate,Apple Watch,1.6,1,22.8,Coffee,None
+472,Langley,Unemployed,Morning,Manual Entry,3.1,3,29.9,Coffee,None
+473,Langley,Student,Morning,Apple Watch,1.4,9,17.4,Coffee,None
+474,Vancouver,Tech,Intermediate,Oura,5.6,9,25.5,Coffee,None
+475,Coquitlam,Hospitality,Intermediate,Fitbit,9.5,1,32.1,None,Herbal
+476,Langley,Unemployed,Evening,Manual Entry,3.8,2,21.6,Coffee,Prescription
+477,Coquitlam,Office,Evening,Apple Watch,1.5,6,25,Energy Drink,None
+478,Langley,Unemployed,Evening,Android App,6.1,7,19.1,Coffee,None
+479,Victoria,Healthcare,Evening,Apple Watch,3.2,10,32.3,Coffee,None
+480,Coquitlam,Trades,Morning,Android App,6.8,8,24.6,Coffee,None
+481,Vancouver,Trades,Intermediate,Garmin,4,3,25.2,Coffee,None
+482,Richmond,Tech,Intermediate,Fitbit,3.4,1,31.1,Tea,None
+483,Surrey,Tech,Intermediate,Apple Watch,4.2,7,28,Energy Drink,None
+484,Coquitlam,Healthcare,Evening,Android App,5.9,6,21.1,Tea,None
+486,North Vancouver,Student,Intermediate,Apple Watch,4.1,10,22.1,Tea,None
+487,Coquitlam,Unemployed,Evening,Apple Watch,3.6,6,27.2,Coffee,None
+488,Burnaby,Office,Intermediate,Oura,4.1,6,22.2,Coffee,None
+489,Richmond,Student,Intermediate,Apple Watch,2.2,4,16,Tea,None
+490,New Westminster,Retail,Intermediate,Fitbit,5.2,1,24.8,Coffee,None
+491,Vancouver,Healthcare,Morning,Oura,1.3,9,18.3,Coffee,None
+492,Surrey,Retail,Morning,Android App,3.7,9,32.3,None,None
+493,Langley,Unemployed,Intermediate,Android App,5.9,2,25.8,None,Melatonin
+494,Vancouver,Student,Morning,Manual Entry,5,8,20.9,Tea,Herbal
+495,Coquitlam,Trades,Evening,Fitbit,5.6,4,21.9,Coffee,None
+496,Surrey,Retail,Morning,Garmin,4.4,5,16.5,Energy Drink,Melatonin
+497,Burnaby,Hospitality,Morning,Apple Watch,6.6,9,20.1,Coffee,None
+498,Coquitlam,Retail,Evening,Manual Entry,6.2,9,29.6,Coffee,None
+499,North Vancouver,Healthcare,Morning,Oura,5.3,2,35,Coffee,None
+500,Burnaby,Retail,Evening,Fitbit,6.2,4,28.3,None,None
+501,Vancouver,Unemployed,Intermediate,Android App,5.9,9,24.6,None,None
+502,Burnaby,Healthcare,Morning,Fitbit,3.7,10,23.1,Tea,Herbal
+503,New Westminster,Unemployed,Intermediate,Apple Watch,2.1,1,20.7,Coffee,None
+504,Langley,Hospitality,Intermediate,Android App,5.3,9,34.3,Coffee,None
+505,Burnaby,Trades,Evening,Oura,5.5,5,24.2,Coffee,None
+506,Richmond,Office,Evening,Android App,6.5,6,34.5,Energy Drink,None
+507,Richmond,Hospitality,Intermediate,Oura,2.8,1,31.3,Coffee,None
+508,Richmond,Office,Intermediate,Manual Entry,2.9,7,,Coffee,None
+509,Surrey,Trades,Intermediate,Oura,5.3,7,22,Tea,None
+510,Vancouver,Office,Intermediate,Fitbit,4.4,7,22,Coffee,Melatonin
+511,North Vancouver,Retail,Evening,Fitbit,1.1,8,24.6,Energy Drink,None
+512,Richmond,Trades,Intermediate,Android App,5.2,10,24.7,Coffee,None
+513,Richmond,Tech,Intermediate,Fitbit,1.2,9,38.5,Energy Drink,Melatonin
+514,Surrey,Unemployed,Intermediate,Garmin,2.8,8,20.2,Coffee,None
+515,Victoria,Hospitality,Evening,Fitbit,6.9,10,26,Coffee,None
+516,New Westminster,Unemployed,Evening,Apple Watch,7.8,7,27.8,Coffee,None
+517,Coquitlam,Student,Morning,Oura,2.3,7,25,Coffee,None
+518,Surrey,Healthcare,Morning,Apple Watch,3.9,6,25.5,Tea,None
+520,Langley,Office,Intermediate,Garmin,4.6,8,20.3,Coffee,None
+521,Langley,Unemployed,Intermediate,Manual Entry,7.7,1,25.5,Coffee,None
+522,Vancouver,Tech,Intermediate,Fitbit,3.6,6,27.3,Tea,None
+523,Victoria,Trades,Morning,Fitbit,3.6,5,26.5,Coffee,None
+524,New Westminster,Retail,Intermediate,Apple Watch,7.3,10,27.6,Tea,None
+525,Vancouver,Retail,Intermediate,Android App,3.8,1,31.4,Tea,None
+526,Delta,Healthcare,Intermediate,Garmin,5.8,7,29.2,Coffee,None
+527,Burnaby,Healthcare,Intermediate,Oura,1.8,2,25.3,Tea,None
+528,Vancouver,Student,Intermediate,Fitbit,4.2,9,19.7,Coffee,None
+529,Burnaby,Healthcare,Intermediate,Android App,1.5,9,22.3,Coffee,Herbal
+530,Coquitlam,Trades,Evening,Fitbit,2.6,3,24,Coffee,None
+531,New Westminster,Hospitality,Intermediate,Android App,6,9,26.1,Energy Drink,None
+532,Coquitlam,Hospitality,Intermediate,Fitbit,4.4,5,22.8,Tea,None
+533,Burnaby,Hospitality,Intermediate,Manual Entry,3.9,10,20.8,Coffee,None
+534,Burnaby,Student,Morning,Apple Watch,3.2,8,19.7,None,None
+536,Langley,Hospitality,Intermediate,Apple Watch,4.1,1,17.6,Coffee,Melatonin
+537,Victoria,Healthcare,Intermediate,Garmin,5,3,23.9,Energy Drink,None
+538,Delta,Healthcare,Evening,Fitbit,6.3,5,18.4,Tea,None
+539,Burnaby,Unemployed,Intermediate,Fitbit,0,3,20.5,None,None
+540,Langley,Hospitality,Morning,Oura,3,2,23.2,None,Melatonin
+541,New Westminster,Student,Intermediate,Apple Watch,4.8,10,19,None,None
+542,North Vancouver,Trades,Morning,Garmin,4.3,9,26.7,Coffee,None
+543,Burnaby,Tech,Intermediate,Android App,5.2,5,28.3,Tea,None
+544,Victoria,Retail,Evening,Fitbit,5,3,22.5,Energy Drink,Melatonin
+545,Coquitlam,Trades,Intermediate,Garmin,4,2,23,Tea,None
+546,Vancouver,Retail,Intermediate,Apple Watch,3.6,10,27.4,Coffee,Herbal
+547,Surrey,Hospitality,Intermediate,Garmin,4.1,4,21.8,None,Melatonin
+548,Coquitlam,Office,Intermediate,Apple Watch,6.6,1,21.5,Coffee,None
+549,Vancouver,Tech,Evening,Fitbit,3.2,4,30.4,Coffee,Melatonin
+550,Richmond,Tech,Intermediate,Fitbit,4.4,5,29,Coffee,None
+551,Coquitlam,Unemployed,Intermediate,Manual Entry,4.8,7,27.7,Coffee,None
+552,Victoria,Trades,Intermediate,Fitbit,7.3,4,29.2,Tea,None
+553,Vancouver,Office,Morning,Android App,4,10,16.1,Coffee,Melatonin
+554,North Vancouver,Retail,Morning,Manual Entry,6.2,7,31.1,Tea,None
+556,Victoria,Retail,Morning,Garmin,6.7,10,26.8,Energy Drink,None
+557,Langley,Healthcare,Intermediate,Apple Watch,4.4,4,29.5,Coffee,None
+558,Victoria,Hospitality,Evening,Android App,4.1,7,26.7,Tea,None
+559,Burnaby,Hospitality,Intermediate,Manual Entry,3.9,4,25.2,Coffee,Prescription
+560,Langley,Office,Morning,Fitbit,4,7,23.8,Energy Drink,None
+561,Victoria,Hospitality,Morning,Manual Entry,6,8,26.7,None,None
+562,Richmond,Office,Intermediate,Manual Entry,4.9,4,23.6,Coffee,Melatonin
+563,Coquitlam,Healthcare,Evening,Fitbit,4.9,10,28.9,Tea,Melatonin
+564,North Vancouver,Student,Intermediate,Fitbit,2.5,9,17.9,Coffee,None
+565,Coquitlam,Trades,Evening,Android App,2.8,9,22.6,Coffee,None
+566,Surrey,Unemployed,Evening,Fitbit,8.4,3,34.2,Tea,None
+567,Victoria,Healthcare,Morning,Oura,4.2,8,22.2,Coffee,None
+568,Victoria,Tech,Intermediate,Fitbit,3.1,2,23.9,Tea,None
+569,Richmond,Student,Evening,Android App,7.1,2,21,Coffee,None
+570,Langley,Tech,Intermediate,Apple Watch,5,10,26.5,Coffee,Prescription
+571,Richmond,Trades,Morning,Fitbit,5.5,2,21.7,Energy Drink,None
+572,Delta,Tech,Evening,Fitbit,4.3,9,24.2,Coffee,Melatonin
+573,North Vancouver,Unemployed,Evening,Apple Watch,3.9,5,28.8,Tea,Prescription
+574,Coquitlam,Retail,Intermediate,Oura,4.2,4,21.9,Coffee,None
+575,Burnaby,Student,Intermediate,Fitbit,2,1,28.5,Energy Drink,None
+576,New Westminster,Healthcare,Morning,Android App,4.3,7,28.7,Tea,None
+577,Richmond,Student,Evening,Oura,5,8,29.7,Coffee,Melatonin
+578,Surrey,Healthcare,Intermediate,Apple Watch,7.8,5,25.6,Coffee,None
+579,Burnaby,Student,Morning,Manual Entry,4.7,9,39.6,Coffee,None
+580,Victoria,Tech,Intermediate,Oura,0.3,4,29.7,None,None
+581,Burnaby,Trades,Evening,Android App,4.3,6,26.5,Coffee,Melatonin
+582,Delta,Office,Evening,Apple Watch,9.4,3,21.1,Coffee,None
+583,Langley,Student,Intermediate,Android App,6.1,6,24.6,Tea,None
+584,Vancouver,Unemployed,Morning,Oura,3,2,31.4,Coffee,None
+585,North Vancouver,Hospitality,Evening,Manual Entry,5.6,5,32.7,Coffee,None
+586,North Vancouver,Hospitality,Evening,Garmin,3.2,6,31.7,Coffee,Prescription
+587,Richmond,Student,Intermediate,Android App,2.1,6,28.5,Coffee,Prescription
+588,New Westminster,Trades,Intermediate,Garmin,3.9,5,19.3,Tea,Melatonin
+589,Coquitlam,Unemployed,Intermediate,Fitbit,4.7,7,27.2,Energy Drink,None
+591,Coquitlam,Retail,Intermediate,Fitbit,1.1,6,19.4,None,None
+592,Coquitlam,Office,Morning,Manual Entry,2.4,3,18.3,Energy Drink,None
+593,Langley,Office,Morning,Android App,4.5,3,26.1,Coffee,None
+594,New Westminster,Trades,Morning,Garmin,3.8,7,27.4,Coffee,None
+596,Richmond,Unemployed,Evening,Android App,5.2,10,29.1,Tea,Melatonin
+597,Victoria,Office,Morning,Fitbit,2.3,8,27.2,None,None
+598,Langley,Unemployed,Morning,Fitbit,5.8,7,27.4,Tea,None
+599,Victoria,Tech,Intermediate,Oura,2.4,10,20.6,Coffee,Herbal
+600,Delta,Unemployed,Morning,Oura,7.5,9,24.5,Tea,None
+601,Richmond,Hospitality,Morning,Manual Entry,1.4,6,18.2,Tea,None
+602,Delta,Trades,Intermediate,Android App,2.5,2,16,None,Prescription
+603,Richmond,Hospitality,Intermediate,Apple Watch,5.3,7,,Tea,None
+604,Surrey,Office,Intermediate,Android App,7.5,7,21.6,Coffee,None
+605,Coquitlam,Trades,Evening,Garmin,5.1,3,28.9,Coffee,None
+606,Victoria,Office,Morning,Android App,5.5,9,30,Coffee,Melatonin
+607,North Vancouver,Office,Evening,Apple Watch,4.5,9,22.2,Coffee,None
+608,Richmond,Student,Evening,Fitbit,2.7,4,27.7,None,None
+609,Coquitlam,Office,Evening,Fitbit,3.6,5,,Coffee,None
+610,Surrey,Student,Intermediate,Manual Entry,2.3,2,16.7,Coffee,None
+611,New Westminster,Healthcare,Intermediate,Fitbit,2.2,2,25.6,Coffee,Melatonin
+612,Richmond,Student,Intermediate,Manual Entry,5.2,3,22.9,Tea,None
+613,North Vancouver,Student,Intermediate,Android App,2.5,4,23,Coffee,None
+614,Richmond,Unemployed,Morning,Fitbit,5.1,3,33.9,Coffee,None
+615,Richmond,Student,Evening,Manual Entry,2.2,2,18.1,Energy Drink,None
+616,Victoria,Student,Intermediate,Fitbit,5,5,26.7,Coffee,None
+617,Richmond,Student,Evening,Fitbit,3.6,7,20.5,Coffee,None
+618,Vancouver,Office,Intermediate,Oura,7,4,29.1,Coffee,None
+619,Richmond,Retail,Morning,Apple Watch,5.1,6,26.3,Tea,None
+621,North Vancouver,Hospitality,Intermediate,Apple Watch,6.7,3,26.7,Tea,Melatonin
+622,Vancouver,Tech,Intermediate,Apple Watch,3.1,8,20.7,Energy Drink,Herbal
+623,Richmond,Retail,Intermediate,Oura,4.6,7,21.6,Coffee,None
+624,Burnaby,Student,Intermediate,Fitbit,2.7,10,29.2,None,None
+625,North Vancouver,Hospitality,Morning,Apple Watch,,1,33,Tea,None
+626,Delta,Student,Intermediate,Oura,4,9,27.2,Coffee,None
+627,Victoria,Tech,Intermediate,Garmin,3.2,4,21,Coffee,None
+628,Richmond,Healthcare,Evening,Android App,2.3,1,26.5,Coffee,Prescription
+629,Langley,Unemployed,Morning,Apple Watch,2,7,35.9,Energy Drink,Melatonin
+630,Surrey,Trades,Intermediate,Oura,0.3,2,25.5,Coffee,None
+631,Delta,Tech,Intermediate,Android App,2.6,2,31.6,Coffee,Herbal
+632,North Vancouver,Healthcare,Intermediate,Garmin,5.6,10,21.7,Tea,None
+634,Delta,Retail,Intermediate,Apple Watch,1.6,3,24.8,Energy Drink,None
+636,Delta,Unemployed,Intermediate,Oura,2,6,27.8,Tea,None
+637,North Vancouver,Tech,Evening,Oura,7.7,3,26.8,Tea,None
+638,Surrey,Healthcare,Intermediate,Fitbit,3.4,2,21.6,Coffee,Melatonin
+639,North Vancouver,Healthcare,Intermediate,Oura,5.1,1,21.4,Energy Drink,None
+640,Langley,Tech,Morning,Fitbit,5.7,1,29.4,Coffee,None
+641,Victoria,Trades,Intermediate,Oura,5.7,5,30.4,Coffee,None
+642,Victoria,Office,Intermediate,Manual Entry,1.8,5,31.8,None,Prescription
+644,Burnaby,Healthcare,Morning,Oura,4.1,1,33.1,Coffee,None
+645,North Vancouver,Student,Intermediate,Android App,1.6,4,25.6,Coffee,None
+646,Burnaby,Office,Intermediate,Apple Watch,8.9,3,23.6,Tea,None
+648,New Westminster,Healthcare,Intermediate,Manual Entry,1.6,6,31.1,Coffee,Prescription
+649,Victoria,Hospitality,Intermediate,Android App,2.6,10,28.2,Coffee,None
+651,Vancouver,Hospitality,Intermediate,Manual Entry,2.6,7,20.6,Tea,None
+652,New Westminster,Trades,Intermediate,Android App,1.8,10,20.3,Tea,Melatonin
+653,Victoria,Healthcare,Morning,Oura,6.9,2,27.2,Tea,None
+654,Langley,Office,Morning,Oura,8.9,3,24.2,Coffee,None
+655,Richmond,Hospitality,Intermediate,Manual Entry,3.6,8,24.9,Tea,None
+656,,Office,Evening,Manual Entry,2.1,4,29.8,Energy Drink,None
+657,Victoria,Hospitality,Morning,Garmin,0.5,9,28.4,Coffee,None
+658,Victoria,Hospitality,Intermediate,Fitbit,4.1,5,31,Coffee,None
+659,North Vancouver,Tech,Evening,Fitbit,3.9,3,16.3,Coffee,None
+660,Victoria,Trades,Evening,Apple Watch,3.3,9,26.1,Coffee,None
+661,,Unemployed,Intermediate,Fitbit,4.9,6,28.1,Coffee,None
+662,New Westminster,Tech,Intermediate,Apple Watch,5.2,9,18.1,Tea,Herbal
+663,Vancouver,Tech,Intermediate,Fitbit,5.1,5,,None,None
+664,Victoria,Hospitality,Evening,Manual Entry,3.9,2,21.2,Coffee,None
+665,New Westminster,Unemployed,Morning,Fitbit,2.5,7,25.1,Tea,None
+666,Victoria,Student,Evening,Oura,5.7,2,32.3,Coffee,None
+667,North Vancouver,Unemployed,Morning,Garmin,4.5,7,34.1,Coffee,None
+668,Vancouver,Hospitality,Evening,Apple Watch,6.1,5,21.3,Tea,None
+669,Vancouver,Office,Morning,Android App,5.9,8,27.4,Coffee,None
+670,Richmond,Trades,Morning,Manual Entry,1.9,9,27.5,None,None
+671,Delta,Hospitality,Morning,Android App,1.9,5,26.7,Coffee,Melatonin
+672,Burnaby,Office,Intermediate,Manual Entry,3.1,9,26.8,Coffee,Melatonin
+673,Langley,Healthcare,Intermediate,Oura,2.6,2,26.4,Coffee,Melatonin
+674,Surrey,Tech,Morning,Android App,5.9,2,32.6,Coffee,None
+675,Coquitlam,Tech,Intermediate,Fitbit,5.1,10,30,Energy Drink,None
+676,Surrey,Unemployed,Intermediate,Manual Entry,6.5,6,20.2,Tea,None
+677,Coquitlam,Student,Evening,Android App,5.2,5,28.6,Coffee,Melatonin
+678,Coquitlam,Trades,Evening,Apple Watch,4.9,2,29,Coffee,Prescription
+679,Vancouver,Unemployed,Intermediate,Garmin,6.7,3,,Tea,Prescription
+680,North Vancouver,Retail,Morning,Oura,5.3,7,30.1,Tea,None
+681,Delta,Office,Intermediate,Fitbit,4.6,9,,Coffee,Melatonin
+682,Victoria,Trades,Evening,Android App,7.2,10,25.9,Coffee,None
+684,Richmond,Trades,Morning,Apple Watch,4.7,5,25.5,Coffee,Melatonin
+685,Langley,Retail,Intermediate,Fitbit,4,5,16,Coffee,None
+686,Langley,Trades,Evening,Apple Watch,3,2,24.6,Coffee,None
+687,Victoria,Retail,Evening,Manual Entry,5.8,1,,Coffee,None
+688,Richmond,Healthcare,Intermediate,Apple Watch,6.7,5,19.7,Coffee,Herbal
+689,Langley,Retail,Intermediate,Oura,4.4,6,31.5,Coffee,None
+690,North Vancouver,Office,Intermediate,Android App,6.9,2,27.3,Coffee,None
+691,Vancouver,Retail,Evening,Fitbit,1,5,24.9,None,None
+692,Surrey,Unemployed,Morning,Android App,4.4,7,22.5,Tea,None
+693,New Westminster,Office,Morning,Apple Watch,4.4,9,26.3,Coffee,Prescription
+694,Burnaby,Trades,Intermediate,Android App,3.2,10,29.5,Coffee,None
+695,Coquitlam,Tech,Morning,Apple Watch,8.8,4,21.3,Coffee,None
+696,Delta,Retail,Intermediate,Fitbit,4.4,4,25,Energy Drink,Melatonin
+697,Burnaby,Tech,Intermediate,Android App,3.8,9,28.9,Tea,None
+698,Coquitlam,Retail,Evening,Android App,4.5,7,16.3,Coffee,None
+699,Surrey,Tech,Evening,Manual Entry,0.9,3,24.7,None,None
+700,North Vancouver,Retail,Intermediate,Android App,3.1,7,23.1,Energy Drink,None
+701,Surrey,Student,Evening,Garmin,6.3,2,24.4,Energy Drink,None
+702,Victoria,Hospitality,Intermediate,Apple Watch,3.4,5,22.7,Coffee,None
+703,Vancouver,Healthcare,Intermediate,Apple Watch,3,4,25.6,Coffee,None
+704,Victoria,Student,Morning,Oura,6.9,10,33.7,Tea,Melatonin
+705,Delta,Healthcare,Evening,Garmin,6.9,1,23.5,Coffee,Melatonin
+706,Langley,Healthcare,Evening,Garmin,5.4,9,26.3,Tea,Melatonin
+707,Langley,Student,Evening,Apple Watch,3.7,3,34,Tea,None
+708,Burnaby,Unemployed,Evening,Garmin,4.1,1,22.5,Coffee,None
+709,Victoria,Office,Evening,Apple Watch,3.1,7,33.2,Coffee,Herbal
+710,North Vancouver,Trades,Morning,Fitbit,2.7,7,25,Coffee,Melatonin
+711,Victoria,Healthcare,Evening,Fitbit,2.6,2,,Coffee,None
+712,Langley,Hospitality,Intermediate,Oura,3.4,1,28.4,Tea,None
+713,North Vancouver,Tech,Intermediate,Garmin,2.6,2,26.4,Tea,None
+714,Richmond,Hospitality,Intermediate,Fitbit,1.7,5,24.7,Coffee,None
+715,Burnaby,Office,Intermediate,Oura,4.9,2,22.2,Tea,None
+716,Burnaby,Hospitality,Intermediate,Fitbit,4.9,8,25.3,Coffee,None
+717,Richmond,Hospitality,Morning,Fitbit,7.6,1,29,Tea,Herbal
+718,Langley,Healthcare,Morning,Fitbit,3.3,8,24.9,Coffee,None
+719,North Vancouver,Retail,Intermediate,Garmin,5,9,23.6,Tea,None
+720,Coquitlam,Student,Evening,Manual Entry,5.1,8,23.9,Tea,None
+721,Surrey,Hospitality,Intermediate,Apple Watch,,10,29.5,Coffee,Melatonin
+722,North Vancouver,Unemployed,Intermediate,Apple Watch,5.8,10,30.5,Tea,Melatonin
+724,New Westminster,Healthcare,Intermediate,Apple Watch,5.9,1,22,Energy Drink,None
+725,Victoria,Retail,Intermediate,Garmin,5.1,4,22,Coffee,None
+727,Delta,Healthcare,Morning,Android App,4,8,26.7,Tea,None
+728,New Westminster,Student,Evening,Apple Watch,3.9,4,31.9,None,Melatonin
+729,Victoria,Retail,Morning,Oura,2,8,30.2,Energy Drink,None
+730,Coquitlam,Tech,Intermediate,Manual Entry,3,8,19.4,Coffee,Melatonin
+731,Victoria,Unemployed,Evening,Manual Entry,3.4,10,23.8,Tea,None
+732,Richmond,Unemployed,Intermediate,Oura,2.5,4,20.8,None,None
+733,Burnaby,Healthcare,Evening,Android App,5.3,4,23.8,Tea,None
+734,Coquitlam,Unemployed,Intermediate,Manual Entry,6.7,1,32.2,Coffee,None
+735,Burnaby,Retail,Evening,Android App,2.9,3,18.6,Coffee,None
+736,Burnaby,Tech,Intermediate,Apple Watch,5,3,17.7,Tea,None
+737,Langley,Retail,Evening,Fitbit,2.6,5,21.3,Coffee,Melatonin
+738,Delta,Unemployed,Intermediate,Fitbit,4,5,26.3,Coffee,None
+739,Surrey,Tech,Evening,Manual Entry,3.3,9,27.8,Coffee,Herbal
+740,Langley,Student,Evening,Oura,5.6,8,27,Tea,None
+742,Vancouver,Student,Intermediate,Apple Watch,3.3,8,30.3,Coffee,None
+743,Surrey,Healthcare,Evening,Garmin,6.3,1,17.1,Energy Drink,Prescription
+745,Delta,Retail,Intermediate,Apple Watch,4.1,5,30.3,Tea,Melatonin
+746,Richmond,Tech,Intermediate,Android App,3.3,8,23.6,None,None
+747,Delta,Healthcare,Evening,Oura,2.2,3,28.3,Energy Drink,None
+748,Langley,Retail,Intermediate,Manual Entry,5,5,19,Coffee,None
+749,Vancouver,Unemployed,Intermediate,Apple Watch,6.1,8,25,Tea,None
+750,Vancouver,Trades,Morning,Garmin,5,8,26.1,Coffee,None
+751,Victoria,Healthcare,Morning,Fitbit,8.5,9,30.2,None,None
+752,North Vancouver,Retail,Evening,Manual Entry,7.1,5,17.9,Coffee,None
+753,North Vancouver,Healthcare,Intermediate,Oura,3.9,4,25.1,Tea,None
+754,Coquitlam,Unemployed,Intermediate,Oura,3.9,4,20.1,Energy Drink,Prescription
+755,Coquitlam,Unemployed,Morning,Garmin,5.3,7,27.3,Coffee,Melatonin
+756,New Westminster,Retail,Intermediate,Apple Watch,3,5,28.5,Energy Drink,Melatonin
+757,North Vancouver,Healthcare,Evening,Manual Entry,6.6,5,30.8,Coffee,None
+758,Burnaby,Retail,Evening,Garmin,5.2,2,22.6,Coffee,None
+760,New Westminster,Office,Morning,Android App,5,5,29.2,Coffee,None
+761,New Westminster,Healthcare,Intermediate,Fitbit,5.7,3,31.1,Coffee,None
+762,Burnaby,Office,Intermediate,Apple Watch,7.6,6,17.6,Tea,None
+764,Richmond,Office,Intermediate,Android App,,9,27.8,None,None
+765,Delta,Student,Intermediate,Fitbit,4.3,8,29.3,Coffee,None
+767,New Westminster,Retail,Intermediate,Fitbit,7.2,5,23.8,Tea,None
+769,Burnaby,Student,Intermediate,Android App,6.2,10,19.6,Energy Drink,None
+770,Vancouver,Tech,Intermediate,Apple Watch,3.9,10,29.2,Tea,None
+771,North Vancouver,Healthcare,Intermediate,Apple Watch,4.5,5,19.6,Coffee,None
+772,Coquitlam,Trades,Intermediate,Oura,4.9,8,24.2,None,None
+773,Victoria,Hospitality,Evening,Apple Watch,5.2,4,24.8,Coffee,Herbal
+774,North Vancouver,Retail,Intermediate,Fitbit,2.1,9,28.2,Tea,None
+776,Victoria,Tech,Intermediate,Fitbit,1.7,4,22.2,Tea,Melatonin
+777,Surrey,Tech,Evening,Fitbit,2.9,3,21.9,Tea,Melatonin
+778,Coquitlam,Student,Evening,Fitbit,2.8,2,25.4,Coffee,None
+779,Burnaby,Office,Morning,Android App,3.3,9,29.5,Coffee,None
+780,North Vancouver,Retail,Intermediate,Apple Watch,5.6,3,35.3,Tea,None
+781,Burnaby,Unemployed,Intermediate,Fitbit,4.2,9,18.2,Coffee,None
+782,Coquitlam,Office,Intermediate,Fitbit,4.9,1,26.4,Coffee,None
+783,Richmond,Student,Morning,Garmin,2.3,6,20.1,Tea,Prescription
+784,Burnaby,Unemployed,Intermediate,Manual Entry,3.7,5,29.6,Tea,Herbal
+785,Vancouver,Unemployed,Intermediate,Garmin,5.6,5,20.8,Coffee,None
+786,North Vancouver,Office,Intermediate,Fitbit,5.6,2,22,Coffee,None
+787,Victoria,Healthcare,Evening,Apple Watch,3.2,1,22.3,None,None
+788,Burnaby,Tech,Intermediate,Garmin,4.8,4,24.7,Coffee,Melatonin
+789,Coquitlam,Office,Evening,Apple Watch,8.5,5,26.5,Coffee,None
+790,Surrey,Trades,Evening,Manual Entry,4.5,8,27.2,Coffee,None
+791,Langley,Healthcare,Evening,Android App,3.3,5,25,Coffee,Melatonin
+792,Coquitlam,Tech,Morning,Garmin,4.2,3,19,None,None
+793,Victoria,Trades,Evening,Manual Entry,4.7,3,28.3,Coffee,None
+794,Surrey,Healthcare,Morning,Apple Watch,4.2,7,24.8,Coffee,None
+796,Vancouver,Trades,Intermediate,Fitbit,4.4,5,30.2,Coffee,None
+798,North Vancouver,Hospitality,Evening,Manual Entry,1.9,10,21.8,Coffee,None
+799,New Westminster,Office,Intermediate,Manual Entry,2.8,5,17.8,Coffee,None
+800,Victoria,Office,Intermediate,Apple Watch,4.2,6,24.8,None,None
+801,Langley,Office,Intermediate,Oura,4.2,1,30.8,Tea,Prescription
+802,Langley,Unemployed,Evening,Apple Watch,3.5,2,25.7,Coffee,None
+803,New Westminster,Unemployed,Intermediate,Oura,4.2,9,24.1,Coffee,Prescription
+804,Richmond,Retail,Intermediate,Android App,4.6,4,21.1,Coffee,None
+805,,Office,Evening,Android App,6.1,5,32.9,Coffee,Melatonin
+806,Burnaby,Hospitality,Morning,Oura,4.3,6,,Tea,None
+807,Coquitlam,Healthcare,Morning,Android App,5.2,1,21.7,Coffee,Melatonin
+808,Richmond,Hospitality,Intermediate,Oura,3.5,6,27.6,Tea,None
+809,Vancouver,Trades,Evening,Android App,5.5,4,16.6,Energy Drink,None
+810,Surrey,Unemployed,Morning,Apple Watch,5.2,2,30.7,Coffee,None
+813,North Vancouver,Hospitality,Morning,Garmin,6.1,5,27.8,None,None
+814,Richmond,Office,Morning,Garmin,5.8,5,29,Coffee,Prescription
+815,Victoria,Tech,Evening,Oura,5.6,2,27.5,Coffee,Herbal
+816,Coquitlam,Trades,Morning,Fitbit,4.3,6,,Energy Drink,Melatonin
+817,Victoria,Trades,Intermediate,Apple Watch,4.9,8,20.2,Coffee,None
+818,New Westminster,Trades,Evening,Manual Entry,6.4,3,24.4,Tea,Melatonin
+819,Vancouver,Tech,Morning,Fitbit,,10,20.6,Tea,Melatonin
+820,Surrey,Trades,Intermediate,Oura,3.4,7,27.2,Coffee,None
+821,Delta,Tech,Intermediate,Oura,4.8,8,28.6,Energy Drink,None
+822,North Vancouver,Retail,Evening,Garmin,5.2,1,31.6,Coffee,None
+823,Richmond,Hospitality,Intermediate,Fitbit,3,8,26.7,Energy Drink,None
+824,North Vancouver,Unemployed,Intermediate,Fitbit,4.4,4,29.2,Coffee,None
+825,Victoria,Student,Morning,Apple Watch,4.3,8,23.7,Coffee,Melatonin
+827,Richmond,Unemployed,Intermediate,Fitbit,0.5,9,22.8,Coffee,None
+828,Vancouver,Student,Evening,Fitbit,4.1,3,27.1,Energy Drink,None
+829,Richmond,Retail,Morning,Fitbit,4.2,3,23.3,Coffee,None
+830,Victoria,Trades,Intermediate,Apple Watch,4.2,1,26.2,Energy Drink,Melatonin
+831,Delta,Tech,Evening,Manual Entry,7,7,20.2,Coffee,Herbal
+832,Langley,Tech,Morning,Oura,2.3,8,21,Coffee,Melatonin
+833,Victoria,Hospitality,Intermediate,Fitbit,3,5,27.9,Coffee,None
+834,Burnaby,Healthcare,Intermediate,Oura,0,2,29,Coffee,None
+835,Surrey,Unemployed,Intermediate,Fitbit,3.6,4,20.6,None,None
+836,Vancouver,Trades,Intermediate,Garmin,3.8,5,28,Coffee,None
+837,Vancouver,Office,Intermediate,Fitbit,3.6,10,22.6,Tea,None
+838,Langley,Healthcare,Morning,Fitbit,6.5,2,25.1,Tea,None
+839,Victoria,Retail,Intermediate,Fitbit,6,4,31.4,Coffee,None
+840,Burnaby,Tech,Intermediate,Garmin,4.6,7,28.6,Tea,None
+842,Delta,Hospitality,Intermediate,Garmin,3.8,3,28.6,Energy Drink,Melatonin
+843,North Vancouver,Office,Morning,Garmin,6.3,9,33.6,Tea,None
+844,Vancouver,Trades,Evening,Oura,4.5,10,21.8,Coffee,None
+845,Victoria,Unemployed,Morning,Android App,3,4,20.6,Tea,None
+846,Langley,Healthcare,Evening,Android App,1.4,8,21.8,Tea,None
+847,North Vancouver,Office,Intermediate,Oura,3.7,8,23.9,Coffee,None
+848,Delta,Unemployed,Evening,Oura,5.9,7,16,Tea,None
+849,Richmond,Healthcare,Morning,Garmin,8.6,2,24.1,Coffee,None
+850,Delta,Unemployed,Morning,Apple Watch,4.6,1,22.5,Tea,None
+851,Coquitlam,Unemployed,Intermediate,Garmin,3.1,4,28.5,None,None
+852,Victoria,Unemployed,Morning,Fitbit,2.4,2,26.6,None,Melatonin
+853,Vancouver,Retail,Morning,Manual Entry,5.5,3,22.3,Energy Drink,Melatonin
+854,Burnaby,Hospitality,Intermediate,Garmin,1.3,7,27.7,Tea,None
+855,Victoria,Unemployed,Evening,Android App,5.5,6,28.3,Tea,None
+856,Surrey,Trades,Morning,Manual Entry,6,3,21.5,Coffee,None
+857,Richmond,Student,Evening,Garmin,5.3,1,22.8,Coffee,None
+858,Delta,Trades,Evening,Manual Entry,4.1,3,16,Coffee,None
+859,Burnaby,Tech,Evening,Garmin,5.5,5,20.1,Coffee,None
+860,North Vancouver,Retail,Intermediate,Fitbit,4.8,8,21.7,None,None
+861,Surrey,Student,Intermediate,Fitbit,3.1,4,25.3,Energy Drink,Herbal
+862,Burnaby,Retail,Intermediate,Fitbit,7.8,3,20.7,Coffee,None
+863,Victoria,Office,Intermediate,Manual Entry,3.9,6,22.7,Coffee,Melatonin
+864,Burnaby,Retail,Evening,Garmin,5.9,1,19.5,Tea,None
+865,Vancouver,Retail,Morning,Apple Watch,0.1,3,25.8,Coffee,None
+866,New Westminster,Tech,Intermediate,Garmin,6.8,1,26.9,Energy Drink,Prescription
+867,Langley,Healthcare,Morning,Apple Watch,7.1,6,26.8,None,None
+868,Burnaby,Healthcare,Evening,Manual Entry,4.6,5,25.1,Coffee,None
+869,Delta,Tech,Intermediate,Manual Entry,5.5,6,18.1,Coffee,Herbal
+870,North Vancouver,Tech,Intermediate,Fitbit,5.5,7,22.2,Coffee,None
+871,Langley,Hospitality,Evening,Android App,3.3,4,23.2,Coffee,None
+873,Burnaby,Trades,Evening,Garmin,5.5,9,23.2,Coffee,None
+874,Victoria,Healthcare,Morning,Fitbit,3,10,25.3,Coffee,None
+875,New Westminster,Trades,Evening,Manual Entry,3.4,2,31.4,Coffee,None
+876,Langley,Retail,Evening,Fitbit,6.5,10,28.7,Coffee,None
+877,Richmond,Office,Morning,Apple Watch,6.3,2,20.6,Coffee,Melatonin
+878,Victoria,Healthcare,Evening,Fitbit,3.2,3,28.1,Tea,None
+879,,Office,Intermediate,Garmin,3.2,6,27.9,Coffee,None
+880,Burnaby,Retail,Intermediate,Oura,3.3,1,21.4,Energy Drink,None
+881,Victoria,Hospitality,Intermediate,Apple Watch,5.8,4,28.8,Coffee,None
+882,Delta,Unemployed,Intermediate,Fitbit,2.7,2,24.3,Coffee,Prescription
+883,Richmond,Healthcare,Morning,Fitbit,5.1,5,18.7,Coffee,None
+884,North Vancouver,Student,Morning,Manual Entry,5.8,9,27,Tea,None
+885,Richmond,Office,Morning,Android App,4.3,10,26,Coffee,Melatonin
+886,North Vancouver,Student,Intermediate,Manual Entry,6.3,3,24,Coffee,Melatonin
+887,Victoria,Hospitality,Intermediate,Oura,4,6,24.8,Coffee,Prescription
+888,Langley,Unemployed,Morning,Oura,4.1,5,21.8,None,None
+889,Surrey,Retail,Intermediate,Android App,2.7,5,27.7,Coffee,None
+890,Victoria,Office,Intermediate,Oura,6.3,7,24.8,Coffee,None
+891,Coquitlam,Student,Intermediate,Garmin,3.1,10,25.7,Energy Drink,None
+892,Delta,Unemployed,Evening,Apple Watch,5.1,5,26.6,Coffee,Melatonin
+893,Delta,Trades,Intermediate,Garmin,4.4,1,19.8,Coffee,None
+894,Coquitlam,Student,Evening,Fitbit,2.6,10,21,Energy Drink,None
+895,Coquitlam,Office,Morning,Apple Watch,3.4,10,16,Coffee,Prescription
+896,Coquitlam,Trades,Intermediate,Android App,7,4,27.5,Coffee,Herbal
+897,Langley,Tech,Evening,Manual Entry,4.9,6,19.5,Coffee,None
+898,Richmond,Unemployed,Evening,Fitbit,2.7,9,25.6,Coffee,Prescription
+899,Surrey,Trades,Intermediate,Fitbit,5,6,26.7,None,None
+900,Richmond,Tech,Intermediate,Fitbit,4.2,5,27.7,Tea,None
+901,Burnaby,Student,Intermediate,Android App,10.7,10,19.6,Tea,None
+902,Richmond,Student,Intermediate,Apple Watch,5,9,24.7,Coffee,Herbal
+904,Burnaby,Student,Evening,Apple Watch,3.8,6,32.5,Tea,Prescription
+905,Vancouver,Unemployed,Evening,Fitbit,7.1,2,32.7,Tea,None
+906,Delta,Retail,Intermediate,Manual Entry,1.2,5,29.4,Coffee,None
+907,Vancouver,Hospitality,Morning,Garmin,4.7,7,26.5,Energy Drink,None
+908,North Vancouver,Student,Intermediate,Android App,8.1,3,20.5,Tea,None
+909,Delta,Student,Morning,Android App,4.3,6,28.2,Tea,Melatonin
+910,Delta,Hospitality,Morning,Fitbit,1.4,7,24.3,Coffee,None
+911,Coquitlam,Student,Intermediate,Android App,3.8,1,27.5,Coffee,Melatonin
+912,Burnaby,Office,Intermediate,Oura,7.1,6,22.2,Tea,None
+913,Victoria,Retail,Morning,Oura,5.2,8,24.2,Tea,None
+914,Langley,Retail,Morning,Apple Watch,3,3,25.7,Coffee,None
+915,New Westminster,Office,Morning,Manual Entry,3.3,6,26.1,Coffee,Herbal
+916,Vancouver,Healthcare,Evening,Manual Entry,3.5,8,27.2,Energy Drink,None
+917,Vancouver,Tech,Intermediate,Garmin,5.2,1,,Coffee,None
+918,Richmond,Healthcare,Morning,Fitbit,6.9,7,19,Coffee,None
+919,Burnaby,Healthcare,Morning,Manual Entry,6.4,3,32.3,Tea,Prescription
+920,Langley,Student,Intermediate,Manual Entry,5.3,4,36.2,Coffee,Melatonin
+921,Surrey,Healthcare,Intermediate,Oura,2.1,7,27,Coffee,Melatonin
+922,,Hospitality,Intermediate,Oura,2.1,1,19,Coffee,None
+923,Victoria,Tech,Intermediate,Apple Watch,5.5,1,21.5,None,Melatonin
+924,Langley,Unemployed,Evening,Fitbit,2.1,5,27.3,Coffee,None
+925,Surrey,Office,Intermediate,Manual Entry,4.1,10,31,Tea,None
+926,Richmond,Student,Intermediate,Garmin,5,1,19.5,None,None
+927,North Vancouver,Retail,Morning,Apple Watch,2.5,8,24.4,Tea,None
+928,New Westminster,Office,Evening,Android App,2.7,1,25.9,Coffee,Herbal
+929,Victoria,Retail,Evening,Fitbit,4.3,5,28.9,Coffee,Herbal
+930,Langley,Unemployed,Intermediate,Fitbit,5.4,5,23.5,Coffee,None
+931,Victoria,Trades,Intermediate,Apple Watch,6.4,5,18,Tea,None
+932,Vancouver,Retail,Morning,Garmin,5.6,1,27.8,None,Melatonin
+933,Surrey,Tech,Evening,Garmin,4.6,8,30.1,Tea,Herbal
+934,North Vancouver,Office,Intermediate,Apple Watch,3.2,3,24.6,Coffee,Melatonin
+935,Vancouver,Unemployed,Morning,Garmin,2.6,8,26.8,Coffee,None
+936,Richmond,Office,Intermediate,Garmin,3.6,7,22.9,Energy Drink,None
+937,Burnaby,Hospitality,Intermediate,Oura,5.2,6,21.2,Coffee,Melatonin
+938,Victoria,Tech,Evening,Oura,5.1,4,29.6,Energy Drink,Melatonin
+939,Vancouver,Office,Intermediate,Manual Entry,0.7,7,26.7,Coffee,Melatonin
+940,Burnaby,Tech,Intermediate,Android App,3.1,10,27.2,Tea,None
+941,Burnaby,Office,Intermediate,Apple Watch,6.7,10,31.8,Energy Drink,None
+942,Burnaby,Retail,Intermediate,Manual Entry,4.6,10,20.3,Coffee,None
+943,North Vancouver,Unemployed,Intermediate,Oura,1.9,3,22.5,Coffee,Melatonin
+944,Richmond,Unemployed,Morning,Apple Watch,8.7,6,25.7,Energy Drink,None
+945,Victoria,Hospitality,Evening,Garmin,4.4,4,22.5,Coffee,None
+946,Surrey,Healthcare,Intermediate,Android App,5.2,10,28.5,Coffee,Melatonin
+947,North Vancouver,Retail,Intermediate,Android App,5.2,10,24.2,Coffee,Melatonin
+948,New Westminster,Trades,Morning,Garmin,3.8,9,20.5,Coffee,None
+949,New Westminster,Unemployed,Morning,Fitbit,3.2,2,25.3,Tea,Melatonin
+950,Delta,Healthcare,Intermediate,Apple Watch,8.3,4,25.8,Coffee,None
+951,Surrey,Hospitality,Morning,Fitbit,6.3,8,29.2,Coffee,None
+952,North Vancouver,Trades,Morning,Android App,6,8,26.8,Energy Drink,None
+953,Langley,Tech,Evening,Oura,5.5,4,27.1,Coffee,None
+954,Langley,Office,Intermediate,Garmin,2.7,2,26.4,Coffee,Prescription
+955,New Westminster,Tech,Intermediate,Android App,6.8,2,24.2,Tea,Prescription
+956,New Westminster,Student,Intermediate,Android App,3,7,21.8,Energy Drink,None
+957,Langley,Student,Evening,Android App,5,5,26.3,Tea,Melatonin
+958,New Westminster,Trades,Intermediate,Fitbit,1.5,5,23.5,Energy Drink,None
+959,Victoria,Healthcare,Evening,Oura,0.8,9,32.6,Coffee,None
+960,Burnaby,Tech,Evening,Manual Entry,5.1,1,31,Coffee,Melatonin
+961,Richmond,Trades,Intermediate,Android App,3,8,27.8,None,None
+962,Burnaby,Student,Intermediate,Apple Watch,0.9,3,26.7,Energy Drink,None
+963,Vancouver,Trades,Intermediate,Garmin,5.5,10,24.6,Tea,None
+964,,Healthcare,Intermediate,Manual Entry,8.3,10,19.3,Coffee,None
+965,Surrey,Retail,Intermediate,Fitbit,7,6,24,Coffee,Prescription
+966,Coquitlam,Tech,Intermediate,Oura,4,4,25.5,Coffee,None
+967,Coquitlam,Office,Intermediate,Fitbit,4.5,3,26,Energy Drink,None
+968,New Westminster,Retail,Morning,Manual Entry,6.1,2,27.1,Energy Drink,None
+969,Victoria,Tech,Intermediate,Fitbit,6.5,10,29.1,Coffee,Prescription
+970,Langley,Hospitality,Morning,Fitbit,3.9,2,21.9,Coffee,None
+971,Richmond,Retail,Intermediate,Apple Watch,4.6,5,21.9,Coffee,None
+973,Richmond,Hospitality,Intermediate,Apple Watch,5,5,31.5,Coffee,None
+974,Delta,Office,Evening,Garmin,5.5,7,28.5,Tea,None
+975,Burnaby,Tech,Morning,Apple Watch,4.3,9,23.2,Tea,None
+976,North Vancouver,Student,Intermediate,Garmin,4.3,6,24.5,Coffee,None
+977,Coquitlam,Student,Intermediate,Oura,7,8,24.5,Tea,None
+978,Burnaby,Hospitality,Morning,Oura,6.7,6,25.1,None,None
+979,New Westminster,Healthcare,Morning,Manual Entry,5.4,5,27.1,Coffee,Melatonin
+980,Richmond,Retail,Morning,Garmin,7.6,2,36.4,Coffee,None
+981,Burnaby,Retail,Morning,Oura,3.8,3,25.9,Coffee,None
+982,New Westminster,Tech,Intermediate,Android App,7.4,5,28,Coffee,None
+983,Burnaby,Office,Intermediate,Apple Watch,5.5,1,17.4,Coffee,None
+984,New Westminster,Office,Intermediate,Android App,10.4,4,22.8,Tea,Melatonin
+985,Burnaby,Student,Morning,Manual Entry,2.4,5,30.5,Coffee,Melatonin
+986,Coquitlam,Hospitality,Morning,Apple Watch,3.3,5,26.8,Coffee,Melatonin
+987,Langley,Office,Morning,Apple Watch,5.3,9,16,Energy Drink,None
+988,Surrey,Retail,Intermediate,Garmin,5.2,10,28,Coffee,None
+989,Delta,Healthcare,Intermediate,Apple Watch,8,8,33.6,Tea,None
+990,Delta,Office,Intermediate,Oura,3.3,1,16,Tea,Herbal
+991,Victoria,Healthcare,Morning,Manual Entry,6.1,5,31.8,Energy Drink,None
+992,Burnaby,Student,Morning,Oura,6.6,8,16,Tea,Prescription
+993,Delta,Office,Evening,Fitbit,5.8,6,29.2,Energy Drink,None
+994,Victoria,Office,Morning,Apple Watch,2.8,5,25,Tea,None
+995,Delta,Hospitality,Morning,Android App,7,5,16,Coffee,Melatonin
+996,Burnaby,Retail,Morning,Apple Watch,6.7,5,27,Coffee,None
+997,Langley,Unemployed,Evening,Oura,5.6,6,30.2,Coffee,None
+999,Burnaby,Healthcare,Intermediate,Android App,4.9,2,26.6,Coffee,None
+1000,North Vancouver,Office,Intermediate,Apple Watch,4.9,6,27.6,Coffee,Herbal
