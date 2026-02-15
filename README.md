@@ -38,7 +38,7 @@ The analysis focuses on indentifying trends in sleep duration and efficiency and
 
 ## Repository Rename
 
-This repository was originall named "BABY4005BProject and was renamed to better reflect the scope of the analysis.
+This repository was originally named "BABI4005BProject and was renamed to better reflect the scope of the analysis.
 
 ## AI Declaration
 
